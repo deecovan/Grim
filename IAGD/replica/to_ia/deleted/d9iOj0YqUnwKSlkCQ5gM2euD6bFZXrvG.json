@@ -1,0 +1,211 @@
+{
+    "917559": {
+        "playerItemId": "917559",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar022_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003b_ch_att_spi_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1561815780",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gугрожающий ^sпограничный ^Wколонтарь ^yсознания",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "316 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+56 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+102 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "917560": {
+        "playerItemId": "917560",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a06_hands02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad003a_res_cold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1086870987",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yукрывающие ^sтяжёлые ^Wрукавицы ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наручи",
+                "type": "64"
+            },
+            {
+                "text": "308 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "29% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "917561": {
+        "playerItemId": "917561",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a08_axe002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn006_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035c_off_dmg%bleed_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "151641433",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкровожадный ^sразбойничий ^Wинтрепель ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "42-94 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "33 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+99% ^Rурона кровотечением^E ^E с ^H+44% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "3% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 324 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

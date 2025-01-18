@@ -1,0 +1,160 @@
+{
+    "360536": {
+        "playerItemId": "360536",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/c002_focus.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "804605424",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bсвод разрушительных повелений",
+                "type": "5"
+            },
+            {
+                "text": "Эпические тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+39% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-19% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+1 к умениям мастерства Мистик",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 29 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 317 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360537": {
+        "playerItemId": "360537",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/c001_waist.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "356212711",
+            "materiaRecord": "records\/items\/materia\/compa_bristlyfur.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bстабилизатор Олденара",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пояс",
+                "type": "64"
+            },
+            {
+                "text": "21 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "51% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Боевая подготовка (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Кара (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Щетинистый мех",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+90 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Eзапаса сил",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 139 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

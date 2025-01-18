@@ -1,0 +1,451 @@
+{
+    "360493": {
+        "playerItemId": "360493",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a03_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa017a_miniondmg_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh004_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "999199205",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпокоряющий ^Wрунный архив ^gоракула",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+32% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+98 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-16% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "-10% ^Eзатрат энергии",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+30% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 25 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 262 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360494": {
+        "playerItemId": "360494",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a07_gun1h003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn005_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1780089397",
+            "materiaRecord": "records\/items\/materia\/compa_hellbaneammo.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gварварский ^sстальной ^Wсемиствольник ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "14-78 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.62 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "14 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Заряды экзорцизма",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-9 ^Zурона молнией^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Zурона молнией^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Zурона электрошоком^E",
+                "type": "31"
+            },
+            {
+                "text": "+10% ^Eдлительность оглушения",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Электрифицированное оружие (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Зарядите свои атаки силой молнии.",
+                "type": "38"
+            },
+            {
+                "text": "^oУсиления активируются автоматически.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "150 ^Eэнергии занято",
+                "type": "25"
+            },
+            {
+                "text": "23-68 ^Zурона молнией^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Zурона молнией^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Zурона электрошоком^E",
+                "type": "25"
+            },
+            {
+                "text": "12% ^Eшанс на ^H^Eоглушение ^Eна ^H0.8 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "24"
+            },
+            {
+                "text": "4-12 ^Zурона молнией^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Zурона молнией^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Zурона электрошоком^E",
+                "type": "25"
+            },
+            {
+                "text": "8% ^Eшанс на ^H^Eоглушение ^Eна ^H0.8 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 247 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "360495": {
+        "playerItemId": "360495",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn015_ranged1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "385220033",
+            "materiaRecord": "records\/items\/materia\/compa_flintcorebolts.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозовой ^sразбойничий ^Wревольвер ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "29-46 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-13 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Цепная молния (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага молнию, которая последовательно поразит нескольких врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "^H75% ^Eшанс поразить до ^H3 ^Eцелей",
+                "type": "18"
+            },
+            {
+                "text": "293-821 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Кремнёвые заряды",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-6 ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "15 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Oурона горением^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Великая вспышка (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Запустите шар выжигающего пламени в вашу цель.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "32 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "2.5 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "40% ^Eурона основным оружием (^H303 - 398^E)",
+                "type": "25"
+            },
+            {
+                "text": "685-1215 ^Oурона огнём^E",
+                "type": "25"
+            },
+            {
+                "text": "2079 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": "15% ^Eшанс на ^H^Eоглушение ^Eна ^H0.5 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 274 Искусность [^y- 9% от ^r301]",
+                "type": "19"
+            }
+        ]
+    }
+}

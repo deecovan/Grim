@@ -1,0 +1,291 @@
+{
+    "1900548": {
+        "playerItemId": "1900548",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a08_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar070_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1082799984",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^sкольчужные ^Wрукавицы ^gкаменных кулаков",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "486 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+338 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+35 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 52 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 244 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1900549": {
+        "playerItemId": "1900549",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a09_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar002_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1739212983",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнеистовый ^sимперский ^Wкафтан ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "595 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+28% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+31% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+44 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+5.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 290 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 442 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1900550": {
+        "playerItemId": "1900550",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b015e_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh023_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1426422798",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Xнебесный жезл гроблов ^gритуалов",
+                "type": "4"
+            },
+            {
+                "text": "\"Древняя пословица гроблов: две сушёные головы лучше одной\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+76% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+85% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H65%",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "-15% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Электрототем (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Штормовой обряд (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Печать инквизитора (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "-1.5 сек. перезарядка умения к умению Электрототем (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+1 максимум призванных к умению Электрототем (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Знак стихий (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Создаёт тайный знак на земле, пронизывающий округу разрушительной силой.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "6 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "842 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 70",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 604",
+                "type": "19"
+            }
+        ]
+    }
+}

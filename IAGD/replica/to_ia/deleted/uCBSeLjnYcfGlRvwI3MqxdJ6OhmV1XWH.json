@@ -1,0 +1,144 @@
+{
+    "622592": {
+        "playerItemId": "622592",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a03_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar006_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "736397260",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sмеховые ^Wбармы ^Gгнева Олерона",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "65 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Боевой раж (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 84 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "622593": {
+        "playerItemId": "622593",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a03_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a037b_def_reflectpierce_03_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1197804240",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованные ^sклёпаные ^Wбриджи ^yшипов",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "92 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+11% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "20 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 120 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

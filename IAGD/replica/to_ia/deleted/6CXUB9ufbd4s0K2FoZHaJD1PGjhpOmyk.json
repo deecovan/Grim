@@ -1,0 +1,271 @@
+{
+    "1835060": {
+        "playerItemId": "1835060",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a08_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar014_arje_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "685568771",
+            "materiaRecord": "records\/items\/materia\/compa_mutatedscales.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивные ^sимперские ^Wрейтузы ^gдрангола",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "662 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+34 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление здоровья на ^H16%",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H4%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Чешуя мутанта",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+180 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 49 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 415 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835061": {
+        "playerItemId": "1835061",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a006_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar039_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1406456956",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wимперский жетон ^gметели",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+33% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Холод ночи (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ледяной шип (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага шип из цельного льда, пронзая его насквозь.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "50% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "1604 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 65",
+                "type": "19"
+            }
+        ]
+    },
+    "1835062": {
+        "playerItemId": "1835062",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a09_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar007_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_07.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "754794172",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпагубный ^Wимперский пояс ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "55 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+28% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+56 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 421 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

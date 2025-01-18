@@ -1,0 +1,89 @@
+{
+    "2326546": {
+        "playerItemId": "2326546",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/b013d_blunt.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_07.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028c_off_dmg%phys_05_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2092729233",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^Xдубина мутанта ^yразгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "44-182 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.72 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "22-32 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "120 ^Kвнутренних травм^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+154% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+230% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Силовая волна (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Раскалывающая сила (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "-0.5 ^Eсек. ^Eперезарядка умения ^Eк умению ^ZСиловая волна (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eм дальность ^Eк умению ^ZСиловая волна (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 70 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 459 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

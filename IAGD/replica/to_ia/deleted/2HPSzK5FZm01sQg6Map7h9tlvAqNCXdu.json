@@ -1,0 +1,271 @@
+{
+    "589845": {
+        "playerItemId": "589845",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/b005b_necklace.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005b_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014b_ch_speedattack_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1359510055",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучее ^Lсердце тихохода ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H8%",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Закалка (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "-0.3 сек. перезарядка умения к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "179 физического урона к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "41 физического урона к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+8% навыка атаки к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 18 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 95 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "589846": {
+        "playerItemId": "589846",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a03_head002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005a_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar002_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "389020076",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучий ^sпотрёпанный ^Wшлем ^Gстены Менгира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "76 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+123 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H5%",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 127 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "589847": {
+        "playerItemId": "589847",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a02_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh012_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1755828122",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Wзапретный том ^gотвращения",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+38% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.5 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-17% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Буря Каллидора (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Мистический взрыв (30% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Магическая энергия выплёскивается из вас, нанося урон всем ближайшим врагам.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H39 - 58^E)",
+                "type": "18"
+            },
+            {
+                "text": "170 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "150-281 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 174 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

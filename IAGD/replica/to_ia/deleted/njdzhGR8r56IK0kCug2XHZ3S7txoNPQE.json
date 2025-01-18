@@ -1,0 +1,196 @@
+{
+    "589855": {
+        "playerItemId": "589855",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/c003_focus.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1891943639",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "(S) ^Bтом Майвен",
+                "type": "5"
+            },
+            {
+                "text": "Эпические тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+39% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+75 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "-17% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Внутренняя концентрация (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Святилище Майвен",
+                "type": "20"
+            },
+            {
+                "text": "\"Регалии, чествующие легендарного мистика Майвен\"",
+                "type": "21"
+            },
+            {
+                "text": "(S) ^Bкапюшон Майвен",
+                "type": "22"
+            },
+            {
+                "text": "(S) ^Bтом Майвен",
+                "type": "22"
+            },
+            {
+                "text": "(S) ^Bлинза Майвен",
+                "type": "22"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "(2) Набор",
+                "type": "22"
+            },
+            {
+                "text": "+50 навыка защиты",
+                "type": "26"
+            },
+            {
+                "text": "(3) Набор",
+                "type": "22"
+            },
+            {
+                "text": "+1 к умениям мастерства Мистик",
+                "type": "26"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 271 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "589856": {
+        "playerItemId": "589856",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a05_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn008_melee2h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035d_off_dmg%bleed_01b_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2109005489",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gдемоническая ^sпотёртая ^Wкоса ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "60-193 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-15 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+52% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "28% конверсия: ^E^Kфизический урон^E в ^Pурон хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 236 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

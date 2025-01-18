@@ -1,0 +1,279 @@
+{
+    "1900562": {
+        "playerItemId": "1900562",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a03_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar026_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1471063215",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкая ^sварварская ^Wдиадема ^gзакалённой стали",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "51 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+61 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.8 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо стали (Ночной клинок) (20% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "В мгновение ока сотни призрачных клинков окружают вас, с бешеной скоростью вырезая приблизившихся врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "3.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H446 - 643^E)",
+                "type": "18"
+            },
+            {
+                "text": "382 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eоглушение ^Eна ^H1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 56 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 115 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1900563": {
+        "playerItemId": "1900563",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a01_dagger003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn103_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031c_off_dmg%lightning_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "16161974",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрунический ^Wжертвенный нож ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "13-25 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "18% конверсия: ^E^Kфизический урон^E в ^Yстихийный урон^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Пламя Игнаффара (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 74 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 93 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1900564": {
+        "playerItemId": "1900564",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a03_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1290009682",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованный ^sсегментарный ^Wфренч ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "77 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 130 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

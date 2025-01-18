@@ -1,0 +1,227 @@
+{
+    "360456": {
+        "playerItemId": "360456",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a05_feet01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar016_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1543012713",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаиндевелые ^sсегментарные ^Wботфорты ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "171 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eшанс на:^H",
+                "type": "18"
+            },
+            {
+                "text": "     31% ^Eответного снижения скорости атаки ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "     22% ^Eответного снижения скорости бега ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 136 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360457": {
+        "playerItemId": "360457",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/c103_hands.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2093382267",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bкраги пылающих рун",
+                "type": "5"
+            },
+            {
+                "text": "Эпические наручи",
+                "type": "64"
+            },
+            {
+                "text": "181 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eк умению ^TЛеденящие заряды (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Стихийное пробуждение (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 128 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360458": {
+        "playerItemId": "360458",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a04_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh104_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035a_off_dmg%bleed_03_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "419749329",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gштормовой ^Wгримуар ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3.5 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-12% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TШкатулка бури Элголота (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 335 Дух [^y- 9% от ^r368]",
+                "type": "19"
+            }
+        ]
+    }
+}

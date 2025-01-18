@@ -1,0 +1,295 @@
+{
+    "688129": {
+        "playerItemId": "688129",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a07_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao008b_lifeleech_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn017_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1010558743",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yвампирский ^sстальной ^Wкостерез ^gнапалма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "30-61 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5-6 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TПламя Игнаффара (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 247 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "688130": {
+        "playerItemId": "688130",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a07_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao008b_lifeleech_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn014_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1977091194",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yвампирский ^sстальной ^Wкарабин ^gсвирепости",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "52-210 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-16 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+35 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 267 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "688131": {
+        "playerItemId": "688131",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/endlessdungeon\/scriptentities\/portal_s01.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1483713374",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "Абсолютно нормальный щит",
+                "type": "6"
+            },
+            {
+                "text": "\"Левша поймёт\"",
+                "type": "16"
+            },
+            {
+                "text": "Легендарная одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "80-106 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.82 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "6-10 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+88% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+91% ^Kурона внутренними травмами^E ^E с ^H+45% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Eшанс блока щитом",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eк умению ^LОборона (?)",
+                "type": "18"
+            },
+            {
+                "text": "+1 ^Xк умениям мастерства Хранитель клятв^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Встречный удар (20% шанс при блокировании)",
+                "type": "35"
+            },
+            {
+                "text": "Спровоцируйте ближайших врагов ударной волной вашего щита. ^oТребуется щит.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.6 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "3.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eурона основным оружием (^H52 - 115^E)",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Eответного урона добавляется к атаке (^H5 - 5^E)",
+                "type": "18"
+            },
+            {
+                "text": "662-1079 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eдополнительная угроза",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eобщего замедления ^Eна ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 369 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

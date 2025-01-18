@@ -1,0 +1,243 @@
+{
+    "131086": {
+        "playerItemId": "131086",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a03_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar001_to.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "4082999",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусный ^sсегментарный ^Wфренч ^gтайного знания",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "77 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-9% ^Eтребований предметов",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 130 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131087": {
+        "playerItemId": "131087",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a01_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1216611191",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sвойлочные ^Wботинки ^yобороны",
+                "type": "3"
+            },
+            {
+                "text": "Магическая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "25 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131088": {
+        "playerItemId": "131088",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a03_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn012_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040c_off_dmg%pierce_01b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2071966302",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gразрядная ^sржавая ^Wпистоль ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "16-25 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.70 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-9 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела молнии (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Чистая молния ударяет в вашу цель.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "66-350 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "136 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eоглушение ^Eна ^H0.5 - 1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 114 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

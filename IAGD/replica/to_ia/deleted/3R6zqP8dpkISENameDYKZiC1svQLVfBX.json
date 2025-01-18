@@ -1,0 +1,69 @@
+{
+    "589864": {
+        "playerItemId": "589864",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a002_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar104_ar_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014b_ch_speedattack_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "956164324",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gштормовое ^Wзолотое кольцо ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+6 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 78 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

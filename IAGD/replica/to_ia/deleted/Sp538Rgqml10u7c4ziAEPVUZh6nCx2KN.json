@@ -1,0 +1,168 @@
+{
+    "360635": {
+        "playerItemId": "360635",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar026_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003a_ch_att_spi_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "992001109",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gлиходейская ^Wлента ^yсознания",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-2 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+30 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "360636": {
+        "playerItemId": "360636",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad008b_res_piercelightning_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar033_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2074403265",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемая ^Wлента ^gвыжженной земли",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "21 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вихрь расплаты (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Огненный шар (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите огненный шар в ближайших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "237-403 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "50% ^Eшанс на ^H^Eоглушение ^Eна ^H1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    }
+}

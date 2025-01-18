@@ -1,0 +1,168 @@
+{
+    "131091": {
+        "playerItemId": "131091",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a05_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn008_melee2h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1687420662",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gдемоническая ^sжелезная ^Wбомбарда ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "21-170 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-18 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "44% конверсия: ^E^Kфизический урон^E в ^Pурон хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 205 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "229385": {
+        "playerItemId": "229385",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/b001b_shieldb.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a085a_def_shieldrecovery_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1787900429",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Lбастион Коменданта ^yбаррикады",
+                "type": "4"
+            },
+            {
+                "text": "\"Выкован из закалённой стали и безжалостной ненависти\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "30% шанс блокировать ^W405 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.65 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "-8% ^Eвремени подготовки блока",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Kсопротивления физическому урону^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Удар врасплох (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "-0.5 сек. перезарядка умения к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 32",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 400 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

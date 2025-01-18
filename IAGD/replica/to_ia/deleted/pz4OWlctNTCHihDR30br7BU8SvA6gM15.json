@@ -1,0 +1,132 @@
+{
+    "458779": {
+        "playerItemId": "458779",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a05_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar011_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020b_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1701075558",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gманиакальное ^sчешуйчатое ^Wнарукавье ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "171 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+53 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 136 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "458780": {
+        "playerItemId": "458780",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a05_feet01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar032_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018a_ch_oa_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "486760172",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gдемонические ^sсегментарные ^Wботфорты ^yатаки",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "171 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+21% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+58 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 136 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

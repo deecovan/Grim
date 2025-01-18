@@ -1,0 +1,85 @@
+{
+    "1966097": {
+        "playerItemId": "1966097",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a006_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa007b_lifemod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar016_je_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1187190703",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yживительный ^Wимперский жетон ^gнеукротимости",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+342 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+56 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Призыв фамильяра (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+35% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+9% ^Fздоровья^E",
+                "type": "69"
+            },
+            {
+                "text": "5% ^Kсопротивления физическому урону^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 65",
+                "type": "19"
+            }
+        ]
+    }
+}

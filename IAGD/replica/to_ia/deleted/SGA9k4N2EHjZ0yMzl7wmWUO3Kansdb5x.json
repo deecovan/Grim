@@ -1,0 +1,291 @@
+{
+    "1572907": {
+        "playerItemId": "1572907",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a08_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar032_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1039461140",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^sпровинциальный ^Wпанцирь ^gпроницательности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "512 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Озарение (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Введите себя в состояние транса, позволяя тёмным силам течь через вашу плоть.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 53",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 366 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1572908": {
+        "playerItemId": "1572908",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/b201b_shoulder.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a002b_ch_att_phy_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1022243522",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкие ^Xсполдеры Избранных ^yатлетизма",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "271 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Oурона горением^E ^E с ^H+58% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Cурона обморожением^E ^E с ^H+63% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Zурона электрошоком^E ^E с ^H+63% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "31% конверсия: ^E^Rпроникающий урон^E в ^Yстихийный урон^E",
+                "type": "18"
+            },
+            {
+                "text": "+62 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Кластерная бомба (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Воспламенение (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+3 ^Eк умению Круговой удар (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1572909": {
+        "playerItemId": "1572909",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar016_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a029b_off_dmg%cold_05_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1502215139",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаиндевелый ^Wтопазовый кулон ^yхлада",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+62% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+50% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eшанс на:^H",
+                "type": "18"
+            },
+            {
+                "text": "     25% ^Eответного снижения скорости атаки ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "     36% ^Eответного снижения скорости бега ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 48 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 214 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

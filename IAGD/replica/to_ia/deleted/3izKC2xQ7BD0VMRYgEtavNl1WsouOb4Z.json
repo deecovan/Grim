@@ -1,0 +1,187 @@
+{
+    "131104": {
+        "playerItemId": "131104",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a001_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "986649278",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховное ^Wмедное кольцо",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "131105": {
+        "playerItemId": "131105",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a02_focus02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh102_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a033a_off_dmg%vitality_01_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "579774281",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gжёлчная ^Wзловещая кукла ^yтлена",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+34% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H46%",
+                "type": "18"
+            },
+            {
+                "text": "-18% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Ненасытная земля (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 174 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "131106": {
+        "playerItemId": "131106",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a04_hands02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "627522546",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sзалатанные ^Wрукавицы ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наручи",
+                "type": "64"
+            },
+            {
+                "text": "140 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "42% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 196 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

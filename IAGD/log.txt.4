@@ -1,0 +1,202 @@
+2025-01-12 21:17:12,205 [Main] INFO [IAGrim.Program]: Starting IA:GD..
+2025-01-12 21:17:12,229 [Main] INFO [IAGrim.Program]: Starting exception monitor for bug reports..
+2025-01-12 21:17:12,230 [Main] INFO [IAGrim.StartupService]: Running version 1.4.9063.13827 from 24/10/2024
+2025-01-12 21:17:12,838 [Main] INFO [IAGrim.Program]: Calling run..
+2025-01-12 21:17:12,850 [Main] INFO [IAGrim.Program]: Visual styles enabled..
+2025-01-12 21:17:13,154 [SQL] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 6
+2025-01-12 21:17:14,614 [SQL] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
+index idx_replicaitem_playeritemid already exists
+   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
+2025-01-12 21:17:14,652 [SQL] INFO [SessionFactory]: Database connection established.
+2025-01-12 21:17:22,083 [Main] INFO [IAGrim.StartupService]: IA is configured to loot from the last stash page
+2025-01-12 21:17:22,083 [Main] INFO [IAGrim.StartupService]: IA is configured to deposit to the second-to-last stash page
+2025-01-12 21:17:22,083 [Main] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 1
+2025-01-12 21:17:22,217 [Main] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
+index idx_replicaitem_playeritemid already exists
+   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
+2025-01-12 21:17:22,218 [Main] INFO [SessionFactory]: Database connection established.
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: There are 1702 items stored in the database.
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: Transfer to any mod is disabled
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: Experimental updates is disabled
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: Running as administrator
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: Running in regular mode, stash files ignored
+2025-01-12 21:17:22,225 [Main] INFO [IAGrim.StartupService]: There are items stored for the following mods:
+2025-01-12 21:17:22,334 [Main] INFO [IAGrim.StartupService]: Mod: "", HC: False
+2025-01-12 21:17:22,334 [Main] INFO [IAGrim.StartupService]: The path to Grim Dawn is "c:\games\grim dawn"
+2025-01-12 21:17:22,334 [Main] INFO [IAGrim.StartupService]: Using IA on multiple PCs: False
+2025-01-12 21:17:22,334 [Main] INFO [IAGrim.StartupService]: Logged into online backups: True
+2025-01-12 21:17:22,334 [Main] INFO [IAGrim.StartupService]: Opted out of online backups: False
+2025-01-12 21:17:22,381 [Main] INFO [IAGrim.StartupService]: The Grim Dawn database has been parsed
+2025-01-12 21:17:22,381 [Main] INFO [IAGrim.StartupService]: Startup data dump complete
+2025-01-12 21:17:23,121 [5] INFO [EvilsoftCommons.Exceptions.ExceptionReporter]: Sent anonymous usage statistics to developer.
+2025-01-12 21:17:23,176 [Main] INFO [IAGrim.Program]: Checking for database updates..
+2025-01-12 21:17:23,325 [Main] INFO [IAGrim.Program]: Running the main application..
+2025-01-12 21:17:23,458 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Creating Chromium instance..
+2025-01-12 21:17:24,487 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Chromium created..
+2025-01-12 21:17:24,497 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-12 21:17:24,789 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-12 21:17:25,596 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
+2025-01-12 21:17:25,943 [BuddyBackground] INFO [IAGrim.BuddyShare.BuddyItemsService]: Fetching own buddy ID from cloud..
+2025-01-12 21:17:26,662 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
+2025-01-12 21:17:26,805 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
+2025-01-12 21:17:27,203 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
+2025-01-12 21:17:27,260 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
+2025-01-12 21:17:27,346 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
+2025-01-12 21:17:27,617 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
+2025-01-12 21:17:27,788 [Main] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
+  Access-Control-Allow-Origin: http://iagd.evilsoft.net
+  Vary: Accept-Encoding
+  Date: Sun, 12 Jan 2025 19:17:27 GMT
+  Content-Length: 170
+  Content-Type: application/json; charset=utf-8
+} verifying authentication token
+2025-01-12 21:17:27,804 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-12 21:17:27,806 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-12 21:17:27,859 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing
+2025-01-12 21:17:27,859 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\replica\to_ia
+2025-01-12 21:17:27,866 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\29KyDEsxiGoqOcSJPg0rh8lCARbwL3WH.csv, 4.00744715547685 days old.
+2025-01-12 21:17:27,866 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\3VCHNsUrtngMyxKZfmSk2eFRILuEvQzc.csv, 4.0065701743044 days old.
+2025-01-12 21:17:27,866 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\afevEpbB5TxiyXNqLsI739Wuz1ROgnZt.csv, 4.00657018487616 days old.
+2025-01-12 21:17:27,867 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ALV9dHextfB74uwZov6qGC5p1cy3NjYl.csv, 4.00745676077199 days old.
+2025-01-12 21:17:27,867 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\CsiRIDH2oljuTNdznhfa67SWJwEYA9rk.csv, 4.00747125108218 days old.
+2025-01-12 21:17:27,868 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\eKTPLEOaSpl513sMu2dVIcx6rXJkCmjz.csv, 4.01092723928588 days old.
+2025-01-12 21:17:27,868 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\fkInqRpYmQobP6Jid4ED0HhTZNgslvaB.csv, 4.00899656395139 days old.
+2025-01-12 21:17:27,868 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Fw3eVCHdmJTya8EqghB1LsfurAPo4GRW.csv, 4.00911083876273 days old.
+2025-01-12 21:17:27,869 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\gWnQh4I70uLp2jbBAMKVlftT5XHSPErw.csv, 4.0065701743044 days old.
+2025-01-12 21:17:27,869 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\JScOB6Xj4MNelsYUhRwygndfVL2kCpx0.csv, 4.00753180785648 days old.
+2025-01-12 21:17:27,870 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LP6YNbzMfd5w7m3VFuxAqvBsO2aDcoZn.csv, 4.01092723928588 days old.
+2025-01-12 21:17:27,870 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\m6hcs0gU3xnvE8GLauCJ4MfQiK7RFD9e.csv, 4.00755022276852 days old.
+2025-01-12 21:17:27,870 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\M8FkKHX5IdfutJizUgR49hYBW62bDqOv.csv, 4.00657015104282 days old.
+2025-01-12 21:17:27,871 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ni4C01ErKJL9pqHheWdB8bgyQ3UYl5xT.csv, 4.00753179626852 days old.
+2025-01-12 21:17:27,871 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Pfad1NSgG9UvDpF4MWuq2etcLJA8lYk3.csv, 4.00753178469213 days old.
+2025-01-12 21:17:27,872 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\q5W1mMev2j7Lts3n4grVkx9GOPSHfAZo.csv, 4.01257406654051 days old.
+2025-01-12 21:17:27,872 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\rD6AWGcZoFKLNamnUR0CHJdfQOhe8vti.csv, 4.01218072991898 days old.
+2025-01-12 21:17:27,872 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\sQmKAvWZjMG6Di7C9h5EqwUtYnJxpRzO.csv, 4.00753179626852 days old.
+2025-01-12 21:17:27,873 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ugp4R9q2yaLWjz1Q5M6NvbXHmIoDekV3.csv, 4.00657016271412 days old.
+2025-01-12 21:17:27,873 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\vDScWmkP4UOiTVdn75FplbyRerfwEB0I.csv, 4.00753180785648 days old.
+2025-01-12 21:17:27,874 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\yUCpqhKkMecE6J35mIGsrua20ol4ixT8.csv, 4.01234864153472 days old.
+2025-01-12 21:17:27,876 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\LocfeyC5ZG3Xtz6BH7hJqKgFmxsVj9a1.csv, 4.01010172400463 days old.
+2025-01-12 21:17:27,876 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\Rns2V8xdUGjitm7Q69Av5rW1XTezhbcq.csv, 4.0100937900544 days old.
+2025-01-12 21:17:27,876 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\vhlUtJNrpWfRnIiySEGgPXxMZju972q1.csv, 4.01467633815278 days old.
+2025-01-12 21:17:27,880 [BuddyBackground] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
+  Access-Control-Allow-Origin: http://iagd.evilsoft.net
+  Vary: Accept-Encoding
+  Date: Sun, 12 Jan 2025 19:17:27 GMT
+  Content-Length: 170
+  Content-Type: application/json; charset=utf-8
+} verifying authentication token
+2025-01-12 21:17:27,908 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-12 21:17:29,015 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-12 21:17:29,017 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-12 21:17:29,060 [Main] INFO [EvilsoftCommons.DllInjector.RegisterWindow]: Created window with hwnd 1704674
+2025-01-12 21:17:29,066 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Generating the path to the IA DLL...
+2025-01-12 21:17:29,233 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-12 21:17:29,836 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-12 21:17:29,836 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-12 21:17:41,497 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character sync complete, updating character sync timestamp
+2025-01-12 21:18:16,973 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-12 21:18:20,621 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:23,720 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-12 21:18:23,786 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-12 21:18:23,789 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-12 21:18:23,791 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:26,901 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-12 21:18:27,803 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-12 21:18:31,657 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:34,703 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-12 21:18:34,774 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-12 21:18:34,779 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-12 21:18:34,779 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:37,817 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-12 21:18:38,706 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-12 21:18:42,444 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:45,525 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-12 21:18:45,616 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-12 21:18:45,616 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-12 21:18:45,617 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-12 21:18:45,617 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-12 21:18:45,617 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-12 21:18:45,617 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-12 21:18:45,618 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-12 21:18:45,618 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:45,618 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-12 21:18:49,565 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-12 21:18:53,298 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-12 21:18:53,815 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\pE58CFnDX091fuTZUilwgKecqVomrkbH.json for item stats
+2025-01-12 21:18:56,360 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 15108
+2025-01-12 21:19:02,693 [3] INFO [IAGrim.UI.Misc.CEF.UserFeedbackService]: Feedback Item teleported from GD
+2025-01-12 21:19:07,311 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:07,311 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:08,350 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:08,350 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:08,443 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\MjensJ47SpIkWZYCE8b3NhUvLGX1HTKg.json for item stats
+2025-01-12 21:19:09,365 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:09,365 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:11,514 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\yY0PFjz9xaU8B6Zo57LOW4s2rtMdbRES.json for item stats
+2025-01-12 21:19:15,925 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:15,925 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:16,951 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:16,951 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:18,056 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:18,056 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:19,080 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:19,080 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:19,141 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\HdkoxQsJKIXD0UeAvL6V5O9qYTCpcZnm.json for item stats
+2025-01-12 21:19:20,092 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:20,092 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:21,139 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:21,139 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:22,258 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\jhRfZVo2WScaqz4kyOICEip8e76KrHsT.json for item stats
+2025-01-12 21:19:48,132 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:48,133 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:49,202 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:49,202 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:50,256 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:50,256 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:51,169 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\ok8wlvTSZnFOI4GzRfsaiPVtLH2XeyAW.json for item stats
+2025-01-12 21:19:51,403 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-12 21:19:51,403 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-12 21:19:53,038 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\6La2AKtqxdMYCSWZ1BJzGNPRyomkHX7l.json for item stats
+2025-01-12 22:11:41,474 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 13 items to cloud
+2025-01-12 22:11:46,510 [BackupServiceWorker] WARN [IAGrim.Backup.Cloud.Service.BackupService]: One or more errors occurred.
+System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at IAGrim.Utilities.HelperClasses.RestService.Post(String url, String json)
+   at IAGrim.Backup.Cloud.Service.BackupService.SyncUp()
+---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
+
+2025-01-12 22:14:18,522 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Backup up character _Deea Soldier to the cloud
+2025-01-12 22:14:18,530 [BackupServiceWorker] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up character _Deea Soldier..
+2025-01-12 22:14:20,300 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character _Deea Soldier successfully backed up to the cloud
+2025-01-12 22:14:20,301 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character sync complete, updating character sync timestamp
+2025-01-12 22:14:56,748 [Main] INFO [IAGrim.Program]: Application ended.
+2025-01-12 22:14:56,748 [Main] INFO [IAGrim.Program]: IA Exited

@@ -1,0 +1,53 @@
+{
+    "2162695": {
+        "playerItemId": "2162695",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a03_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad018b_res_aether_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a037b_def_reflectpierce_02_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1203371735",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yограждающий ^sсегментарный ^Wфренч ^yшипов",
+                "type": "3"
+            },
+            {
+                "text": "Магический нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "77 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "13 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 130 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

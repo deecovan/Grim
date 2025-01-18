@@ -1,0 +1,176 @@
+{
+    "1835058": {
+        "playerItemId": "1835058",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/b011d_dagger.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_04_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2088992670",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Xкарающий клык ^yкоррозии",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "24-70 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+186% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+175% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "44% конверсия: ^E^Cурон холодом^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xобщей скорости^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Невидимая рука Нидаллы (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "1649 урона кислотой к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: проникающий урон в урон кислотой к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "-20% затрат энергии к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 271 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 339 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1835059": {
+        "playerItemId": "1835059",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a10_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao006c_poison_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn101_melee2h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1978662408",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yотравленный ^sимперский ^Wдробовик ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "87-344 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "180 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+126% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+107% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "36% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+59 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 433 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "1507329": {
+        "playerItemId": "1507329",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a07_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005a_phymod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016c_ch_speedcast_02_glo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "814003667",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучие ^sразбойничьи ^Wрукавицы ^yсмекалки",
+                "type": "3"
+            },
+            {
+                "text": "Магические наручи",
+                "type": "64"
+            },
+            {
+                "text": "367 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 15 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 208 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507330": {
+        "playerItemId": "1507330",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a05_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039e_off_dmg%chaos_05_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "694924696",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^sлатные ^Wботинки ^yпустоты",
+                "type": "3"
+            },
+            {
+                "text": "Магическая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "228 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+33% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 279 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507331": {
+        "playerItemId": "1507331",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter006.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao011b_acid_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_03_we.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac05_physique.dbr",
+            "transmuteRecord": "",
+            "seed": "1458538076",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразъедающий ^Wритуальный жезл ^yкоррозии",
+                "type": "3"
+            },
+            {
+                "text": "Магический одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "10-17 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+99% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+98% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

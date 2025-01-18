@@ -1,0 +1,73 @@
+{
+    "1966102": {
+        "playerItemId": "1966102",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a09_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar011_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_07.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "995498453",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gманиакальный ^Wимперский пояс ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "55 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+31% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+57 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 421 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "131116": {
+        "playerItemId": "131116",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a03_shoulder03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018a_ch_oa_02.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1323257810",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sклёпаные ^Wнаплечники ^yатаки",
+                "type": "3"
+            },
+            {
+                "text": "Магические наплечники",
+                "type": "64"
+            },
+            {
+                "text": "73 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+3% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 89 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131117": {
+        "playerItemId": "131117",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a002_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030b_off_dmg%fire_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1051093160",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховное ^Wзолотое кольцо ^yожога",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 77 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "131118": {
+        "playerItemId": "131118",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a03_blunt2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn105_melee2h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1454629896",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gштормовой ^sржавый ^Wмолот ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "21-166 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.48 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+23% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "28% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению ^TЭлектрическая привязь (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Эфирная молния (20% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Молния пропитанная чистым эфиром исходит от вас и каскадами перебрасывается на ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "^H3 ^Eцель(ей)",
+                "type": "18"
+            },
+            {
+                "text": "20-261 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "110 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 145 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

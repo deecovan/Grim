@@ -1,0 +1,291 @@
+{
+    "360475": {
+        "playerItemId": "360475",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a08_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad007b_res_piercecold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar044_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "400449370",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемый ^sпровинциальный ^Wпанцирь ^gрухнувших небес",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "512 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "34% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Ледяное ядро (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Небесная глыба (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Само небо обрушивается на ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "2 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "2 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "486 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "548 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 366 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360476": {
+        "playerItemId": "360476",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a07_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa007a_lifemod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar059_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "815660597",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yживительные ^sвычурные ^Wрейтузы ^gтанцующих теней",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "477 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+30 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Eшанс уклониться от удара",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 34",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360477": {
+        "playerItemId": "360477",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005a_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar003_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1594768003",
+            "materiaRecord": "records\/items\/materia\/compa_resilientchestplate.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучий ^sпластинчатый ^Wдоспех ^Gпламени Ульзуина",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "266 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "13 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Эластичный щиток",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26 ^Xнавыка защиты^E",
+                "type": "31"
+            },
+            {
+                "text": "+24 ^Eброни",
+                "type": "31"
+            },
+            {
+                "text": "15% ^Rсопротивления проникающему урону^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 15 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 318 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

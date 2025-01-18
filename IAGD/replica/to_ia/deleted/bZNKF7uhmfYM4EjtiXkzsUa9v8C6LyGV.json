@@ -1,0 +1,168 @@
+{
+    "360627": {
+        "playerItemId": "360627",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/b006a_ring.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003a_ch_att_spi_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1484373851",
+            "materiaRecord": "records\/items\/materia\/compa_festeringblood.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Lкольцо Вилос ^yсознания",
+                "type": "4"
+            },
+            {
+                "text": "\"Грубо изготовленное украшение. Странно видеть такую вещь у слиса\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Взрыв клинков Амарасты (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Некротическое лезвие (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Мутная кровь",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8% ^Kфизического урона^E",
+                "type": "31"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 9 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 63 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360628": {
+        "playerItemId": "360628",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad010b_res_firecold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a033b_off_dmg%vitality_03_je.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac04_energyregen.dbr",
+            "transmuteRecord": "",
+            "seed": "777117067",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивый ^Wизумрудный перстень ^yтлена",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+16% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H11%",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 178 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+2025-01-10 19:17:00,690 [Main] INFO [IAGrim.Program]: Starting IA:GD..
+2025-01-10 19:17:00,733 [Main] INFO [IAGrim.Program]: Starting exception monitor for bug reports..
+2025-01-10 19:17:00,738 [Main] INFO [IAGrim.StartupService]: Running version 1.4.9063.13827 from 24/10/2024
+2025-01-10 19:17:01,540 [Main] INFO [IAGrim.Program]: Calling run..
+2025-01-10 19:17:01,561 [Main] INFO [IAGrim.Program]: Visual styles enabled..
+2025-01-10 19:17:02,036 [SQL] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 6
+2025-01-10 19:17:05,547 [SQL] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
+index idx_replicaitem_playeritemid already exists
+   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
+2025-01-10 19:17:05,575 [SQL] INFO [SessionFactory]: Database connection established.
+2025-01-10 19:17:14,052 [Main] INFO [IAGrim.StartupService]: IA is configured to loot from the last stash page
+2025-01-10 19:17:14,052 [Main] INFO [IAGrim.StartupService]: IA is configured to deposit to the second-to-last stash page
+2025-01-10 19:17:14,052 [Main] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 1
+2025-01-10 19:17:14,543 [Main] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
+index idx_replicaitem_playeritemid already exists
+   at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
+2025-01-10 19:17:14,545 [Main] INFO [SessionFactory]: Database connection established.
+2025-01-10 19:17:14,554 [Main] INFO [IAGrim.StartupService]: There are 1599 items stored in the database.
+2025-01-10 19:17:14,554 [Main] INFO [IAGrim.StartupService]: Transfer to any mod is disabled
+2025-01-10 19:17:14,554 [Main] INFO [IAGrim.StartupService]: Experimental updates is disabled
+2025-01-10 19:17:14,554 [Main] INFO [IAGrim.StartupService]: Running as administrator
+2025-01-10 19:17:14,555 [Main] INFO [IAGrim.StartupService]: Running in regular mode, stash files ignored
+2025-01-10 19:17:14,555 [Main] INFO [IAGrim.StartupService]: There are items stored for the following mods:
+2025-01-10 19:17:14,657 [Main] INFO [IAGrim.StartupService]: Mod: "", HC: False
+2025-01-10 19:17:14,657 [Main] INFO [IAGrim.StartupService]: The path to Grim Dawn is "c:\games\grim dawn"
+2025-01-10 19:17:14,657 [Main] INFO [IAGrim.StartupService]: Using IA on multiple PCs: False
+2025-01-10 19:17:14,657 [Main] INFO [IAGrim.StartupService]: Logged into online backups: True
+2025-01-10 19:17:14,657 [Main] INFO [IAGrim.StartupService]: Opted out of online backups: False
+2025-01-10 19:17:14,742 [Main] INFO [IAGrim.StartupService]: The Grim Dawn database has been parsed
+2025-01-10 19:17:14,742 [Main] INFO [IAGrim.StartupService]: Startup data dump complete
+2025-01-10 19:17:15,448 [Main] INFO [IAGrim.Program]: Checking for database updates..
+2025-01-10 19:17:15,596 [Main] INFO [IAGrim.Program]: Running the main application..
+2025-01-10 19:17:15,777 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Creating Chromium instance..
+2025-01-10 19:17:18,515 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Chromium created..
+2025-01-10 19:17:18,520 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-10 19:17:19,072 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-10 19:17:20,187 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
+2025-01-10 19:17:24,043 [BuddyBackground] INFO [IAGrim.BuddyShare.BuddyItemsService]: Fetching own buddy ID from cloud..
+2025-01-10 19:17:28,530 [Main] WARN [IAGrim.Backup.Cloud.Service.AuthService]: One or more errors occurred.
+System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at IAGrim.Backup.Cloud.Service.AuthService.IsTokenValid(String user, String token)
+---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
+
+2025-01-10 19:17:28,568 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-10 19:17:28,570 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-10 19:17:28,677 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing
+2025-01-10 19:17:28,677 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\replica\to_ia
+2025-01-10 19:17:28,690 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\0tJSjUHDqTbyzYofcxMIB2ZdeOw7naX5.csv, 3.24472748732639 days old.
+2025-01-10 19:17:28,691 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\2TgOMYUinvC6WreG91zBwbJ0NjkpKoLc.csv, 3.2450857663912 days old.
+2025-01-10 19:17:28,691 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\37BJ9vxi2uQXYtpNOmDnRAChGge0wbKV.csv, 3.24597324716319 days old.
+2025-01-10 19:17:28,692 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\4G6zvYVFXDHiLrZIdPMcw3loe5yJO9pU.csv, 3.24595182177662 days old.
+2025-01-10 19:17:28,692 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\6opyR8stCih1zxSKwQTaV2W4c57vGYn9.csv, 3.24596584959028 days old.
+2025-01-10 19:17:28,694 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\faHRtIb7S2ELOKUoAwPMB0nCDV5cuZ9j.csv, 3.24423983682176 days old.
+2025-01-10 19:17:28,695 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\FhVuIldWGR7c0yM5fjxHXBNiSEK1D6t2.csv, 3.24599299198843 days old.
+2025-01-10 19:17:28,695 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\hxvXYC5w3TqNQZE8s7WBdDcIK4upPyrn.csv, 3.2447388711412 days old.
+2025-01-10 19:17:28,696 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\iwgfG0rY4xUFCnAKzXEHTPmjhD3Z1OpQ.csv, 3.24481696081366 days old.
+2025-01-10 19:17:28,698 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\KRfbkYAugN9jqFSirnyP0HTp5hL6dMxl.csv, 3.24518582672917 days old.
+2025-01-10 19:17:28,699 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\QWH5cFXV6gpAurxUl7DoeOyJLq1ECbnI.csv, 3.24601240904282 days old.
+2025-01-10 19:17:28,706 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\uU21hGQge3rwBiRAonKs0JHvS5xMmPNZ.csv, 3.24598274203125 days old.
+2025-01-10 19:17:28,751 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-10 19:17:29,059 [BuddyBackground] WARN [IAGrim.Backup.Cloud.Service.AuthService]: One or more errors occurred.
+System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at IAGrim.Backup.Cloud.Service.AuthService.IsTokenValid(String user, String token)
+---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
+
+2025-01-10 19:17:30,423 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-10 19:17:30,426 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-10 19:17:30,494 [Main] INFO [EvilsoftCommons.DllInjector.RegisterWindow]: Created window with hwnd 525358
+2025-01-10 19:17:30,500 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Generating the path to the IA DLL...
+2025-01-10 19:17:30,643 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-10 19:17:31,409 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:17:32,452 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-10 19:17:32,452 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-10 19:17:35,662 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:17:36,320 [5] FATAL[EvilsoftCommons.Exceptions.ExceptionReporter]: Unable to connect to the remote server
+2025-01-10 19:17:36,333 [5] FATAL[EvilsoftCommons.Exceptions.ExceptionReporter]:    at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at EvilsoftCommons.Exceptions.ExceptionReporter.ReportUsage()
+2025-01-10 19:17:38,821 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-10 19:17:38,956 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-10 19:17:38,986 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-10 19:17:38,988 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:17:42,055 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-10 19:17:42,966 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:17:46,942 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:17:50,021 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-10 19:17:50,125 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-10 19:17:50,252 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-10 19:17:50,253 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:17:53,317 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-10 19:17:54,221 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:17:58,091 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:01,148 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-10 19:18:01,211 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-10 19:18:01,215 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-10 19:18:01,215 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:04,424 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-10 19:18:05,313 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:18:09,865 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:12,923 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-10 19:18:12,985 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-10 19:18:12,991 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-10 19:18:12,991 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:16,082 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-10 19:18:16,987 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:18:21,211 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:24,292 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-10 19:18:24,394 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-10 19:18:24,394 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-10 19:18:24,394 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-10 19:18:24,394 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-10 19:18:24,395 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-10 19:18:24,395 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-10 19:18:24,395 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-10 19:18:24,395 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:24,396 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-10 19:18:28,368 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-10 19:18:32,122 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\OXMcHzFtYrm3DsECk6nGlaTVj4B1KqNy.json for item stats
+2025-01-10 19:18:32,480 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-10 19:18:35,551 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 972

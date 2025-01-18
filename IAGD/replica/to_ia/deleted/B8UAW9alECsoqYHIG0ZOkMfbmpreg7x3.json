@@ -1,0 +1,299 @@
+{
+    "1507411": {
+        "playerItemId": "1507411",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad002b_res_fire_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar046_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "504004699",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yогнеупорный ^Wрубиновый перстень ^gкаббалы",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "43% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 237 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1507412": {
+        "playerItemId": "1507412",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/c008_focus.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "739118146",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bтёмный гримуар Ог'Напеша",
+                "type": "5"
+            },
+            {
+                "text": "\"Тёмные записи Ог'Напеша, осуждённого некроманта\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпические тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+62% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3.8 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-19% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Урожай душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+21% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+5% ^Xобщей скорости^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Дух Ог'Напеша (Добавлено предметом)",
+                "type": "35"
+            },
+            {
+                "text": "Чтение тёмных трудов Ог'Напеша поможет вызвать его самое страшное проявление обратно в мир живых. ^oТолько один Дух может быть призван за раз. Дух получает все бонусы питомцев.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "180 ^Eзатраты энергии",
+                "type": "18"
+            },
+            {
+                "text": "30 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "13577 ^Eздоровье",
+                "type": "40"
+            },
+            {
+                "text": "1142 ^Eэнергия",
+                "type": "40"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Умения  ^AДух Ог'Напеша:",
+                "type": "23"
+            },
+            {
+                "text": "187-435 ^Kфизического урона^E",
+                "type": "40"
+            },
+            {
+                "text": "114 ^Oурона огнём^E",
+                "type": "40"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 400 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1507413": {
+        "playerItemId": "1507413",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a08_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad015b_res_lightningpoison_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar007_arje_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1694131950",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивый ^sпровинциальный ^Wпанцирь ^gщедрости природы",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "512 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+255 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление здоровья на ^H7%",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикое сердце (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 48 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 366 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

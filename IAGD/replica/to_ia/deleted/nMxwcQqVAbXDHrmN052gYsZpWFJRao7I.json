@@ -1,0 +1,390 @@
+{
+    "688136": {
+        "playerItemId": "688136",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar028_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020a_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1422807538",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gтвердокожий ^sламинарный ^Wсюртук ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "284 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H4%",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 372 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "688137": {
+        "playerItemId": "688137",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao012c_aether_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn014_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1192952658",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискажающий ^sразбойничий ^Wдробовик ^gсвирепости",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "47-268 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-15 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "17 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "34% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+29 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 318",
+                "type": "19"
+            }
+        ]
+    },
+    "688138": {
+        "playerItemId": "688138",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a05_dagger003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn015_ranged1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031c_off_dmg%lightning_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1114833029",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозовой ^Wклинок ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "23-42 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-14 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+88% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Цепная молния (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага молнию, которая последовательно поразит нескольких врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "^H75% ^Eшанс поразить до ^H3 ^Eцелей",
+                "type": "18"
+            },
+            {
+                "text": "178-490 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 213 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "688139": {
+        "playerItemId": "688139",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/c013_dagger.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "969573890",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bклинок небесного осколка",
+                "type": "5"
+            },
+            {
+                "text": "\"Выкован из ядра упавшей звезды\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "15-22 ^Cурона холодом^S",
+                "type": "17"
+            },
+            {
+                "text": "15-22 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+82% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+64% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+28 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Небесный осколок Трозана (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Холод ночи (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Небесная глыба (50% шанс при критической атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Само небо обрушивается на ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "2 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "2 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "319 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "315 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 188 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 236 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

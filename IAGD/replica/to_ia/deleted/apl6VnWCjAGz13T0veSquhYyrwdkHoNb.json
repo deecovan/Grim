@@ -1,0 +1,69 @@
+{
+    "1278007": {
+        "playerItemId": "1278007",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar029_je.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "733468877",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгенеральское ^Wсапфировое кольцо ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fэнергии^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+28 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+1.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 22",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 178",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "360478": {
+        "playerItemId": "360478",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a05_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar035_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a005b_ch_att_cunspi_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1494198810",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгосподствующие ^sпограничные ^Wштаны ^yхитрости лисы",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "231 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+30 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+9% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+8% ^Fздоровья^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 232 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360479": {
+        "playerItemId": "360479",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a04_shield02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad027a_res_phys_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh043_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "229174321",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроходимый ^sукреплённый ^Wрондаш ^gурагана",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "22% шанс блокировать ^W150 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.75 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "52 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+7 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Eшанс блока щитом",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Kсопротивления физическому урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RЯрость Ульзуина (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

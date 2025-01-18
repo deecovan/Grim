@@ -1,0 +1,77 @@
+{
+    "1769488": {
+        "playerItemId": "1769488",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a07_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001c_physbonus_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn032_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "822903017",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sстальной ^Wштуцер ^gфакира",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "29-249 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18-29 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+68% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+82% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+32 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Кластерная бомба (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 267 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

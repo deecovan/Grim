@@ -1,0 +1,251 @@
+{
+    "1835072": {
+        "playerItemId": "1835072",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a07_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar011_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014c_ch_speedattack_02_glo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "402703534",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gманиакальные ^sразбойничьи ^Wрукавицы ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "367 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 46 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 208 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835073": {
+        "playerItemId": "1835073",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b001d_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh007_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1908273596",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Xкодекс Зартузеллана ^gнапалма",
+                "type": "4"
+            },
+            {
+                "text": "\"Заполнен заклятьями огня, чтобы просветить неверующих\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+166% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+284% ^Oурона горением^E ^E с ^H+57% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+26 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+34 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5.2 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-12% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Аура порицания (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Пламя Игнаффара (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "-0.8 сек. перезарядка умения к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "114 урона огнём к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "1314 горения за 3 сек. к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон хаосом в урон огнём к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "-8% затрат энергии к умению Коктейль Черноводья (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 70",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 604",
+                "type": "19"
+            }
+        ]
+    },
+    "1835074": {
+        "playerItemId": "1835074",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar101_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016b_ch_speedcast_02_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1963602460",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкамнеликий ^Wтопазовый кулон ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+11% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H5%",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 213 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "1572898": {
+        "playerItemId": "1572898",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a07_hands02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar006_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "53955421",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^sштурмовые ^Wнаручи ^Gгнева Олерона",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наручи",
+                "type": "64"
+            },
+            {
+                "text": "482 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+35% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Боевой раж (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 49 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1572899": {
+        "playerItemId": "1572899",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a09_blunt001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn102_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "943196739",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sштурмовой ^Wпернач ^gсохранённых душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "25-160 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.80 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "13-21 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+59% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+46% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+60% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Урожай костей (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 371 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

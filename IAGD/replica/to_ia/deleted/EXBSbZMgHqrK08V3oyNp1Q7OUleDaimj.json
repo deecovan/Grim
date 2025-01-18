@@ -1,0 +1,160 @@
+{
+    "458783": {
+        "playerItemId": "458783",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/c203_hands.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1927161623",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bнаручи ритуала смерти",
+                "type": "5"
+            },
+            {
+                "text": "Эпические наручи",
+                "type": "64"
+            },
+            {
+                "text": "180 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+71 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Приземление (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Легион нежити (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+44% ^Mурона здоровью^E",
+                "type": "69"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 128 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "458784": {
+        "playerItemId": "458784",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a05_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar005_je_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030b_off_dmg%fire_04_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "751074287",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгармоничный ^Wцепной пояс ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "24 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+25% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fэнергии^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H18%",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 187 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

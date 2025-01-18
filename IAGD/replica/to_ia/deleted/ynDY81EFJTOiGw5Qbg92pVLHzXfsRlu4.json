@@ -1,0 +1,105 @@
+{
+    "1966084": {
+        "playerItemId": "1966084",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/b204c_shield.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad012b_res_firepoison_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040b_off_dmg%pierce_04_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "458797655",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивый ^Xдеформированный защитник ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "30% шанс блокировать ^W580 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.65 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "96 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "13% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+32 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "26% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Гневное сердце (?)",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eк умению Сокрушительный вердикт (?)",
+                "type": "18"
+            },
+            {
+                "text": "-0.5 ^Eсек. ^Eперезарядка умения ^Eк умению ^ZБожий суд (?)",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Eснижения урона ^Eна ^H5 ^Eсек. ^Eк умению ^ZБожий суд (?)",
+                "type": "18"
+            },
+            {
+                "text": "100% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E ^Eк умению ^ZБожий суд (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 526 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

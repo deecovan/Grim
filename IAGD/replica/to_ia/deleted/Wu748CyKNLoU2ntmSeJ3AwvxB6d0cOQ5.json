@@ -1,0 +1,188 @@
+{
+    "1736732": {
+        "playerItemId": "1736732",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a10_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn018_melee2h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1425955380",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sимперский ^Wдробовик ^gливня",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "87-344 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "22-39 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "4-25 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+124% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+112% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Электрототем (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 433 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1736733": {
+        "playerItemId": "1736733",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/b008c_blunt2h.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao014c_vitality_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "396710335",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразлагающая ^Xпризрачная кувалда ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "138-292 ^Mурона здоровью^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.52 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "36 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+88% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "48% конверсия: ^E^Kфизический урон^E в ^Mурон здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+57 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "29% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Тотем вендиго (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+4 к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "-1 сек. перезарядка умения к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "+5 сек. длительность к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "1015 урона здоровью к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "-15% сопротивления урону здоровью к умению Поглощение душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "-2 сек. перезарядка умения к умению Тотем вендиго (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "общий урон изменяется на 120% к умению Тотем вендиго (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 52 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 454 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "688147": {
+        "playerItemId": "688147",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a04_shoulder02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030e_off_dmg%fire_02_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "250395233",
+            "materiaRecord": "records\/items\/materia\/compa_mutatedscales.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованные ^sпотрёпанные ^Wэспалеры ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наплечники",
+                "type": "64"
+            },
+            {
+                "text": "140 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Чешуя мутанта",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+180 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 211 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

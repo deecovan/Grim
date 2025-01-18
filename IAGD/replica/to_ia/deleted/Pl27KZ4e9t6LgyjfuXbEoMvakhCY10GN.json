@@ -1,0 +1,160 @@
+{
+    "458773": {
+        "playerItemId": "458773",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar045_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1765666190",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^sвычурный ^Wнаряд ^gрасколотой реальности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "196 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 164 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 281 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "458774": {
+        "playerItemId": "458774",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a06_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh015_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a085a_def_shieldrecovery_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1890389153",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gедкий ^sразбойничий ^Wтарч ^yбаррикады",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "25% шанс блокировать ^W350 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.90 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "67 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "13 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+34 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "-9% ^Eвремени подготовки блока",
+                "type": "18"
+            },
+            {
+                "text": "175 ^Lответного урона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 363 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "1769561": {
+        "playerItemId": "1769561",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/c104_feet.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "445348851",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bмагматические сабатоны",
+                "type": "5"
+            },
+            {
+                "text": "Эпическая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "434 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+45% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+54% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Воспламенение (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Сокрушающий взрыв (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1769562": {
+        "playerItemId": "1769562",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a09_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a029e_off_dmg%cold_06_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1599579745",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^sимперский ^Wколонтарь ^yхлада",
+                "type": "3"
+            },
+            {
+                "text": "Магический нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "702 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+45% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 48 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

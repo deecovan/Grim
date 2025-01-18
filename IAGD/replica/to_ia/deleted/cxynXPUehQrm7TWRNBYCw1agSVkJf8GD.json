@@ -1,0 +1,77 @@
+{
+    "1474569": {
+        "playerItemId": "1474569",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a004_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009b_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar041_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2145701250",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Wжетон ^gмагического баланса",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+28% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 47",
+                "type": "19"
+            }
+        ]
+    }
+}

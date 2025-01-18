@@ -1,0 +1,184 @@
+{
+    "1376356": {
+        "playerItemId": "1376356",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn101_melee2h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "227626952",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпоглощающий ^sразбойничий ^Wдробовик ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "47-268 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+32% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+45% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+48% ^Mурона разложением^E ^E с ^H+78% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "32% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+17% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 318 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1376357": {
+        "playerItemId": "1376357",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a07_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh019_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a001b_ch_att_cun_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "95121568",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозовой ^sукреплённый ^Wскутум ^yмастерства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W450 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.05 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-24 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+65 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Цепная молния (30% шанс при блокировании)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага молнию, которая последовательно поразит нескольких врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "^H75% ^Eшанс поразить до ^H3 ^Eцелей",
+                "type": "18"
+            },
+            {
+                "text": "222-625 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 461 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

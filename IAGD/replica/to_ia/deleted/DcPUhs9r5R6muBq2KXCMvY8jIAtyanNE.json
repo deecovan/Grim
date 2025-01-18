@@ -1,0 +1,73 @@
+{
+    "360496": {
+        "playerItemId": "360496",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a06_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad023a_res_bleed_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1432118432",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yкоагулирующие ^sвычурные ^Wбармы ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "262 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 227 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

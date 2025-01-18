@@ -1,0 +1,73 @@
+{
+    "753679": {
+        "playerItemId": "753679",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a08_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn007_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038c_off_dmg%aether_02b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1299514684",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gофицерский ^sразбойничий ^Wсагарис ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "32-112 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.89 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8-13 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Полевой командир (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 317 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

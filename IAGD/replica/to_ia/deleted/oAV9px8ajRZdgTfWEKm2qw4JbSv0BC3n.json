@@ -1,0 +1,164 @@
+{
+    "1507332": {
+        "playerItemId": "1507332",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class042_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003b_ch_att_spi_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1000498234",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gархонтский ^sтяжёлый ^Wсюртук ^yсознания",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "390 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+58 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Праведное рвение (?)",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Тотем вендиго (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 459 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507333": {
+        "playerItemId": "1507333",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a09_gun2h003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn011_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031d_off_dmg%lightning_03_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1327285980",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gжуткий ^sразбойничий ^Wскорпион ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "93-195 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.38 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+133% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+59% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+136% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+53% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "29% конверсия: ^E^Kфизический урон^E в ^Mурон здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению Праведное рвение (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 370 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

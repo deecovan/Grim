@@ -1,0 +1,366 @@
+{
+    "851979": {
+        "playerItemId": "851979",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/c007_hands.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "58816792",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bрасписные наручи",
+                "type": "5"
+            },
+            {
+                "text": "Эпические наручи",
+                "type": "64"
+            },
+            {
+                "text": "170 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "6 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Перегрузка (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 ^Eк умению ^LГневное сердце (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Знак стихий (30% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Создаёт тайный знак на земле, пронизывающий округу разрушительной силой.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "6 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "264 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 148 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "851980": {
+        "playerItemId": "851980",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/c103_legs.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1776385699",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bрейтузы ткача теней",
+                "type": "5"
+            },
+            {
+                "text": "\"Каким-то странным образом сами тени вплетены в ткань этих рейтуз\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпические штаны",
+                "type": "64"
+            },
+            {
+                "text": "327 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+29% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+6%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "5% ^Eшанс уклониться от удара",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TКусачий холод (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Танец тени (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "851981": {
+        "playerItemId": "851981",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar101_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1383778237",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^sлатный ^Wшлем ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "281 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+207 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Всепоглощающий голод (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "851982": {
+        "playerItemId": "851982",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class036_necro01_je.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "279471011",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gтеургическая ^sпозолоченная ^Wдиадема ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "238 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+28% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+39 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "-4% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Урожай душ (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+5% ^Xнавыка атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 42",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 159 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1015808": {
+        "playerItemId": "1015808",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter006.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao011b_acid_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_03_we.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac05_physique.dbr",
+            "transmuteRecord": "",
+            "seed": "1458538076",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразъедающий ^Wритуальный жезл ^yкоррозии",
+                "type": "3"
+            },
+            {
+                "text": "Магический одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "10-17 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+99% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+98% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1769581": {
+        "playerItemId": "1769581",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a07_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh012_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a007b_ch_att_all_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "593600815",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gограждающий огнём ^sукреплённый ^Wскутум ^yзоркости орла",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W450 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.05 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "36 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+61 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+29 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "248 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 461 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

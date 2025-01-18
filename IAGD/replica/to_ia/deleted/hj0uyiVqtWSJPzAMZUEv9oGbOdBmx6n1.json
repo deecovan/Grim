@@ -1,0 +1,156 @@
+{
+    "1835044": {
+        "playerItemId": "1835044",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a06_focus02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh105_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039a_off_dmg%chaos_06_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2118655270",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gукрощающий ^Wжуткий жезл ^yпустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+102% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H52%",
+                "type": "18"
+            },
+            {
+                "text": "-18% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Захват души (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+44% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+3% ^Xнавыка атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 543",
+                "type": "19"
+            }
+        ]
+    },
+    "1835045": {
+        "playerItemId": "1835045",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar004_ri_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019b_ch_da_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2145547064",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gвысасывающий ^Wизумрудный перстень ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+45 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 179 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

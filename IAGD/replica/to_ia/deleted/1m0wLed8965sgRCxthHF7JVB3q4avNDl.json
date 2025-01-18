@@ -1,0 +1,215 @@
+{
+    "1736723": {
+        "playerItemId": "1736723",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar004_ri_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2097187984",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gвысасывающий ^Wизумрудный перстень ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+5% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+54 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+2.3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 52 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 178 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1736724": {
+        "playerItemId": "1736724",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a06_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019b_ch_da_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "53420113",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальные ^sчешуйчатые ^Wкраги ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "232 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+64 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 168 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1736725": {
+        "playerItemId": "1736725",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar102_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038e_off_dmg%aether_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "679812275",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрунический ^sлатный ^Wшлем ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "281 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

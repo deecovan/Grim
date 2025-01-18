@@ -1,0 +1,152 @@
+{
+    "458759": {
+        "playerItemId": "458759",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a03_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004c_cold_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn023_melee2h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1857568250",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^sржавый ^Wдробовик ^gаннигиляции",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "18-114 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "33% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 129 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "458760": {
+        "playerItemId": "458760",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a05_shoulder02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar007_arje_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1282330943",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sтяжёлые ^Wайлеты ^gщедрости природы",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наплечники",
+                "type": "64"
+            },
+            {
+                "text": "212 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+238 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+7 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикое сердце (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 287 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

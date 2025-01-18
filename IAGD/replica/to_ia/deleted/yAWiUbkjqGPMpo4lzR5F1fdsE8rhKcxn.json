@@ -1,0 +1,164 @@
+{
+    "851968": {
+        "playerItemId": "851968",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn011_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "130892441",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sразбойничий ^Wдробовик ^gбеспощадности",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "47-268 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "15-28 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eшанс на ^H36 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Eурона против людей",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 318",
+                "type": "19"
+            }
+        ]
+    },
+    "851969": {
+        "playerItemId": "851969",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/b001a_legs.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar030_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "53804951",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящие ^Lнаголенники сектантов Дрига ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "246 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Cурона обморожением^E ^E с ^H+22% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+34 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление здоровья на ^H26%",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "159 ^Lответного урона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 218 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

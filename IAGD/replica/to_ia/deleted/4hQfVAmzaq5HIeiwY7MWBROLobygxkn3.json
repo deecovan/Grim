@@ -1,0 +1,156 @@
+{
+    "360631": {
+        "playerItemId": "360631",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004b_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar040_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "236623140",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусная ^Wлента ^gшквала",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+17% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RОглушающие снаряды (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сфера молний (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает концентрированный взрыв электрической статики, проходящий сквозь врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "66% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "79-199 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "162 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "360632": {
+        "playerItemId": "360632",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad017b_res_chaos_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "650677894",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yупорядоченный ^Wизумрудный перстень ^yзаживления",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+51 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 28 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 174 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

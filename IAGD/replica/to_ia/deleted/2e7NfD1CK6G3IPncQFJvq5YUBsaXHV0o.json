@@ -1,0 +1,65 @@
+{
+    "2457606": {
+        "playerItemId": "2457606",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a09_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao006b_poison_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1005104667",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yотравленная ^sштурмовая ^Wпистоль ^yсмекалки",
+                "type": "3"
+            },
+            {
+                "text": "Магический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "39-72 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.66 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "75 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "14% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 355 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

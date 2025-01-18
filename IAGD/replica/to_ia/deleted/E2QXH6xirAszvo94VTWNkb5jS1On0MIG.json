@@ -1,0 +1,140 @@
+{
+    "1081355": {
+        "playerItemId": "1081355",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a07_blunt2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn019_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "680121681",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sпрочный ^Wослоп ^gсокрушения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "47-344 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.54 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9-20 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "10 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+65% ^Cурона обморожением^E ^E с ^H+65% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Ледяная вспышка Олехры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 302 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1081356": {
+        "playerItemId": "1081356",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/c216_head.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1829985719",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bмаска Феттана",
+                "type": "5"
+            },
+            {
+                "text": "Эпический шлем",
+                "type": "64"
+            },
+            {
+                "text": "405 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+240 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "23% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 290 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

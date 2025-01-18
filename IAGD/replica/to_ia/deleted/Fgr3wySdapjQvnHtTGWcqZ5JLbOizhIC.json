@@ -1,0 +1,279 @@
+{
+    "1835066": {
+        "playerItemId": "1835066",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a08_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad007b_res_piercecold_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh032_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "264061148",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемый ^sштурмовой ^Wкаплевидный щит ^gбессмертия",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "30% шанс блокировать ^W600 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.00 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "100 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+627 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление здоровья на ^H16%",
+                "type": "18"
+            },
+            {
+                "text": "35% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "41% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "23% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикое сердце (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 557 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835067": {
+        "playerItemId": "1835067",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a11_blunt002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao006b_poison_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn036_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1487469433",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yотравленный ^sимперский ^Wчекан ^Gзлобы Солаэля",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "13-251 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "11 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "95 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 481 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835068": {
+        "playerItemId": "1835068",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a06_focus02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh013_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "346297460",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wжуткий жезл ^Gзлобы Солаэля",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+72% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+83% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+78% ^Mурона разложением^E ^E с ^H+41% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H67%",
+                "type": "18"
+            },
+            {
+                "text": "-17% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Роковая стрела (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Роковая стрела (Оккультист) (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Стрела энтропийной энергии прорывает ткань реальности и наносит огромный урон любому врагу, в которого попадёт. ^oПрямое попадание стрелы в цель наносит двойной урон.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1.5 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "1754 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "1929 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eснижение здоровья на ^H6-18%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 56 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 543",
+                "type": "19"
+            }
+        ]
+    }
+}

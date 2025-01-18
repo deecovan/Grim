@@ -1,0 +1,89 @@
+{
+    "589871": {
+        "playerItemId": "589871",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a05_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004b_cold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn001_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1764635103",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^sжелезный ^Wпистолет ^gпожарища",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "14-36 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.66 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-5 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "4 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eшанс на ^H189 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+30% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Огненный удар (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+2 ^Eк умению ^LПраведное рвение (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 187 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

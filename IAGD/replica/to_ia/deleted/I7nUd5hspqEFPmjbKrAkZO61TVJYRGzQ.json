@@ -1,0 +1,208 @@
+{
+    "1277972": {
+        "playerItemId": "1277972",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a02_shield02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa007b_lifemod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030b_off_dmg%fire_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "12253980",
+            "materiaRecord": "records\/items\/materia\/compa_chippedclaw.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yживительный ^sсамодельный ^Wцете ^yожога",
+                "type": "3"
+            },
+            {
+                "text": "Магический щит",
+                "type": "64"
+            },
+            {
+                "text": "20% шанс блокировать ^W55 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.70 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "36 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Сколотый коготь",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Kфизического урона^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Kфизического урона^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Наскок (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Нанесите врагу мощный, многократно отражающийся удар.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "20 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "25"
+            },
+            {
+                "text": "3 ^Eм целевая область",
+                "type": "25"
+            },
+            {
+                "text": "100% ^Eурона основным оружием (^H74 - 202^E)",
+                "type": "25"
+            },
+            {
+                "text": "69-133 ^Kфизического урона^E",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 145 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1277973": {
+        "playerItemId": "1277973",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a02_blunt003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn005_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035c_off_dmg%bleed_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1222381977",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gварварская ^sдикарская ^Wдубинка ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "7-49 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 88 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "360484": {
+        "playerItemId": "360484",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a03_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035e_off_dmg%bleed_02_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "602429119",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованные ^sклёпаные ^Wбриджи ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "92 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 120 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360485": {
+        "playerItemId": "360485",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a04_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad007a_res_piercecold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar007_arje.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1070381260",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемые ^sсегментарные ^Wбриджи ^gщедрости природы",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "155 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+87 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикое сердце (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 21 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 176 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360486": {
+        "playerItemId": "360486",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004c_cold_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn019_melee2h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "595064284",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^sразбойничий ^Wдробовик ^gсокрушения",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "47-268 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "45 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+103% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+99% ^Cурона обморожением^E ^E с ^H+76% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "37% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Ледяная вспышка Олехры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 40",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Искусность [^y- 9% от ^r318]",
+                "type": "19"
+            }
+        ]
+    }
+}

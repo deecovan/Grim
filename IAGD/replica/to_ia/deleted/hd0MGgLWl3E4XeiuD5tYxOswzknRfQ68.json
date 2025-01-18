@@ -1,0 +1,85 @@
+{
+    "1278006": {
+        "playerItemId": "1278006",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a01_dagger003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn005_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1665321334",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Wжертвенный нож ^gпремудрости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "13-25 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+7% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+6 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Повторяющаяся ракета Панетти (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 74 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 93 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

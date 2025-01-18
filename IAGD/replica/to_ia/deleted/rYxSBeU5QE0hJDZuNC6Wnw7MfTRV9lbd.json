@@ -1,0 +1,152 @@
+{
+    "1900544": {
+        "playerItemId": "1900544",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a002_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar028_je_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2017847873",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wзнак ^gтеней",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+21% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+30 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "1900545": {
+        "playerItemId": "1900545",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a10_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao011b_acid_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn013_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1125379237",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразъедающий ^sштурмовой ^Wбарте ^gгнева",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "52-143 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.84 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "13-20 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+3%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 53 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 430 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

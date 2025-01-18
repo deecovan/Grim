@@ -1,0 +1,77 @@
+{
+    "1736714": {
+        "playerItemId": "1736714",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a09_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh005_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1857551912",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгосподствующий ^sимперский ^Wкаплевидный щит ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "30% шанс блокировать ^W750 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.10 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "130 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+47 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "5% ^Kсопротивления физическому урону^E",
+                "type": "18"
+            },
+            {
+                "text": "646 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Эгида Менгира (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 636 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

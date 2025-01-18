@@ -1,0 +1,196 @@
+{
+    "360599": {
+        "playerItemId": "360599",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a05_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar033_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1557259155",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусный ^sпехотный ^Wнагрудник ^gвыжженной земли",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "179 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "21 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вихрь расплаты (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Огненный шар (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите огненный шар в ближайших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "386-651 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "50% ^Eшанс на ^H^Eоглушение ^Eна ^H1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 239 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360600": {
+        "playerItemId": "360600",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a04_shield02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad010b_res_firecold_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh042_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "445835438",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивый ^sукреплённый ^Wрондаш ^gпожарища",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "22% шанс блокировать ^W150 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.75 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "52 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+17% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "49 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Xобщего ответного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RЗакалка (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 10 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "360450": {
+        "playerItemId": "360450",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a07_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn023_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "235670142",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sжелезный ^Wбердыш ^gаннигиляции",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "90-279 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.57 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9-20 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 302 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360451": {
+        "playerItemId": "360451",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a07_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao014b_vitality_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039c_off_dmg%chaos_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "387468166",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразлагающий ^sстальной ^Wкостерез ^yпустоты",
+                "type": "3"
+            },
+            {
+                "text": "Магический одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "30-61 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "10 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Mурон здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 247 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

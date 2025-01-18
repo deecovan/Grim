@@ -1,0 +1,235 @@
+{
+    "1835031": {
+        "playerItemId": "1835031",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar026_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_07.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "146955356",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gлиходейский ^Wрубиновый перстень ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7-10 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+65 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 234 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1835032": {
+        "playerItemId": "1835032",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a05_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh105_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032a_off_dmg%acid_05_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2070331709",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gукрощающий ^Wжуткий том ^yкоррозии",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+88% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+81% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-13% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+25% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 461",
+                "type": "19"
+            }
+        ]
+    },
+    "1835033": {
+        "playerItemId": "1835033",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/c105_scepter.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "86668459",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bпалец Гар'Дальвура",
+                "type": "5"
+            },
+            {
+                "text": "\"Это всё, что хотел сказать падший Гар'Дальвур своим палачам\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "27-68 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+100% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+82% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+111% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+228 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H11%",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Разжигание (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Адская мина (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 45 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

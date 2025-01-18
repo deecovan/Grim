@@ -1,0 +1,156 @@
+{
+    "1769526": {
+        "playerItemId": "1769526",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/b002b_ring_outlawleader.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao002a_phys_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020b_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "386073497",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yсокрушающая ^Xпечатка Кронли ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "\"Запятнанная кровью его жертв, теперь она залита его собственной\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-11 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+45 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eк умению Потрошение (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Кровавый обряд (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 177 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1769527": {
+        "playerItemId": "1769527",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a07_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh107_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "103052509",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкамнеликий ^sукреплённый ^Wскутум ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W450 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.05 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+54 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eблокируемого урона",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H6%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 461 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

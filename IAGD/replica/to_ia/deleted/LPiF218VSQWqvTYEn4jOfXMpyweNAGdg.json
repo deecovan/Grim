@@ -1,0 +1,176 @@
+{
+    "360612": {
+        "playerItemId": "360612",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a003_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007a_lightning_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar040_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "519153251",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^Wаметистовый перстень ^gшквала",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-8 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RОглушающие снаряды (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сфера молний (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает концентрированный взрыв электрической статики, проходящий сквозь врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "66% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "143-364 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "298 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 143 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360613": {
+        "playerItemId": "360613",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "16565713",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованная ^Wлента ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    }
+}

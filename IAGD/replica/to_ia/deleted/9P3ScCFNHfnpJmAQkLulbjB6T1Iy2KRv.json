@@ -1,0 +1,89 @@
+{
+    "1966096": {
+        "playerItemId": "1966096",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a006_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad011b_res_firelightning_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar015_je_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1126879984",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивое ^Wимперское кольцо ^gдикости",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+33 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "47% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "47% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Призыв шипастого зверя (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+14% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+6% ^Xскорости атаки^E",
+                "type": "69"
+            },
+            {
+                "text": "19% ^Eснижения длительности оглушения",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 297 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

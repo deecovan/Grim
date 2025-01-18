@@ -1,0 +1,192 @@
+{
+    "131113": {
+        "playerItemId": "131113",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a03_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040c_off_dmg%pierce_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "958228149",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^sржавая ^Wпистоль ^yколючек",
+                "type": "3"
+            },
+            {
+                "text": "Магический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "16-25 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.70 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-6 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 114 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "131114": {
+        "playerItemId": "131114",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a03_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007b_lightning_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1138704375",
+            "materiaRecord": "records\/items\/materia\/compa_crackedlodestone.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженная ^sржавая ^Wпистоль ^yрвения",
+                "type": "3"
+            },
+            {
+                "text": "Магический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "16-25 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.70 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-7 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "12% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Расколотый магнит",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-5 ^Zурона молнией^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Zурона молнией^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Электрическая нова (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Вызвать электрический взрыв вокруг себя, нанося урон всем ближайшим противникам.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "25 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "22% ^Eурона основным оружием (^H88 - 104^E)",
+                "type": "25"
+            },
+            {
+                "text": "73-390 ^Zурона молнией^E",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 114 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

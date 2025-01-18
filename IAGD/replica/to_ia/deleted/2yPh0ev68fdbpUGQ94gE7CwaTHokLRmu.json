@@ -1,0 +1,116 @@
+{
+    "360454": {
+        "playerItemId": "360454",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a05_legs02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005a_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038e_off_dmg%aether_03_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1326234444",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучие ^sзалатанные ^Wнаголенники ^yэфира",
+                "type": "3"
+            },
+            {
+                "text": "Магические тяжёлые штаны",
+                "type": "64"
+            },
+            {
+                "text": "284 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+16% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 361 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360455": {
+        "playerItemId": "360455",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a05_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a006b_ch_att_physpi_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2096747323",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкие ^sполевые ^Wайлеты ^yрешительности вепря",
+                "type": "3"
+            },
+            {
+                "text": "Магические наплечники",
+                "type": "64"
+            },
+            {
+                "text": "172 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+29 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+29 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

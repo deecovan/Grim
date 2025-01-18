@@ -1,0 +1,156 @@
+{
+    "360579": {
+        "playerItemId": "360579",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/c010_torso.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "470582006",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bсплавленный панцирь",
+                "type": "5"
+            },
+            {
+                "text": "Эпический нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "326 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-9 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Eшанс уклониться от снаряда",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Аспект хранителя (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Освящение (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 40",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360580": {
+        "playerItemId": "360580",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/c014_gun1h.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "29428481",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bхолодный ствол беспощадного севера",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "10-24 ^Cурона холодом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "189 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eшанс на ^H+219% ^Cурона обморожением^E ^E с ^H+40% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "-4% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Взрыв клинков Амарасты (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: 320 Искусность [^y- 9% от ^r352]",
+                "type": "19"
+            }
+        ]
+    }
+}

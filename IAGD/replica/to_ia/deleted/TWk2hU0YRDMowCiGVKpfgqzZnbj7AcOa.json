@@ -1,0 +1,81 @@
+{
+    "1015813": {
+        "playerItemId": "1015813",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a01_hands02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad003a_res_cold_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030e_off_dmg%fire_01_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1433237755",
+            "materiaRecord": "records\/items\/materia\/compa_scavengedplating.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yукрывающие ^sгрубые ^Wперчатки ^yожога",
+                "type": "3"
+            },
+            {
+                "text": "Магические тяжёлые наручи",
+                "type": "64"
+            },
+            {
+                "text": "22 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дырявый щиток",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15 ^Eброни",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 1 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 35 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

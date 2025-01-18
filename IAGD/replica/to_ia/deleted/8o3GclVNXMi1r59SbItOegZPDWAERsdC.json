@@ -1,0 +1,156 @@
+{
+    "917541": {
+        "playerItemId": "917541",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a004_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009b_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar102_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "769626343",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Wжетон ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 47",
+                "type": "19"
+            }
+        ]
+    },
+    "917543": {
+        "playerItemId": "917543",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao014b_vitality_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn020_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "958746815",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразлагающий ^Wритуальный жезл ^gмора",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Mурона здоровью^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "11 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "40 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+84% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Lурона ядом^E ^E с ^H+32% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+38% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "17% конверсия: ^E^Kфизический урон^E в ^Mурон здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Ненасытная земля (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

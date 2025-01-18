@@ -1,0 +1,331 @@
+{
+    "1507445": {
+        "playerItemId": "1507445",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a07_scepter003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao013b_chaos_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn004_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2044894022",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yопустошающий ^Wритуальный скипетр ^gбездны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "33-65 ^Pурона хаосом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "11-32 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+113% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eснижения урона ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eснижения сопротивлений ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "14% конверсия: ^E^Kфизический урон^E в ^Pурон хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 46 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 315 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 315 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1507446": {
+        "playerItemId": "1507446",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a08_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039b_off_dmg%chaos_05_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "280210624",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованный ^Wштурмовой пояс ^yпустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "46 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 356 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507447": {
+        "playerItemId": "1507447",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/b201c_sword.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn016_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030c_off_dmg%fire_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "769576603",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий адом ^Xпылающий клинок Корваака ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "\"Корваак пожаловал этот меч своим верным избранным для управления приспешниками\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "38-58 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "36 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+153% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+213% ^Oурона горением^E ^E с ^H+45% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "13% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Поднятие скелетов (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "-1 сек. перезарядка умения к умению Поднятие скелетов (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "+2 питомца к умению Поднятие скелетов (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "92 урона огнём к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон здоровью в урон огнём к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+12% скорости атаки к умению Касание огня (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+49% ^Oурона огнём^E",
+                "type": "69"
+            },
+            {
+                "text": "+36% ^Oурона горением^E",
+                "type": "69"
+            },
+            {
+                "text": "100% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "69"
+            },
+            {
+                "text": "100% конверсия: ^E^Mурон здоровью^E в ^Oурон огнём^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо пламени (20% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Окружите себя кольцом пламени, обжигающим ближайших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "4 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "430 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "714 ^Oгорения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 55",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 271 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 339 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

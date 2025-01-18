@@ -1,0 +1,338 @@
+{
+    "753708": {
+        "playerItemId": "753708",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/b002a_blunt2h.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn006_melee2h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1185254303",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкровожадный ^Lтролльский костекрушитель ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "74-224 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.50 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "78 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+101% ^Rурона кровотечением^E ^E с ^H+201% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "4% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+4 к умению Звериный голод (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+4 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "2172 кровотечения за 3 сек. к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+24% критического урона к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон молнией в физический урон к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+120 градусов угол атаки к умению Звериный голод (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+5 цель(ей) к умению Звериный голод (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "20% урона оружием к умению Звериный голод (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "130 физического урона к умению Звериный голод (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 25 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 227 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "753709": {
+        "playerItemId": "753709",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a04_head002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar023_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a001b_ch_att_cun_03.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "995811347",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозный ^sпластинчатый ^Wбацинет ^yмастерства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "120 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+33 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+49 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^EЭффекты лечения усилены на ^H8%",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 10 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 183 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "753710": {
+        "playerItemId": "753710",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar023_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020a_ch_oada_03.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1267929254",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозная ^sбронзовая ^Wкираса ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "231 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+51 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^EЭффекты лечения усилены на ^H9%",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 239 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "753711": {
+        "playerItemId": "753711",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a08_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn018_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1735802213",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sстальной ^Wклеймор ^gливня",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "112-212 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "13-22 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "3-20 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+72% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+67% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Электрототем (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 369 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

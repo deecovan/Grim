@@ -1,0 +1,184 @@
+{
+    "1835023": {
+        "playerItemId": "1835023",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a08_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar039_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1695900174",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивные ^sкольчужные ^Wрукавицы ^gметели",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "486 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Холод ночи (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ледяной шип (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага шип из цельного льда, пронзая его насквозь.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "45% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "1324 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 244 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835024": {
+        "playerItemId": "1835024",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a07_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh015_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a002b_ch_att_phy_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "403827604",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gедкий ^sукреплённый ^Wскутум ^yатлетизма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W450 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.05 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "15 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+45 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+26 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "201 ^Lответного урона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 461 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

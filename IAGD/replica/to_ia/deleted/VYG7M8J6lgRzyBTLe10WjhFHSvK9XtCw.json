@@ -1,0 +1,148 @@
+{
+    "360639": {
+        "playerItemId": "360639",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao014a_vitality_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar102_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "725574857",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yразлагающее ^Wсапфировое кольцо ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 179 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360640": {
+        "playerItemId": "360640",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class014_nightblade01_je.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020b_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1660185160",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gликвидаторский ^Wтопазовый кулон ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+38 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 42",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 214 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

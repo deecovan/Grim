@@ -1,0 +1,211 @@
+{
+    "1507436": {
+        "playerItemId": "1507436",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a07_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar010_je_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "614048739",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Wлатный пояс ^gненасытного разлома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "38 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+29 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Знак поглощения (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507437": {
+        "playerItemId": "1507437",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a09_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn021_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040c_off_dmg%pierce_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "333611034",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпронзающий сердце ^sштурмовой ^Wсагарис ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "39-126 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8-13 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eшанс на ^H93 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+82% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Призрачные клинки (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 371 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507438": {
+        "playerItemId": "1507438",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a08_head002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2028128972",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^sштурмовой ^Wшлем ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "552 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "26% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 491 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

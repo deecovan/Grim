@@ -1,0 +1,208 @@
+{
+    "458777": {
+        "playerItemId": "458777",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/c005_waist.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "36348092",
+            "materiaRecord": "records\/items\/materia\/compa_bristlyfur.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bслава вождя",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пояс",
+                "type": "64"
+            },
+            {
+                "text": "22 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Щетинистый мех",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+90 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Eзапаса сил",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 14 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 83 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "458778": {
+        "playerItemId": "458778",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a07_blunt001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn016_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "622083182",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий адом ^sстальной ^Wморгенштерн ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "32-93 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.88 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "30 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Oурона горением^E ^E с ^H+46% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо пламени (20% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Окружите себя кольцом пламени, обжигающим ближайших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "4 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "346 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "548 ^Oгорения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 252 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

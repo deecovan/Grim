@@ -1,0 +1,200 @@
+{
+    "131072": {
+        "playerItemId": "131072",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a03_blunt001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "674745591",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sжелезный ^Wпернач ^yрвения",
+                "type": "3"
+            },
+            {
+                "text": "Магическая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "15-61 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.74 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-4 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 122 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131073": {
+        "playerItemId": "131073",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a03_blunt002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn019_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "519112417",
+            "materiaRecord": "records\/items\/materia\/compa_searingember.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающая ^sпрочная ^Wдубинка ^gсокрушения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "7-75 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.66 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-5 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "4 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона обморожением^E ^E с ^H+30% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Ледяная вспышка Олехры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Тлеющий уголь",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-4 ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Вспышка (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Запустите шар выжигающего пламени в вашу цель.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "2.5 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "20% ^Eурона основным оружием (^H110 - 147^E)",
+                "type": "25"
+            },
+            {
+                "text": "243-281 ^Oурона огнём^E",
+                "type": "25"
+            },
+            {
+                "text": "555 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 122 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

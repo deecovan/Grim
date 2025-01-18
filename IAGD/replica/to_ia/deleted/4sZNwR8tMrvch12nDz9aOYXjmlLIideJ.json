@@ -1,0 +1,81 @@
+{
+    "852006": {
+        "playerItemId": "852006",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar009_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014b_ch_speedattack_02_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1628572423",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gбушующее ^Wизумрудное ожерелье ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Fэнергии^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 215 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "294921": {
+        "playerItemId": "294921",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a04_head005.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar030_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a006b_ch_att_physpi_03.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1133101247",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящий ^sкожаный ^Wколпак ^yрешительности вепря",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "83 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Cурона обморожением^E ^E с ^H+17% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+28 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 10 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 78 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 161 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "294922": {
+        "playerItemId": "294922",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a04_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar013_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "596505501",
+            "materiaRecord": "records\/items\/materia\/compa_polishedemerald.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусный ^sклёпаный ^Wшлем ^gгероизма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "97 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+2% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H5%",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Огранённый изумруд",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8 ^Fтелосложения^E",
+                "type": "31"
+            },
+            {
+                "text": "+8 ^Fискусности^E",
+                "type": "31"
+            },
+            {
+                "text": "+8 ^Fдуха^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 106 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

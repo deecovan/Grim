@@ -1,0 +1,105 @@
+{
+    "753692": {
+        "playerItemId": "753692",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad011b_res_firelightning_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar043_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "103974904",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивый ^Wтопазовый кулон ^gогненной пустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела хаоса (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага заряд энергии хаоса.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "218-403 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 213 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

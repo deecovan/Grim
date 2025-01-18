@@ -1,0 +1,77 @@
+{
+    "852002": {
+        "playerItemId": "852002",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class004_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028e_off_dmg%phys_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "923896193",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^sпограничный ^Wколонтарь ^yразгрома ^gбоевого мага",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "316 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+44% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Тактика отряда (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Зеркало Эреоктиса (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 42",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

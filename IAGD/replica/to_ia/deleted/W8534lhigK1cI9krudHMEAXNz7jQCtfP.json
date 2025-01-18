@@ -1,0 +1,168 @@
+{
+    "688134": {
+        "playerItemId": "688134",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a07_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004c_cold_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn038_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1983755629",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^sжелезный ^Wбердыш ^gкаббалы",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "90-279 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.57 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+78% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+81% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "32% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+35 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Одержимость (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 302 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "688135": {
+        "playerItemId": "688135",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar102_ar_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a001b_ch_att_cun_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1365908873",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрунический ^sвычурный ^Wнаряд ^yмастерства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "196 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+51 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 164 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 281 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

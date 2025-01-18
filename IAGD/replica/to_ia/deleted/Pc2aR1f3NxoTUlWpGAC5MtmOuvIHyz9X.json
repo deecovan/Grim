@@ -1,0 +1,53 @@
+{
+    "131119": {
+        "playerItemId": "131119",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a03_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016c_ch_speedcast_01_glo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "29420619",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивное ^sпехотное ^Wнарукавье ^yсмекалки",
+                "type": "3"
+            },
+            {
+                "text": "Магические наручи",
+                "type": "64"
+            },
+            {
+                "text": "49 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 48 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

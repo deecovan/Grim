@@ -1,0 +1,140 @@
+{
+    "1278004": {
+        "playerItemId": "1278004",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a02_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a005a_ch_att_cunspi_02.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1555239198",
+            "materiaRecord": "records\/items\/materia\/compa_scavengedplating.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Wплетёный шнур ^yхитрости лисы",
+                "type": "3"
+            },
+            {
+                "text": "Магический пояс",
+                "type": "64"
+            },
+            {
+                "text": "7 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дырявый щиток",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15 ^Eброни",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 1 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 69 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1278005": {
+        "playerItemId": "1278005",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a04_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040b_off_dmg%pierce_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "84625640",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^sусиленный ^Wтарч ^yколючек",
+                "type": "3"
+            },
+            {
+                "text": "Магический щит",
+                "type": "64"
+            },
+            {
+                "text": "24% шанс блокировать ^W180 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.00 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "55 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+5% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

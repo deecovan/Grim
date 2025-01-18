@@ -1,0 +1,251 @@
+{
+    "1835069": {
+        "playerItemId": "1835069",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a06_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh013_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "408441601",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wтайный кодекс ^Gзлобы Солаэля",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+68% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+70% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+74% ^Mурона разложением^E ^E с ^H+44% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.5 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-15% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Роковая стрела (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Роковая стрела (Оккультист) (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Стрела энтропийной энергии прорывает ткань реальности и наносит огромный урон любому врагу, в которого попадёт. ^oПрямое попадание стрелы в цель наносит двойной урон.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1.5 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "1754 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "1929 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eснижение здоровья на ^H6-18%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 56 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 543",
+                "type": "19"
+            }
+        ]
+    },
+    "1835070": {
+        "playerItemId": "1835070",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a07_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar104_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2033095634",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gштормовой ^Wлатный пояс ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пояс",
+                "type": "64"
+            },
+            {
+                "text": "38 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+48 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1835071": {
+        "playerItemId": "1835071",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a08_shoulder02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar028_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a037b_def_reflectpierce_07_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1832100863",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gтвердокожие ^sштурмовые ^Wсполдеры ^yшипов",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наплечники",
+                "type": "64"
+            },
+            {
+                "text": "776 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^Eувеличение брони на ^H5%",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "32% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "36% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "172 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 51 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 598 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

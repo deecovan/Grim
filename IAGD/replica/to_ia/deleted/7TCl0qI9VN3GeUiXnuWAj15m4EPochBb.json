@@ -1,0 +1,367 @@
+{
+    "917556": {
+        "playerItemId": "917556",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a05_dagger002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn104_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_03_we.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ad06_protection.dbr",
+            "transmuteRecord": "",
+            "seed": "1070054015",
+            "materiaRecord": "records\/items\/materia\/compa_gallstone.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gукрощающий ^Wклинок ^yкоррозии",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "23-42 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+98% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+85% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Mурон здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H2%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+20% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+3% ^Xнавыка атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Едкий жёлчный камень",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Lурона кислотой^E",
+                "type": "31"
+            },
+            {
+                "text": "20 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Lурона кислотой^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Lурона ядом^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Отравленное оружие (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Нанесите яд на своё оружие.",
+                "type": "38"
+            },
+            {
+                "text": "^oУсиления активируются автоматически.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "150 ^Eэнергии занято",
+                "type": "25"
+            },
+            {
+                "text": "355 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Lурона кислотой^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Lурона ядом^E ^E с ^H+20% ^Eпродолжительности",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "24"
+            },
+            {
+                "text": "35 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Lурона кислотой^E",
+                "type": "25"
+            },
+            {
+                "text": "+75% ^Lурона ядом^E ^E с ^H+20% ^Eпродолжительности",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 213 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "917557": {
+        "playerItemId": "917557",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a05_dagger002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao006b_poison_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_03_we.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ad06_protection.dbr",
+            "transmuteRecord": "",
+            "seed": "1517666578",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yотравленный ^Wклинок ^yкоррозии",
+                "type": "3"
+            },
+            {
+                "text": "Магический одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "23-42 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "55 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+96% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+98% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H2%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 213 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "917558": {
+        "playerItemId": "917558",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/b201b_axe.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a032c_off_dmg%acid_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "29523247",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^Lрезец песчаного когтя ^yкоррозии",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "38-101 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.86 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "31-38 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+64% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+71% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Потрошение (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+3 ^Eк умению ^LОтпор (?)",
+                "type": "18"
+            },
+            {
+                "text": "566 физического урона к умению Круговой удар (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "6% урона превращается в здоровье к умению Круговой удар (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "94 ^Kфизического урона^E ^Eк умению ^Z^LЦарствие добродетели (?)",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости атаки^E ^Eк умению ^Z^LЦарствие добродетели (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 324 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

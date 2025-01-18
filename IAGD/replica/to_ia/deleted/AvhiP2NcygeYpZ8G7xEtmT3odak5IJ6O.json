@@ -1,0 +1,164 @@
+{
+    "360597": {
+        "playerItemId": "360597",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/b013a_blunt.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028c_off_dmg%phys_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "957202060",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^Lдубина мутанта ^yразгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "18-64 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-8 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "35 ^Kвнутренних травм^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+75% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Раскалывающая сила (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "-0.5 сек. перезарядка умения к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 м дальность к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 18 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360598": {
+        "playerItemId": "360598",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a07_blunt003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn027_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "568757415",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sжелезный ^Wклевец ^gпробивания тьмы",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "15-126 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.76 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7-14 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "6-9 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+38% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Призрачные клинки (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 265 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

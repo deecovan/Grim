@@ -1,0 +1,152 @@
+{
+    "360452": {
+        "playerItemId": "360452",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar015_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a001b_ch_att_cun_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "98630072",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gосвящённый ^sвычурный ^Wнаряд ^yмастерства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "196 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+38 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 164 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 281 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360453": {
+        "playerItemId": "360453",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a05_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040e_off_dmg%pierce_02_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "680181385",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальные ^sполевые ^Wайлеты ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "172 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

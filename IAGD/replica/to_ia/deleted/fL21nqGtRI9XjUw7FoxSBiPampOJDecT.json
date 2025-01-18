@@ -1,0 +1,73 @@
+{
+    "589862": {
+        "playerItemId": "589862",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a01_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar033_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018b_ch_oa_02.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "505855174",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий эфиром ^Wкоготь-фетиш ^yатаки",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Oурона горением^E ^E с ^H+24% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+39 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+0.5 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 41 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

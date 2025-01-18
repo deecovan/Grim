@@ -1,0 +1,172 @@
+{
+    "1507453": {
+        "playerItemId": "1507453",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar004_ri_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040b_off_dmg%pierce_05_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1854390134",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gвысасывающий ^Wрубиновый перстень ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+37% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 237 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1507454": {
+        "playerItemId": "1507454",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a005_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar042_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1591182169",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкая ^Wзвезда ^gволшебного пожара",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сгустки эфира (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Обрушьте взрыв энергии эфира на своих врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eснаряд(ов)",
+                "type": "18"
+            },
+            {
+                "text": "1.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "623 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 52",
+                "type": "19"
+            }
+        ]
+    }
+}

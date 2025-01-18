@@ -1,0 +1,271 @@
+{
+    "131092": {
+        "playerItemId": "131092",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a04_feet01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad006a_res_piercefire_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar056_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1292449496",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемые ^sмеховые ^Wботинки ^gмистических ветров",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "117 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 10 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 104 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131093": {
+        "playerItemId": "131093",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a05_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn105_melee2h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028d_off_dmg%phys_01b_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2040270209",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gштормовая ^sпотёртая ^Wкоса ^yразгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "60-193 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+49% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+48% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "42% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению ^TЭлектрическая привязь (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Эфирная молния (20% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Молния пропитанная чистым эфиром исходит от вас и каскадами перебрасывается на ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "^H3 ^Eцель(ей)",
+                "type": "18"
+            },
+            {
+                "text": "26-364 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "149 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 236 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131094": {
+        "playerItemId": "131094",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a05_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn012_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1855936941",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sжелезный ^Wдерринжер ^gзвериной ярости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "15-48 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.70 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-6 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+46 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Призыв шипастого зверя (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+11% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+10% ^Xскорости атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 180 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

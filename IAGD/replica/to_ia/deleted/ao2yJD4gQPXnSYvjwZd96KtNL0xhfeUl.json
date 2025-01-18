@@ -1,0 +1,267 @@
+{
+    "131095": {
+        "playerItemId": "131095",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/a03_waist001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009b_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a006a_ch_att_physpi_03.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "42986596",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Wкушак ^yрешительности вепря",
+                "type": "3"
+            },
+            {
+                "text": "Магический пояс",
+                "type": "64"
+            },
+            {
+                "text": "10 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 10 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 104 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131096": {
+        "playerItemId": "131096",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/b016a_head.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad005a_res_poison_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020a_ch_oada_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "416023378",
+            "materiaRecord": "records\/items\/materia\/compa_ectoplasm.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yочищающая ^Lкаска Милтона ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "\"Шлем весь в насечках нанесённых за каждую победу.\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "78 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Eурона против эфироморфов",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против эфириалов",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eблокируемого урона",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Сверхзащита (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "-0.4 сек. перезарядка умения к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "49 физического урона к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+50% физического урона к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+100% урона внутренними травмами к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Эктоплазма",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Fэнергии^E",
+                "type": "31"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 127 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131097": {
+        "playerItemId": "131097",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a02_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh002_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1020503302",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^sтусклый ^Wтарч ^gотваги",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "18% шанс блокировать ^W80 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.80 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "38 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Eшанс блока щитом",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Сотрясающий удар (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 145 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

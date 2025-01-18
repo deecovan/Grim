@@ -1,0 +1,81 @@
+{
+    "1736730": {
+        "playerItemId": "1736730",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a03_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar016_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003a_ch_att_spi_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "554341054",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаиндевелое ^Wкостяное украшение ^yсознания",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eшанс на:^H",
+                "type": "18"
+            },
+            {
+                "text": "     23% ^Eответного снижения скорости атаки ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "     38% ^Eответного снижения скорости бега ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 162 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

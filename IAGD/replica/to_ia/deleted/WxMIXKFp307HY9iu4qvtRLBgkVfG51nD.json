@@ -1,0 +1,319 @@
+{
+    "589858": {
+        "playerItemId": "589858",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/c003_head.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1922642487",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bкорона преисподней",
+                "type": "5"
+            },
+            {
+                "text": "\"Когда-то её носил первый и единственный король-чародей Каирна, король Сэмюэль Дрэйк, прежде чем он был лишён своего титула и казнён за ересь духовенством\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "117 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+16% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Стихийный размен Искандры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 ^Eк умению ^TШкатулка бури Элголота (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Мистический взрыв (25% шанс при критической атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Магическая энергия выплёскивается из вас, нанося урон всем ближайшим врагам.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H40 - 59^E)",
+                "type": "18"
+            },
+            {
+                "text": "201 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "177-321 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 78 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 161 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "589859": {
+        "playerItemId": "589859",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a03_scepter007.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn012_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031c_off_dmg%lightning_01b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1133188711",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gразрядный ^Wскипетр ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "19-34 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-8 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "19% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела молнии (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Чистая молния ударяет в вашу цель.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "89-453 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "184 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eоглушение ^Eна ^H0.5 - 1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 152 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 152 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "589860": {
+        "playerItemId": "589860",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a05_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007c_lightning_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn013_melee2h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2020103614",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^sжелезный ^Wмушкетон ^gгнева",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "41-139 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1-12 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "43% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 197 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1966094": {
+        "playerItemId": "1966094",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a03_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar015_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014b_ch_speedattack_02_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "798924580",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gосвящённое ^Wкостяное украшение ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 160 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

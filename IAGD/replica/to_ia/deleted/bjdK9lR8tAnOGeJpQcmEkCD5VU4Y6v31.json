@@ -1,0 +1,85 @@
+{
+    "1769590": {
+        "playerItemId": "1769590",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a05_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh014_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1042719843",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^sсамодельный ^Wскутум ^gмести",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "25% шанс блокировать ^W250 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.00 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "62 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-5 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "46 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Xобщего ответного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Контрудар (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 305 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "1835081": {
+        "playerItemId": "1835081",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a11_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn021_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "546212700",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sимперский ^Wдерринжер ^gядовитого когтя",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "36-80 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9-20 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "9 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+57% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+59% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Смертоносный натиск (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 446 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1835082": {
+        "playerItemId": "1835082",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/b002b_legs.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad005a_res_poison_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar024_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1573482323",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yочищающие ^Xнаголенники сектантов Солаэля ^gмясной громадины",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "713 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "40% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "25% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "29% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 60 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

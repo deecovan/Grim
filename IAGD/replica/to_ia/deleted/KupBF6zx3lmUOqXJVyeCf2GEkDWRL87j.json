@@ -1,0 +1,346 @@
+{
+    "622610": {
+        "playerItemId": "622610",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a05_shoulder02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar102_ar_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "984640029",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрунические ^sтяжёлые ^Wайлеты ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наплечники",
+                "type": "64"
+            },
+            {
+                "text": "212 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+28 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 287 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "622611": {
+        "playerItemId": "622611",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a07_gun1h003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn022_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2118003212",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sстальной ^Wсемиствольник ^gотвращения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "14-78 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.62 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8-15 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "7 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^LВознесение (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 247 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "622612": {
+        "playerItemId": "622612",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a05_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar006_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1676376673",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивная ^sпровинциальная ^Wтиара ^Gгнева Олерона",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "119 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.2 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Боевой раж (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 100 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 206 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "622613": {
+        "playerItemId": "622613",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/b001_shieldb.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh005_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a007b_ch_att_all_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "927194713",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгосподствующий ^Lбастион Коменданта ^yзоркости орла",
+                "type": "4"
+            },
+            {
+                "text": "\"Выкован из закалённой стали и безжалостной ненависти\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "24% шанс блокировать ^W225 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.65 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "54 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Kсопротивления физическому урону^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "70 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Удар врасплох (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 ^Eк умению ^LЭгида Менгира (?)",
+                "type": "18"
+            },
+            {
+                "text": "-0.5 сек. перезарядка умения к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 190 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

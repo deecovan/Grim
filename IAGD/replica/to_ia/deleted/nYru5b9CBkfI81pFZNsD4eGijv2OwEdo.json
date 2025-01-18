@@ -1,0 +1,331 @@
+{
+    "753719": {
+        "playerItemId": "753719",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a05_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao013c_chaos_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn012_melee2h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1982336133",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yопустошающий ^sжелезный ^Wмушкетон ^gзвериной ярости",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "41-139 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-10 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "39% конверсия: ^E^Kфизический урон^E в ^Pурон хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+100 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6 к умению Призыв шипастого зверя (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+13% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 197 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "753720": {
+        "playerItemId": "753720",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn023_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "439833646",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящий ^sразбойничий ^Wревольвер ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "29-46 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "24 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+30% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "12% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+26 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо мороза (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Окружает колдующего кольцом льда, замораживающим врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "256 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "448 ^Cобморожения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eзамедления бега ^Eна ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 301",
+                "type": "19"
+            }
+        ]
+    },
+    "753721": {
+        "playerItemId": "753721",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn016_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031c_off_dmg%lightning_02b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "28859780",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий адом ^sразбойничий ^Wревольвер ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "29-46 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "27 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Oурона горением^E ^E с ^H+36% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+45% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "14% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо пламени (20% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Окружите себя кольцом пламени, обжигающим ближайших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "4 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "243 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "450 ^Oгорения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 301",
+                "type": "19"
+            }
+        ]
+    }
+}

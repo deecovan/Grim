@@ -1,0 +1,152 @@
+{
+    "458789": {
+        "playerItemId": "458789",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class015_arcanist01_je.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039e_off_dmg%chaos_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "461147051",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gмагическая ^sпозолоченная ^Wдиадема ^yпустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "238 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+29% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "-4% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 42",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 159 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "458790": {
+        "playerItemId": "458790",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a06_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad007a_res_piercecold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038e_off_dmg%aether_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "597958444",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемые ^sразбойничьи ^Wрейтузы ^yэфира",
+                "type": "3"
+            },
+            {
+                "text": "Магические штаны",
+                "type": "64"
+            },
+            {
+                "text": "315 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

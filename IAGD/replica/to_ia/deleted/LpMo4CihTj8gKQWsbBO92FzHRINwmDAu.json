@@ -1,0 +1,176 @@
+{
+    "1081358": {
+        "playerItemId": "1081358",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a06_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030e_off_dmg%fire_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1053321783",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальный ^sвычурный ^Wнаряд ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "196 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 164 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 281 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1081359": {
+        "playerItemId": "1081359",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/c014_gun2h.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "773400882",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bволя судьбы",
+                "type": "5"
+            },
+            {
+                "text": "\"Каждой пуле суждено встретиться со своей целью, независимо от того, кто стоит на её пути\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпические арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "40-45 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "40-45 ^Cурона холодом^S",
+                "type": "17"
+            },
+            {
+                "text": "40-45 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.36 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "21 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+86% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+52 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Стихийный размен Искандры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+4 к умению Взрывной заряд (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+100% шанс пробить навылет к умению Взрывной заряд (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 290",
+                "type": "19"
+            }
+        ]
+    }
+}

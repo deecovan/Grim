@@ -1,0 +1,307 @@
+{
+    "1572871": {
+        "playerItemId": "1572871",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a09_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn004_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028d_off_dmg%phys_03_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1479429478",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаразный ^sштурмовой ^Wкарабин ^yразгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "90-272 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "90 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+133% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+127% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+50% ^Lурона ядом^E ^E с ^H+63% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "16 ^Eснижения сопротивлений ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ядовитая сверхновая (30% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Взрыв ядовитых испарений, отравляющий всех врагов поблизости.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "1050 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 370 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1572872": {
+        "playerItemId": "1572872",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/b204b_scepter.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007b_lightning_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn024_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "285943978",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^Xтайный Алый скипетр ^gстихий",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "11-32 ^Zурона молнией^S",
+                "type": "17"
+            },
+            {
+                "text": "11-32 ^Aурона эфиром^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5-27 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "12 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+64% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+75% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+62% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Эфирный луч Альбрехта (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Мистическое усиление (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Бешеная буря (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "166-478 урона молнией к умению Эфирный луч Альбрехта (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон огнём в урон молнией к умению Эфирный луч Альбрехта (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "-10% затрат энергии к умению Эфирный луч Альбрехта (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 53",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1572873": {
+        "playerItemId": "1572873",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a07_scepter003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn038_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2058011842",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wритуальный скипетр ^gкаббалы",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "33-65 ^Pурона хаосом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+4% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+85% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+33 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Одержимость (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 48 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 315 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 315 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

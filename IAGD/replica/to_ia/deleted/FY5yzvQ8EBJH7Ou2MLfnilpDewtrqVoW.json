@@ -1,0 +1,160 @@
+{
+    "360498": {
+        "playerItemId": "360498",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/c007_gun2h.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "612738589",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bадская пасть",
+                "type": "5"
+            },
+            {
+                "text": "Эпические арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "54-80 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "27 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+43% ^Oурона горением^E ^E с ^H+34% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "52% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению ^TВзрывной заряд (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Праведное рвение (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 14 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 112 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "360499": {
+        "playerItemId": "360499",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/c004_shield.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1800981231",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bостанавливающий пламя",
+                "type": "5"
+            },
+            {
+                "text": "Эпический щит",
+                "type": "64"
+            },
+            {
+                "text": "24% шанс блокировать ^W186 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.50 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "47 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-11 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "94 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RОгонь возмездия (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Праведное рвение (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 17 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 188 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

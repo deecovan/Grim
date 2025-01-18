@@ -1,0 +1,196 @@
+{
+    "917511": {
+        "playerItemId": "917511",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn017_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1596594423",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающая ^sразбойничья ^Wпистоль ^gнапалма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "18-81 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9-17 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "6-9 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+52% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TПламя Игнаффара (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 295 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "917512": {
+        "playerItemId": "917512",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b204b_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031a_off_dmg%lightning_05_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1494230302",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Lпринуждённый дух ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+74% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+154% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+74% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+153% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "44% конверсия: ^E^Oурон огнём^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+35 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H47%",
+                "type": "18"
+            },
+            {
+                "text": "-16% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "-2 м целевая область к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+30% критического урона к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон эфиром в урон молнией к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: урон огнём в урон молнией к умению Опустошение (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "6920 электрошока за 5 сек. к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+30% критического урона к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 400",
+                "type": "19"
+            }
+        ]
+    }
+}

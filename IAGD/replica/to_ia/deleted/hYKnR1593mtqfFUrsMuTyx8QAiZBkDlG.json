@@ -1,0 +1,188 @@
+{
+    "1835054": {
+        "playerItemId": "1835054",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/b206c_sword.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn007_melee1h_d.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1227196742",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gофицерский ^Xклинок Нарена Кюра ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "\"Как оказалось, есть черта, которую не стоит пересекать даже арковианским олигархам...\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "68-82 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "9-22 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+38% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+57% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+32 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Аспект хранителя (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": "+3 ^Eк умению Преимущество Марковиана (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Полевой командир (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eсек. длительность ^Eк умению ^ZБоевой дух (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "63-288 ^Pурона хаосом^E ^Eк умению ^ZБоевой дух (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "523-1570 ^Pурона хаосом^E ^Eк умению ^ZПреимущество Марковиана (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": "100% конверсия: ^E^Kфизический урон^E в ^Pурон хаосом^E ^Eк умению ^ZПреимущество Марковиана (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 54 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 365 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1835055": {
+        "playerItemId": "1835055",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a07_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad003a_res_cold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1445668015",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yукрывающие ^sштурмовые ^Wботфорты ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "482 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+15% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "33% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "39% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

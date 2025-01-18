@@ -1,0 +1,85 @@
+{
+    "688146": {
+        "playerItemId": "688146",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007c_lightning_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn015_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1139342159",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^sстальной ^Wсамострел ^gрезни",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "79-156 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.38 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "4-24 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eшанс на ^H144 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+79% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "32% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+40 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Кольцо стали (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 318",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "458770": {
+        "playerItemId": "458770",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a06_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad003b_res_cold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a037a_def_reflectpierce_05_sh.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1092619783",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yукрывающий ^sразбойничий ^Wтарч ^yшипов",
+                "type": "3"
+            },
+            {
+                "text": "Магический щит",
+                "type": "64"
+            },
+            {
+                "text": "25% шанс блокировать ^W350 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.90 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "67 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "46% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "297 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 363 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

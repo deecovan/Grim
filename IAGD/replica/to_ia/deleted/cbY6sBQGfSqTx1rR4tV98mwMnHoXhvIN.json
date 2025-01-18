@@ -1,0 +1,407 @@
+{
+    "1277992": {
+        "playerItemId": "1277992",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a05_sword001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao008b_lifeleech_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn005_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1278884176",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yвампирский ^sжелезный ^Wбастард ^gпремудрости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "26-40 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.99 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+7 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Повторяющаяся ракета Панетти (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 180",
+                "type": "19"
+            }
+        ]
+    },
+    "1277993": {
+        "playerItemId": "1277993",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a03_scepter001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao005b_fire_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn017_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1750309272",
+            "materiaRecord": "records\/items\/materia\/compa_mutagenicichor.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yиссушающий ^Wскипетр ^gнапалма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "19-34 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5-10 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+46% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+31% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "11% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Пламя Игнаффара (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Сукровица мутанта",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "15 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "31"
+            },
+            {
+                "text": "+10% ^Lурона кислотой^E",
+                "type": "31"
+            },
+            {
+                "text": "+10% ^Lурона ядом^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Ядовитая бомба (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Метайте во врагов бомбы, оставляющие после взрыва ядовитое облако.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "32 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "4 ^Eсек. длительность",
+                "type": "25"
+            },
+            {
+                "text": "2.2 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "12% ^Eурона основным оружием (^H9 - 24^E)",
+                "type": "25"
+            },
+            {
+                "text": "20 ^Lурона кислотой^E",
+                "type": "25"
+            },
+            {
+                "text": "212 ^Lяда^E ^Eза ^H2 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 152 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 152",
+                "type": "19"
+            }
+        ]
+    },
+    "1277994": {
+        "playerItemId": "1277994",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/b011a_dagger.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038c_off_dmg%aether_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "895543530",
+            "materiaRecord": "records\/items\/materia\/compa_searingember.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Xкарающий клык ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный кинжал",
+                "type": "64"
+            },
+            {
+                "text": "13-25 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "48% конверсия: ^E^Cурон холодом^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xобщей скорости^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Невидимая рука Нидаллы (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "373 урона кислотой к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: проникающий урон в урон кислотой к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "-20% затрат энергии к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Тлеющий уголь",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-4 ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Вспышка (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Запустите шар выжигающего пламени в вашу цель.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "2.5 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "20% ^Eурона основным оружием (^H15 - 40^E)",
+                "type": "25"
+            },
+            {
+                "text": "92-106 ^Oурона огнём^E",
+                "type": "25"
+            },
+            {
+                "text": "216 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 74 Искусность",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 93 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

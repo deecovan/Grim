@@ -1,0 +1,152 @@
+{
+    "1900555": {
+        "playerItemId": "1900555",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a09_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar046_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2064151829",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусное ^sизысканное ^Wнарукавье ^gкаббалы",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "677 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+33% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+36% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 52 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1900556": {
+        "playerItemId": "1900556",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a11_axe002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004b_cold_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn014_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "910276631",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^sизысканный ^Wлабрис ^gсвирепости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "60-161 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.80 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "17 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "2-13 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 56 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 481 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

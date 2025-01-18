@@ -1,0 +1,144 @@
+{
+    "360469": {
+        "playerItemId": "360469",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a06_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar013_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "885765843",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивные ^sвычурные ^Wбармы ^gгероизма",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "262 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H5%",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 227 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360470": {
+        "playerItemId": "360470",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a05_torso003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar023_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a004b_ch_att_cunphy_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "409468115",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозный ^sпехотный ^Wнагрудник ^yхрабрости волка",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "179 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+38 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+46 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^EЭффекты лечения усилены на ^H8%",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 239 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

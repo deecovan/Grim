@@ -1,0 +1,224 @@
+{
+    "294912": {
+        "playerItemId": "294912",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/c002_torso.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1906693456",
+            "materiaRecord": "records\/items\/materia\/compa_mutatedscales.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bбригантина ночного охотника",
+                "type": "5"
+            },
+            {
+                "text": "Эпический нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "132 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+34 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Холод ночи (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 ^Eк умению ^TЛеденящие заряды (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Чешуя мутанта",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+180 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 134 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "294913": {
+        "playerItemId": "294913",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/b016a_head.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad005a_res_poison_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020a_ch_oada_01.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "416023378",
+            "materiaRecord": "records\/items\/materia\/compa_ectoplasm.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yочищающая ^Lкаска Милтона ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "\"Шлем весь в насечках нанесённых за каждую победу.\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "78 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Eурона против эфироморфов",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против эфириалов",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eблокируемого урона",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Сверхзащита (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "-0.4 сек. перезарядка умения к умению Рывок (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "48 физического урона к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+50% физического урона к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+100% урона внутренними травмами к умению Тренировка со щитом (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Эктоплазма",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Fэнергии^E",
+                "type": "31"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 127 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

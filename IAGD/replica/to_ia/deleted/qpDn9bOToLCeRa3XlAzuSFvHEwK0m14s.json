@@ -1,0 +1,176 @@
+{
+    "360500": {
+        "playerItemId": "360500",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/c001_legs.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1403046578",
+            "materiaRecord": "records\/items\/materia\/compa_bristlyfur.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bрейтузы туманного странника",
+                "type": "5"
+            },
+            {
+                "text": "Эпические тяжёлые штаны",
+                "type": "64"
+            },
+            {
+                "text": "162 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Защитная сфера Майвен (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Вознесение (?)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Щетинистый мех",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+90 ^Fздоровья^E",
+                "type": "31"
+            },
+            {
+                "text": "+25% ^Eзапаса сил",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 211 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360501": {
+        "playerItemId": "360501",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/waist\/c104_waist.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "92592479",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bшнур звёздного пророка",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пояс",
+                "type": "64"
+            },
+            {
+                "text": "35 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eк умению ^TЭлектрическая привязь (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Разбитая звезда (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 222 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

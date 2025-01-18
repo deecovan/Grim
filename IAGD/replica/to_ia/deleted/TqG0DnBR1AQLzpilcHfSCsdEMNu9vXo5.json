@@ -1,0 +1,85 @@
+{
+    "1507399": {
+        "playerItemId": "1507399",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad010b_res_firecold_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar041_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2115837160",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивая ^Wбриллиантовая печатка ^gмагического баланса",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+26% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "49% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "44% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 52",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 241 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "1900546": {
+        "playerItemId": "1900546",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a03_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao012c_aether_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn103_melee2h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "498674432",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискажающий ^sржавый ^Wполэкс ^gобжигающих рун",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "31-151 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.48 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "11 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+54% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "43% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 155 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1900547": {
+        "playerItemId": "1900547",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a02_sword001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn027_melee1h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "313449529",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sпримитивный ^Wмеч ^gпробивания тьмы",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "14-21 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "6-11 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Призрачные клинки (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 83 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

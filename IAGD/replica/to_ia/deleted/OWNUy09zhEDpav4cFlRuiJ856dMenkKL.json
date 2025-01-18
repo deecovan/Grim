@@ -1,0 +1,303 @@
+{
+    "851970": {
+        "playerItemId": "851970",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a08_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn101_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "858135172",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпоглощающая ^sразбойничья ^Wсабля ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "30-76 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+32% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Mурона разложением^E ^E с ^H+44% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 301",
+                "type": "19"
+            }
+        ]
+    },
+    "851971": {
+        "playerItemId": "851971",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/b003b_axe.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn006_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "895198237",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкровожадный ^Lтопор владыки ямы ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "53-83 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.89 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "72 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+85% ^Rурона кровотечением^E ^E с ^H+43% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "5% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+39 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Анатомия убийства (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "-0.5 сек. перезарядка умения к умению Кольцо стали (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "2034 кровотечения за 3 сек. к умению Кольцо стали (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: проникающий урон в физический урон к умению Кольцо стали (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 311 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "851972": {
+        "playerItemId": "851972",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn023_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a039c_off_dmg%chaos_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "832498216",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящий ^Wритуальный жезл ^yпустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Pурона хаосом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "21 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+23% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+92% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+30% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо мороза (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Окружает колдующего кольцом льда, замораживающим врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "257 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "450 ^Cобморожения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eзамедления бега ^Eна ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

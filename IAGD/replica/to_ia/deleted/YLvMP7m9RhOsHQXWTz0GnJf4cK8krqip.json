@@ -1,0 +1,168 @@
+{
+    "1736719": {
+        "playerItemId": "1736719",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a05_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar102_ar_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035e_off_dmg%bleed_04_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "768036293",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрунические ^sпограничные ^Wштаны ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "231 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 232 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1736720": {
+        "playerItemId": "1736720",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn103_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "888738997",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sразбойничий ^Wревольвер ^gобжигающих рун",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "29-46 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "6-10 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "7 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+30% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+36% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+38% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 301 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

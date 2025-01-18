@@ -1,0 +1,81 @@
+{
+    "1769485": {
+        "playerItemId": "1769485",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a07_axe002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao005b_fire_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn034_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1224393358",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yиссушающий ^sстальной ^Wинтрепель ^gогненной пустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "38-79 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5-8 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Oурона горением^E ^E с ^H+44% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Термитная мина (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 265 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

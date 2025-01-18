@@ -1,0 +1,144 @@
+{
+    "360491": {
+        "playerItemId": "360491",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a05_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar032_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014c_ch_speedattack_01_glo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1091720198",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gдемоническое ^sчешуйчатое ^Wнарукавье ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "171 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 136 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "360492": {
+        "playerItemId": "360492",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/b001_feet.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar010_fe_b.dbr",
+            "suffixRecord": "",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ad12_vitalityresist.dbr",
+            "transmuteRecord": "",
+            "seed": "1429858924",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gэкстремальные ^Gботинки адепта",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "125 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+319 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+11%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "3% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "41% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 44",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 104 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

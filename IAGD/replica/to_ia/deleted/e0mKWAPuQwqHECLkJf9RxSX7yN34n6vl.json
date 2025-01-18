@@ -1,0 +1,192 @@
+{
+    "2162693": {
+        "playerItemId": "2162693",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a04_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018a_ch_oa_02.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1093167512",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкие ^sразбойничьи ^Wнаплечники ^yатаки",
+                "type": "3"
+            },
+            {
+                "text": "Магические наплечники",
+                "type": "64"
+            },
+            {
+                "text": "111 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+17 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 124 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "2162694": {
+        "playerItemId": "2162694",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a03_blunt002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003b_pierce_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1570233638",
+            "materiaRecord": "records\/items\/materia\/compa_serratedspike.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающая ^sпрочная ^Wдубинка ^yрвения",
+                "type": "3"
+            },
+            {
+                "text": "Магическая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "7-75 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.66 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-6 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Зазубренный шип",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Rпроникающего урона^E",
+                "type": "31"
+            },
+            {
+                "text": "9 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Rурона кровотечением^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Бронебойное оружие (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Усиливает ваши атаки, делая их бронебойными.",
+                "type": "38"
+            },
+            {
+                "text": "^oУсиления активируются автоматически.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "50 ^Eэнергии занято",
+                "type": "25"
+            },
+            {
+                "text": "44 ^Rпроникающего урона^E",
+                "type": "25"
+            },
+            {
+                "text": "+25% ^Rпроникающего урона^E",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "24"
+            },
+            {
+                "text": "5 ^Kфизического урона^E",
+                "type": "25"
+            },
+            {
+                "text": "+25% ^Kфизического урона^E",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 122 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

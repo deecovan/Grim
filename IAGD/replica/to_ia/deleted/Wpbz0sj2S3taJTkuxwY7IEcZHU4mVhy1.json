@@ -1,0 +1,77 @@
+{
+    "1769540": {
+        "playerItemId": "1769540",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar106_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "255677440",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховная ^Wтопазовая печатка ^gпленённых душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Поднятие скелетов (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+29% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "12% ^Eснижения длительности заморозки",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 176 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

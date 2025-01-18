@@ -1,0 +1,172 @@
+{
+    "1507400": {
+        "playerItemId": "1507400",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_class032_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020a_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1591533843",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gжнеческое ^sпозолоченное ^Wоблачение ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "267 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.8 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Некротическое лезвие (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Казнь (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 201 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 333 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "1507401": {
+        "playerItemId": "1507401",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a09_blunt2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao005c_fire_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn010_melee2h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "61181669",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yиссушающий ^sразбойничий ^Wослоп ^gжестокости",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "68-479 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.50 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "27-39 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "72 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+131% ^Rурона кровотечением^E ^E с ^H+94% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "34% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Eурона против зверей",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Eурона против зверолюдей",
+                "type": "18"
+            },
+            {
+                "text": "+52 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению Боевой раж (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

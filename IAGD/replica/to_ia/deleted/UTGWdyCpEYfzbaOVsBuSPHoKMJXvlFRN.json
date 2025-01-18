@@ -1,0 +1,283 @@
+{
+    "1572925": {
+        "playerItemId": "1572925",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/c014_gun1h.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1818479281",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bхолодный ствол беспощадного севера",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "10-24 ^Cурона холодом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "189 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+85% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eшанс на ^H+234% ^Cурона обморожением^E ^E с ^H+41% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "-4% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Взрыв клинков Амарасты (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 352 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1572926": {
+        "playerItemId": "1572926",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a09_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn019_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040d_off_dmg%pierce_03_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1305751386",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий эфиром ^sштурмовой ^Wкарабин ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "90-272 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "19 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+107% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+65% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "29% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+46 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Мистический взрыв (20% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Магическая энергия выплёскивается из вас, нанося урон всем ближайшим врагам.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H196 - 320^E)",
+                "type": "18"
+            },
+            {
+                "text": "703 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "593-974 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 46 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 370 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1572927": {
+        "playerItemId": "1572927",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/b201b_shoulder.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "560986238",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^Xсполдеры Избранных ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "271 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+29% ^Oурона горением^E ^E с ^H+78% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Cурона обморожением^E ^E с ^H+78% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+29% ^Zурона электрошоком^E ^E с ^H+67% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "29% конверсия: ^E^Rпроникающий урон^E в ^Yстихийный урон^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Кластерная бомба (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+3 к умению Воспламенение (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+3 ^Eк умению Круговой удар (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

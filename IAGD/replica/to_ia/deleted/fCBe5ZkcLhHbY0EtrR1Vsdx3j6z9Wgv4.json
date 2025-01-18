@@ -1,0 +1,331 @@
+{
+    "1572928": {
+        "playerItemId": "1572928",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a07_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar036_ar_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1013890384",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^sштурмовые ^Wботфорты ^gразрушения",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "482 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+37% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Взрывной удар (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1572929": {
+        "playerItemId": "1572929",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/b201b_axe2h.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao005c_fire_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn032_melee2h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "765426132",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yиссушающий ^Xкорванский огненный протазан ^gфакира",
+                "type": "4"
+            },
+            {
+                "text": "Редкое двуручное копьё",
+                "type": "64"
+            },
+            {
+                "text": "96-292 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.50 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "28-41 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+155% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+105% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+89% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "52% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+539 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+61 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению Кара (?)",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Стихийный баланс (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+4 к умению Кластерная бомба (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": "+160 ^Eградусов угол атаки ^Eк умению ^ZКара (?)",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Eцель(ей) ^Eк умению ^ZКара (?)",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eурона оружием ^Eк умению ^ZКара (?)",
+                "type": "18"
+            },
+            {
+                "text": "825 ^Oурона огнём^E ^Eк умению ^ZКара (?)",
+                "type": "18"
+            },
+            {
+                "text": "100% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E ^Eк умению ^ZКара (?)",
+                "type": "18"
+            },
+            {
+                "text": "^Xобщий урон изменяется на ^H15%^E ^Eк умению ^ZПраведное рвение (?)",
+                "type": "18"
+            },
+            {
+                "text": "304 урона огнём к умению Стихийный размен Искандры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "+6% скорости атаки к умению Стихийный размен Искандры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": "6% сопротивления физическому урону к умению Стихийный размен Искандры (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 376 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1572930": {
+        "playerItemId": "1572930",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn019_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "904407179",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий эфиром ^Wритуальный жезл ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Mурона здоровью^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "11 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+32% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+33 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Мистический взрыв (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Магическая энергия выплёскивается из вас, нанося урон всем ближайшим врагам.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H196 - 320^E)",
+                "type": "18"
+            },
+            {
+                "text": "560 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "472-791 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 46 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

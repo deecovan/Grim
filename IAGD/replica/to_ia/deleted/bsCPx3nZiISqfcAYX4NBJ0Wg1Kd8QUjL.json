@@ -1,0 +1,164 @@
+{
+    "589843": {
+        "playerItemId": "589843",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a002_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009b_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar102_ar_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "744892108",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивное ^Wзолотое кольцо ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 79 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "589844": {
+        "playerItemId": "589844",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b011a_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a033a_off_dmg%vitality_01_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2003429285",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Lтоксичный жезл гроблов ^yтлена",
+                "type": "4"
+            },
+            {
+                "text": "\"Древняя пословица гроблов: две сушёные головы лучше одной\"",
+                "type": "16"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H37%",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "-16% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Злобный глаз Дрига (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": "36% урона оружием к умению Злобный глаз Дрига (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 12 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 143 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

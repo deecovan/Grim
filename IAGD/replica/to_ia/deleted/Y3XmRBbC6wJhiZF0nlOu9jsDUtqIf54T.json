@@ -1,0 +1,116 @@
+{
+    "360625": {
+        "playerItemId": "360625",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a001_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004a_cold_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003a_ch_att_spi_05.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ad07_bleedresist.dbr",
+            "transmuteRecord": "",
+            "seed": "844285414",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодное ^Wмедное кольцо ^yсознания",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+1 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "4% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 40 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360626": {
+        "playerItemId": "360626",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005b_phymod_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016b_ch_speedcast_02_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "491043086",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучее ^Wгравированное кольцо ^yсмекалки",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.9 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 231 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

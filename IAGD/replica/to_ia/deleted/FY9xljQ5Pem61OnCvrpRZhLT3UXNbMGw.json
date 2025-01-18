@@ -1,0 +1,164 @@
+{
+    "1507430": {
+        "playerItemId": "1507430",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/c104_feet.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "445348851",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bмагматические сабатоны",
+                "type": "5"
+            },
+            {
+                "text": "Эпическая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "434 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+45% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+54% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+41% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "24% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Воспламенение (Инквизитор)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Сокрушающий взрыв (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507431": {
+        "playerItemId": "1507431",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a07_legs02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad011a_res_firelightning_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar007_arje_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1861810083",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yустойчивые ^sштурмовые ^Wнаголенники ^gщедрости природы",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые штаны",
+                "type": "64"
+            },
+            {
+                "text": "585 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+312 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление здоровья на ^H9%",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "28% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикое сердце (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 50",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 536 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

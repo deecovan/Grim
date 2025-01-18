@@ -1,0 +1,132 @@
+{
+    "360618": {
+        "playerItemId": "360618",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a001_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004a_cold_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018b_ch_oa_04.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ad12_vitalityresist.dbr",
+            "transmuteRecord": "",
+            "seed": "926061276",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодное ^Wсеребряное кольцо ^yатаки",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "6 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+60 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+0.7 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "5% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 40 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360619": {
+        "playerItemId": "360619",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring03.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009b_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar103_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "236147683",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивная ^Wтопазовая печатка ^gсохранённых душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+142 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Урожай костей (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 30",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 179 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

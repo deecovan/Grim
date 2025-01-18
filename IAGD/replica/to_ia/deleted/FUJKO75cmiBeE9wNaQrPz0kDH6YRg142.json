@@ -1,0 +1,81 @@
+{
+    "1736761": {
+        "playerItemId": "1736761",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a06_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad016b_res_life_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh002_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1264537525",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yсберегающий ^sразбойничий ^Wтарч ^gотваги",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "25% шанс блокировать ^W350 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.90 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "67 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Eшанс блока щитом",
+                "type": "18"
+            },
+            {
+                "text": "26% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Сотрясающий удар (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 363 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

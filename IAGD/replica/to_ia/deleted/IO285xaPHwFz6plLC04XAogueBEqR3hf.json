@@ -1,0 +1,223 @@
+{
+    "1376344": {
+        "playerItemId": "1376344",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/c004_hands.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "932786424",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bзавораживающие поручи",
+                "type": "5"
+            },
+            {
+                "text": "Эпические наручи",
+                "type": "64"
+            },
+            {
+                "text": "130 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Колдовское пламя Солаэля (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 29 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 124 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1376345": {
+        "playerItemId": "1376345",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004c_cold_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn014_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1401650077",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодная ^sразбойничья ^Wвинтовка ^gсвирепости",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "67-232 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "25 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "1-18 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "37% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+41 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "1376346": {
+        "playerItemId": "1376346",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a06_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar028_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a020b_ch_oada_04.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1736190069",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gтвердокожие ^sчешуйчатые ^Wкраги ^yготовности",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "232 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+37 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H6%",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 36",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 168 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

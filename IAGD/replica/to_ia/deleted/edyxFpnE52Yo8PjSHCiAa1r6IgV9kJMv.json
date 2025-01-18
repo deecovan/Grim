@@ -1,0 +1,163 @@
+{
+    "360620": {
+        "playerItemId": "360620",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a002_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao002a_phys_04.dbr",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1381443423",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yсокрушающее ^Wзолотое кольцо",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-7 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+5 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 77 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360621": {
+        "playerItemId": "360621",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a02_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003a_pierce_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018b_ch_oa_03.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "707429475",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^Wчереп-фетиш ^yатаки",
+                "type": "3"
+            },
+            {
+                "text": "Магический амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-4 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+44 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 18 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 92 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360622": {
+        "playerItemId": "360622",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a04_necklace02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad017b_res_chaos_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018b_ch_oa_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "588418285",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yупорядоченный ^Wсапфировый амулет ^yатаки",
+                "type": "3"
+            },
+            {
+                "text": "Магический амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+80 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.9 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 38",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 208 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,315 @@
+{
+    "917522": {
+        "playerItemId": "917522",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a09_gun2h003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn012_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "485543911",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gразрядный ^sразбойничий ^Wскорпион ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "93-195 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.38 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3-29 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "41% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+67 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Первобытный удар (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела молнии (20% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Чистая молния ударяет в вашу цель.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "243-1172 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "600 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eоглушение ^Eна ^H0.5 - 1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 370 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "917523": {
+        "playerItemId": "917523",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a06_hands02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa007a_lifemod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar038_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1732113978",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yживительные ^sтяжёлые ^Wрукавицы ^Gостроумия Майвен",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые наручи",
+                "type": "64"
+            },
+            {
+                "text": "308 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "917524": {
+        "playerItemId": "917524",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/c103_head.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2023077017",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bискореняющий взор",
+                "type": "5"
+            },
+            {
+                "text": "\"Мир кишит язычниками и еретиками. Итак, по милости Люминари, искореним это проклятие!\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "245 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+31% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.9 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H11%",
+                "type": "18"
+            },
+            {
+                "text": "23% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TПламя Игнаффара (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^LОсвящение (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Взрывная волна (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Волна огня сопровождает ваши атаки.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "10 ^Eм дальность",
+                "type": "18"
+            },
+            {
+                "text": "276 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "316 ^Oгорения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 159 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

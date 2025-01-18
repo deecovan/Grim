@@ -1,0 +1,97 @@
+{
+    "1966090": {
+        "playerItemId": "1966090",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/b002c_axe.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao004b_cold_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a029c_off_dmg%cold_04_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "967604628",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yхолодный ^Xпризрачный пальстаб ^yхлада",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "39-76 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "22 ^Cурона холодом^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "17 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+142% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+81% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Вихрь смерти (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Некротическое лезвие (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": "60% урона оружием к умению Вихрь смерти (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "60% урона оружием к умению Некротическое лезвие (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 55 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 393 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "1769594": {
+        "playerItemId": "1769594",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a10_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007b_lightning_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn010_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "522928017",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^sштурмовой ^Wбарте ^gжестокости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "52-143 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.84 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-20 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "33 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Rурона кровотечением^E ^E с ^H+45% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "14% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Eурона против зверей",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Eурона против зверолюдей",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Боевой раж (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 54 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 430 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1769595": {
+        "playerItemId": "1769595",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a10_sword001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn007_melee1h_d.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "943373874",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gофицерский ^sштурмовой ^Wфальшион ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "54-89 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.93 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "11-24 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+31% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+38 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Полевой командир (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 54 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 399 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

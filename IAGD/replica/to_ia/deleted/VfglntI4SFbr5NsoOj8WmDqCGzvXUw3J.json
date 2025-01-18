@@ -1,0 +1,164 @@
+{
+    "1507406": {
+        "playerItemId": "1507406",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a07_feet01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018a_ch_oa_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1010009324",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальные ^sразбойничьи ^Wботфорты ^yатаки",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "367 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+55 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 208 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1507407": {
+        "playerItemId": "1507407",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a08_head003.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar021_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a008b_ch_life_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "570791257",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gрезонансная ^sимперская ^Wшляпа ^yздоровья",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "380 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+643 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Eпоглощения энергии вражеских заклинаний",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 197 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 372 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

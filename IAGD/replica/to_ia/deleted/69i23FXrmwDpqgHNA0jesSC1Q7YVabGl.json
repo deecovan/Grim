@@ -1,0 +1,291 @@
+{
+    "1900559": {
+        "playerItemId": "1900559",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a10_blunt001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao007b_lightning_06.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn024_melee1h_d.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1883464834",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yзаряженный ^sимперский ^Wклевец ^gстихий",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "50-156 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.76 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-23 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "12 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+59% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "14% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Бешеная буря (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 53 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 430 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1900560": {
+        "playerItemId": "1900560",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a07_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar034_ar_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a015b_ch_speedmove_02_feet.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "215275288",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнадзирательские ^sштурмовые ^Wботфорты ^yспешки",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "482 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+11%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Обряд Могдрогена (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "69"
+            },
+            {
+                "text": "13% ^Aсопротивления эфиру^E",
+                "type": "69"
+            },
+            {
+                "text": "11% ^Pсопротивления хаосу^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 50 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1900561": {
+        "playerItemId": "1900561",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a06_head005.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar032_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1200742622",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивная ^sсегментарная ^Wмаска ^gпроницательности",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "175 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+8 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Озарение (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Введите себя в состояние транса, позволяя тёмным силам течь через вашу плоть.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 130 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 261 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

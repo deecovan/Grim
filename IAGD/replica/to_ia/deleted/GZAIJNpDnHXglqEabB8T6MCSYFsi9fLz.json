@@ -1,0 +1,180 @@
+{
+    "360448": {
+        "playerItemId": "360448",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a07_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006a_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar047_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1157208912",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховные ^sштурмовые ^Wботфорты ^gмора",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "482 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ядовитый луч (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запускает пучок токсинов в ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1.2 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "188 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "1920 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 35",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 390 Телосложение [^y- 9% от ^r429]",
+                "type": "19"
+            }
+        ]
+    },
+    "360449": {
+        "playerItemId": "360449",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a07_axe2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001c_physbonus_04.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn023_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1442122242",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sжелезный ^Wбердыш ^gаннигиляции",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный топор",
+                "type": "64"
+            },
+            {
+                "text": "90-279 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.57 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "15-27 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+79% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+67% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+10 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 302 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

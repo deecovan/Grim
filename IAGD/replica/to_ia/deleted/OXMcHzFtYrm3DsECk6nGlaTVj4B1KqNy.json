@@ -1,0 +1,339 @@
+{
+    "2162708": {
+        "playerItemId": "2162708",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar027_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2058607415",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкая ^Wлента ^gпревосходства",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Силовая волна (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 14 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "2162709": {
+        "playerItemId": "2162709",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/c002_axe.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "124084296",
+            "materiaRecord": "records\/items\/materia\/compa_searingember.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bкасание жнеца",
+                "type": "5"
+            },
+            {
+                "text": "\"Древнее орудие ритуального жертвоприношения, выкованное давно умершими людьми\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "33-58 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.91 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Взрыв клинков Амарасты (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Урожай костей (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Касание жнеца (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Холодная рука смерти нависает над вашими врагами.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "200 ^Eградусов угол атаки",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eцель(ей)",
+                "type": "18"
+            },
+            {
+                "text": "33% ^Eурона основным оружием (^H1197 - 1685^E)",
+                "type": "18"
+            },
+            {
+                "text": "541 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "25% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Тлеющий уголь",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-4 ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Oурона огнём^E",
+                "type": "31"
+            },
+            {
+                "text": "10% конверсия: ^E^Kфизический урон^E в ^Oурон огнём^E",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "23"
+            },
+            {
+                "text": "Вспышка (Добавлено предметом)",
+                "type": "36"
+            },
+            {
+                "text": "Запустите шар выжигающего пламени в вашу цель.",
+                "type": "38"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "18 ^Eзатраты энергии",
+                "type": "25"
+            },
+            {
+                "text": "2.5 ^Eм радиус",
+                "type": "25"
+            },
+            {
+                "text": "20% ^Eурона основным оружием (^H726 - 1021^E)",
+                "type": "25"
+            },
+            {
+                "text": "296-342 ^Oурона огнём^E",
+                "type": "25"
+            },
+            {
+                "text": "801 ^Oгорения^E ^Eза ^H3 ^Eсек.",
+                "type": "25"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 17 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 137 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "2162710": {
+        "playerItemId": "2162710",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a05_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001c_physbonus_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn009_melee2h_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "85034160",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^sжелезная ^Wбомбарда ^gнеистовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "21-170 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12-20 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Eшанс на ^H81 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+98 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eк умению Праведное рвение (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 205 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

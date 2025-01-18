@@ -1,0 +1,172 @@
+{
+    "360616": {
+        "playerItemId": "360616",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a004_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003a_pierce_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar040_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1964867627",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающее ^Wсапфировое кольцо ^gшквала",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-9 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+23 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^RОглушающие снаряды (Подрывник)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сфера молний (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает концентрированный взрыв электрической статики, проходящий сквозь врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "66% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "180-443 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "376 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 46",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 179 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "360617": {
+        "playerItemId": "360617",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a001_ring02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad009b_res_piercepoison_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040b_off_dmg%pierce_03_je.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac04_energyregen.dbr",
+            "transmuteRecord": "",
+            "seed": "497389729",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемое ^Wсеребряное кольцо ^yколючек",
+                "type": "3"
+            },
+            {
+                "text": "Магическое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+0.7 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H10%",
+                "type": "18"
+            },
+            {
+                "text": "22% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "27% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 24 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 40 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

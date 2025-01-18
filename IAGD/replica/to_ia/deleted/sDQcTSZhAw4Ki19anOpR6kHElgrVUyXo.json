@@ -1,0 +1,140 @@
+{
+    "1507362": {
+        "playerItemId": "1507362",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar026_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a041b_ch_healthregen_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "294783934",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gлиходейская ^Wлента ^yзаживления",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2-3 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+33 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 28 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "1507363": {
+        "playerItemId": "1507363",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a08_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn024_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "849447095",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^sразбойничья ^Wсабля ^gстихий",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "30-76 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "14-22 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "7 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Бешеная буря (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 301 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

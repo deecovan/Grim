@@ -1,0 +1,73 @@
+{
+    "589863": {
+        "playerItemId": "589863",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004b_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar028_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1896494338",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусная ^Wлента ^gтеней",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+14% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+17% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Теневой удар (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 14 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    }
+}

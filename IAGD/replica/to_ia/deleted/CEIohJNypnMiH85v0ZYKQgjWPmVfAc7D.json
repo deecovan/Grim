@@ -1,0 +1,144 @@
+{
+    "458787": {
+        "playerItemId": "458787",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/c006_feet.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "147276524",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bсапоги кровавой гончей",
+                "type": "5"
+            },
+            {
+                "text": "Эпическая обувь",
+                "type": "64"
+            },
+            {
+                "text": "166 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+16% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+82 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+12%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "37% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Потрошение (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 128 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "458788": {
+        "playerItemId": "458788",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a08_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn007_melee1h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038c_off_dmg%aether_02b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1299514684",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gофицерский ^sразбойничий ^Wсагарис ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "32-112 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.89 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8-13 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+22 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Полевой командир (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 32 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 317 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

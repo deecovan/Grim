@@ -1,0 +1,279 @@
+{
+    "1376377": {
+        "playerItemId": "1376377",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/b001_medal.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac01_health.dbr",
+            "transmuteRecord": "",
+            "seed": "432895160",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкая ^Gлента следопыта",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+122 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 14 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "1376378": {
+        "playerItemId": "1376378",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/b001_medal.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar040_ar.dbr",
+            "modifierRecord": "records\/items\/lootaffixes\/crafting\/ac201_retal.dbr",
+            "transmuteRecord": "",
+            "seed": "434671280",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Gлента следопыта ^gшквала",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+69 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "9% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xобщего ответного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Оглушающие снаряды (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сфера молний (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает концентрированный взрыв электрической статики, проходящий сквозь врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "66% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "84-215 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "184 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "1376379": {
+        "playerItemId": "1376379",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005b_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar027_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1381394828",
+            "materiaRecord": "records\/items\/materia\/compa_soulshard.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучая ^Wлента ^gпревосходства",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+11% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению Силовая волна (Солдат)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Осколок души",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Mурона здоровью^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Mурона разложением^E",
+                "type": "31"
+            },
+            {
+                "text": "+30% ^Eпоглощения энергии вражеских заклинаний",
+                "type": "31"
+            },
+            {
+                "text": "20% ^Mсопротивления урону здоровью^E",
+                "type": "31"
+            },
+            {
+                "text": "25% ^Eсопротивления краже энергии",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    }
+}

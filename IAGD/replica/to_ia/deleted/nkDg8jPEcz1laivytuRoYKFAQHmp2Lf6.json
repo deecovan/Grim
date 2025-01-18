@@ -1,0 +1,77 @@
+{
+    "1507417": {
+        "playerItemId": "1507417",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a09_gun2h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao003c_pierce_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn033_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "721049326",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпробивающий ^sштурмовой ^Wмушкетон ^gмистического сияния",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "29-366 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.39 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "19-31 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "15 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "15 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+74% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+82% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Буря Каллидора (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 370 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

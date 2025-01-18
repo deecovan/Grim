@@ -1,0 +1,335 @@
+{
+    "622614": {
+        "playerItemId": "622614",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a05_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar035_ar.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a029e_off_dmg%cold_02_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1755661218",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгосподствующие ^sполевые ^Wайлеты ^yхлада",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "172 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+10% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+9 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+9% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+7% ^Fздоровья^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 16 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "622615": {
+        "playerItemId": "622615",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a03_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh006_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a028a_off_dmg%phys_02_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1429501138",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпсовый ^Wрунный архив ^yразгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+38% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-14% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Призыв адской гончей (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+15% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+6% ^Xскорости атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 262 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "622616": {
+        "playerItemId": "622616",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/c023_torso.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "146531880",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "(S) ^Bзловонная роба",
+                "type": "5"
+            },
+            {
+                "text": "Эпический чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "216 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3.3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Взрыв крови (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Зловоние (100% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает облако токсичных газов, отравляющее и сбивающее с толку ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "3 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "6 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "452 ^Lяда^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eшанс на ^H^Eзамешательство ^Eна ^H1 - 3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "33% ^Eшанс на неуклюжие атаки ^Eна ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Зловоние",
+                "type": "20"
+            },
+            {
+                "text": "\"Лишь избранные Дригом могли носить это\"",
+                "type": "21"
+            },
+            {
+                "text": "(S) ^Bзловонный капюшон",
+                "type": "22"
+            },
+            {
+                "text": "(S) ^Bтом напастей",
+                "type": "22"
+            },
+            {
+                "text": "(S) ^Bзловонная роба",
+                "type": "22"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "(2) Набор",
+                "type": "22"
+            },
+            {
+                "text": "+8% здоровья",
+                "type": "26"
+            },
+            {
+                "text": "(3) Набор",
+                "type": "22"
+            },
+            {
+                "text": "+1 к умениям мастерства Оккультист",
+                "type": "26"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 126 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 225 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

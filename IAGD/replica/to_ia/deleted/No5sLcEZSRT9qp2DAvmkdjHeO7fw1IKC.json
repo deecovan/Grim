@@ -1,0 +1,120 @@
+{
+    "2162696": {
+        "playerItemId": "2162696",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a02_head005.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a003b_ch_att_spi_02.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "811426188",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусный ^sтканый ^Wкойф ^yсознания",
+                "type": "3"
+            },
+            {
+                "text": "Магический чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "29 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+17 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+1.3 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 74 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "2162697": {
+        "playerItemId": "2162697",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a04_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040b_off_dmg%pierce_01_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "84625640",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^sусиленный ^Wтарч ^yколючек",
+                "type": "3"
+            },
+            {
+                "text": "Магический щит",
+                "type": "64"
+            },
+            {
+                "text": "24% шанс блокировать ^W180 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.00 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "55 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+5% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

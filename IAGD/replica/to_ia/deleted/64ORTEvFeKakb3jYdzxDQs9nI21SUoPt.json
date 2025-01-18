@@ -1,0 +1,3617 @@
+{
+    "852008": {
+        "playerItemId": "852008",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar012_he.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a018a_ch_oa_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "757630149",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gконтролирующая ^sпозолоченная ^Wдиадема ^yатаки",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "238 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+51 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "^H+26% ^Eпоглощения брони",
+                "type": "18"
+            },
+            {
+                "text": "30% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 159 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852009": {
+        "playerItemId": "852009",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a09_blunt2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001c_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn036_melee2h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "183837699",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sразбойничий ^Wослоп ^Gзлобы Солаэля",
+                "type": "4"
+            },
+            {
+                "text": "Редкая двуручная булава",
+                "type": "64"
+            },
+            {
+                "text": "68-479 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.50 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "24-44 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "14 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "14 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+76% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+84% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+41 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 429 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852010": {
+        "playerItemId": "852010",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a06_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a008a_ch_life_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "959043088",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальные ^sтяжёлые ^Wсапожищи ^yздоровья",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "308 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+434 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+24 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852011": {
+        "playerItemId": "852011",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad004b_res_lightning_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar031_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1545497261",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yизолирующий ^sпограничный ^Wколонтарь ^gколдовства",
+                "type": "4"
+            },
+            {
+                "text": "Редкий нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "316 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "48% ^Zсопротивления молнии^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "35% ^Eсопротивления блокировке умений",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 296 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852012": {
+        "playerItemId": "852012",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar041_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1867387592",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^sлатный ^Wшлем ^gмагического баланса",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "281 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+24% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Граната (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852013": {
+        "playerItemId": "852013",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearshoulders\/a06_shoulder01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar016_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a001b_ch_att_cun_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "164005241",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаиндевелые ^sвычурные ^Wбармы ^yмастерства",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наплечники",
+                "type": "64"
+            },
+            {
+                "text": "262 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+59 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "11% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eшанс на:^H",
+                "type": "18"
+            },
+            {
+                "text": "     30% ^Eответного снижения скорости атаки ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "     28% ^Eответного снижения скорости бега ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 48",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 227 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852014": {
+        "playerItemId": "852014",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a06_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar023_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a007a_ch_att_all_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1127122956",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gгрозные ^sтяжёлые ^Wсапожищи ^yзоркости орла",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "308 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+40 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+126 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^EЭффекты лечения усилены на ^H9%",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852015": {
+        "playerItemId": "852015",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a04_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh006_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a033a_off_dmg%vitality_04_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1696862867",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпсовый ^Wгримуар ^yтлена",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+62% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+69% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+3.5 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "-18% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Призыв адской гончей (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+25% ^Xобщего урона^E",
+                "type": "69"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 46",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 368 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852016": {
+        "playerItemId": "852016",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/rings\/a005_ring01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad007b_res_piercecold_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar043_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2034438823",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yнепроницаемый ^Wрубиновый перстень ^gогненной пустоты",
+                "type": "4"
+            },
+            {
+                "text": "Редкое кольцо",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+14 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "25% ^Cсопротивления холоду^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела хаоса (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага заряд энергии хаоса.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "302-557 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 237 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852017": {
+        "playerItemId": "852017",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a001_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar104_ar_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1926140402",
+            "materiaRecord": "records\/items\/materia\/compa_soulshard.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховная ^Wлента ^gобжигающих рун",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+13% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+56 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TСлово боли (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Осколок души",
+                "type": "27"
+            },
+            {
+                "text": "Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+12% ^Mурона здоровью^E",
+                "type": "31"
+            },
+            {
+                "text": "+12% ^Mурона разложением^E",
+                "type": "31"
+            },
+            {
+                "text": "+30% ^Eпоглощения энергии вражеских заклинаний",
+                "type": "31"
+            },
+            {
+                "text": "20% ^Mсопротивления урону здоровью^E",
+                "type": "31"
+            },
+            {
+                "text": "25% ^Eсопротивления краже энергии",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 20 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "852018": {
+        "playerItemId": "852018",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar039_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "528828285",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^sтяжёлый ^Wбацинет ^gметели",
+                "type": "4"
+            },
+            {
+                "text": "Редкий тяжёлый шлем",
+                "type": "64"
+            },
+            {
+                "text": "346 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+25% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+17 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Холод ночи (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ледяной шип (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запустите во врага шип из цельного льда, пронзая его насквозь.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "35% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "736 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 46",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 394 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852019": {
+        "playerItemId": "852019",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/c008_hands.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "467393383",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bбойцовские перчатки",
+                "type": "5"
+            },
+            {
+                "text": "Эпические наручи",
+                "type": "64"
+            },
+            {
+                "text": "211 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+52% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+56% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+58% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+43 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "21% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Сдвиг (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+3 ^Eк умению ^LСотрясающий удар (?)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Нокаут (Добавлено предметом)",
+                "type": "35"
+            },
+            {
+                "text": "Выведите соперника из борьбы быстрым и точным ударом. ^oАктивируется при использовании обычной атаки.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8% ^Eшанс применения",
+                "type": "18"
+            },
+            {
+                "text": "200% ^Eурона основным оружием (^H2121 - 2439^E)",
+                "type": "18"
+            },
+            {
+                "text": "1078 ^Kвнутренних травм^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "1340 ^Rкровотечения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eопрокидывание ^Eна ^H0.6 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 168 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852020": {
+        "playerItemId": "852020",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/necklaces\/a03_necklace01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar030_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030b_off_dmg%fire_05_je.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1709912238",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящее ^Wкостяное украшение ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "Редкий амулет",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+38% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Cурона обморожением^E ^E с ^H+19% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+20 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Eздоровья в сек.",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 162 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852021": {
+        "playerItemId": "852021",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar017_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a037b_def_reflectpierce_06_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "384998380",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпагубная ^sпозолоченная ^Wдиадема ^yшипов",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский шлем",
+                "type": "64"
+            },
+            {
+                "text": "238 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Lурона ядом^E ^E с ^H+42% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+2.6 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "106 ^Kответного физического урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 44 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 159 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 312 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852022": {
+        "playerItemId": "852022",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a003_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa018a_minionhealth_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar042_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "652409036",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпоходная ^Wбляха ^gволшебного пожара",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Xобщего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+28% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Бонус всем питомцам",
+                "type": "68"
+            },
+            {
+                "text": "+19% ^Fздоровья^E",
+                "type": "69"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сгустки эфира (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Обрушьте взрыв энергии эфира на своих врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eснаряд(ов)",
+                "type": "18"
+            },
+            {
+                "text": "1.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "410 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "852023": {
+        "playerItemId": "852023",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn101_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a030c_off_dmg%fire_02b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2080933337",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпоглощающий ^sразбойничий ^Wревольвер ^yожога",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "29-46 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.64 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+46% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+24% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+30% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Mурона разложением^E ^E с ^H+43% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Вытягивание сущности (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 301 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "852024": {
+        "playerItemId": "852024",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a06_feet01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar031_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "171615360",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованные ^sпограничные ^Wсабатоны ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкая обувь",
+                "type": "64"
+            },
+            {
+                "text": "232 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+35 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 168 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852025": {
+        "playerItemId": "852025",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a09_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn006_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1089876166",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкровожадная ^sразбойничья ^Wромфея ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "135-253 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "72 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+78% ^Rурона кровотечением^E ^E с ^H+84% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "3% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 423 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852026": {
+        "playerItemId": "852026",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa005a_phymod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar101_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "560251874",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yмогучий ^sлатный ^Wшлем ^gзамученных душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "281 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+16% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+251 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Всепоглощающий голод (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852027": {
+        "playerItemId": "852027",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a09_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn018_melee2h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "909427045",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gотравляющая ^sразбойничья ^Wромфея ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "135-253 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "95 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+43% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "33% ^Eшанс на ^H47 ^Eснижения навыка защиты ^Eна ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "34% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+13 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Смертоносный натиск (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 423 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852028": {
+        "playerItemId": "852028",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a05_focus01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh023_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "884043486",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wжуткий том ^gритуалов",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+59% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "+12% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "-17% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TПечать инквизитора (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Знак стихий (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Создаёт тайный знак на земле, пронизывающий округу разрушительной силой.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "6 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "435 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 461",
+                "type": "19"
+            }
+        ]
+    },
+    "852029": {
+        "playerItemId": "852029",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearfeet\/a06_feet02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar010_fe_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a031e_off_dmg%lightning_05_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1251294826",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gэкстремальные ^sтяжёлые ^Wсапожищи ^yгрома",
+                "type": "4"
+            },
+            {
+                "text": "Редкая тяжёлая обувь",
+                "type": "64"
+            },
+            {
+                "text": "308 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+27% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+230 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+9%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Eсопротивления замедлению",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 44 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852030": {
+        "playerItemId": "852030",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a08_axe001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn014_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1577173118",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходный ^sразбойничий ^Wсагарис ^gсвирепости",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "32-112 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.89 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12-21 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "2-12 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+32 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5%^X скорости бега^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дикость (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 317 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852031": {
+        "playerItemId": "852031",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar016_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a040e_off_dmg%pierce_05_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "137609801",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзаиндевелое ^sпозолоченное ^Wоблачение ^yколючек",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "267 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+25% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.8 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "16% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eснижения длительности заморозки",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eшанс на:^H",
+                "type": "18"
+            },
+            {
+                "text": "     33% ^Eответного снижения скорости атаки ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "     36% ^Eответного снижения скорости бега ^Eна ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 48",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 201 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 333 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852032": {
+        "playerItemId": "852032",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a08_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn003_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2026717085",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзачарованный ^sстальной ^Wклеймор ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "112-212 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+58% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+63% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+64% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против хтонийцев",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против эфириалов",
+                "type": "18"
+            },
+            {
+                "text": "+44 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Термитная мина (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 369 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852033": {
+        "playerItemId": "852033",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a08_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn003_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "178715404",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзачарованный ^sстальной ^Wклеймор ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "112-212 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+51% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+57% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+52% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+61% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против хтонийцев",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Eурона против эфириалов",
+                "type": "18"
+            },
+            {
+                "text": "+38 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Термитная мина (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 369 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852034": {
+        "playerItemId": "852034",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a07_legs01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad017a_res_chaos_02.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar006_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "908980726",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yупорядоченные ^sвычурные ^Wрейтузы ^Gгнева Олерона",
+                "type": "4"
+            },
+            {
+                "text": "Редкие штаны",
+                "type": "64"
+            },
+            {
+                "text": "477 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+21 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Боевой раж (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 39 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 345 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852035": {
+        "playerItemId": "852035",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhead\/a07_head001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa007a_lifemod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar003_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "2075760336",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yживительный ^sлатный ^Wшлем ^Gпламени Ульзуина",
+                "type": "4"
+            },
+            {
+                "text": "Редкий шлем",
+                "type": "64"
+            },
+            {
+                "text": "281 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+19% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+19 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Mсопротивления урону здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "102 ^Oответного урона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 233 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852036": {
+        "playerItemId": "852036",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/melee2h\/a08_sword2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn023_melee2h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014d_ch_speedattack_02_we2h.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "794452095",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящий ^sстальной ^Wклеймор ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий двуручный меч",
+                "type": "64"
+            },
+            {
+                "text": "112-212 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.55 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "72 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+82% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "40% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+53 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+15% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Ледяное ядро (Мистик)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо мороза (20% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Окружает колдующего кольцом льда, замораживающим врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "292 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "516 ^Cобморожения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eзамедления бега ^Eна ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 369 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852037": {
+        "playerItemId": "852037",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a06_legs02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar028_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a006b_ch_att_physpi_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "668033746",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gтвердокожие ^sлатные ^Wшоссы ^yрешительности вепря",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые штаны",
+                "type": "64"
+            },
+            {
+                "text": "390 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+38 ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H6%",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 448 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852038": {
+        "playerItemId": "852038",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn020_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "453805142",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gзловещая ^sразбойничья ^Wпистоль ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "18-81 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "10 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+21% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+12 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+99 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 295 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "852039": {
+        "playerItemId": "852039",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a002_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa006b_spimod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar040_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "203684441",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yдуховный ^Wзнак ^gшквала",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+20% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Zурона электрошоком^E",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "13% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Оглушающие снаряды (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Сфера молний (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Выпускает концентрированный взрыв электрической статики, проходящий сквозь врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "66% ^Eшанс пробить навылет",
+                "type": "18"
+            },
+            {
+                "text": "161-403 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "362 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 46",
+                "type": "19"
+            }
+        ]
+    },
+    "852040": {
+        "playerItemId": "852040",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn102_melee1h_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "313617916",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^sразбойничья ^Wпистоль ^gсохранённых душ",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "18-81 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12-21 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+51% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+48% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+40% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+31 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Урожай костей (Некромант)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 295 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "852041": {
+        "playerItemId": "852041",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearaccessories\/medals\/a002_medal01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010b_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar046_ar_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "307767893",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Wзнак ^gкаббалы",
+                "type": "4"
+            },
+            {
+                "text": "Редкая медаль",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+28% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+22% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xопыта^E",
+                "type": "18"
+            },
+            {
+                "text": "10% ^Lсопротивления яду и кислоте^E",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 35 Уровень игрока",
+                "type": "19"
+            }
+        ]
+    },
+    "852042": {
+        "playerItemId": "852042",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/a07_shield01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_sh015_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a008b_ch_life_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1932045053",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gедкий ^sукреплённый ^Wскутум ^yздоровья",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W450 урона",
+                "type": "17"
+            },
+            {
+                "text": "1.05 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "86 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "12 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+19% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+29 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+705 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "197 ^Lответного урона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 461 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852043": {
+        "playerItemId": "852043",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn023_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035c_off_dmg%bleed_02b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "508095072",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gледенящая ^sразбойничья ^Wпистоль ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "18-81 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "30 ^Cобморожения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+26% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+49% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+37% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "16% конверсия: ^E^Kфизический урон^E в ^Cурон холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+26 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Кольцо мороза (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Окружает колдующего кольцом льда, замораживающим врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "16 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "8 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "3 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "292 ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "516 ^Cобморожения^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Eзамедления бега ^Eна ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 295 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "852044": {
+        "playerItemId": "852044",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/a07_torso004.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar013_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a005b_ch_att_cunspi_06.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1928227102",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gклерикальное ^sпозолоченное ^Wоблачение ^yхитрости лисы",
+                "type": "4"
+            },
+            {
+                "text": "Редкий чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "267 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+6% ^Eурона против нежити",
+                "type": "18"
+            },
+            {
+                "text": "+36 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+37 ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+4.8 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "17% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "12% ^Eснижения длительности оглушения",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 38 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 201 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 333 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "852045": {
+        "playerItemId": "852045",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/shields\/b201b_shield.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ad002b_res_fire_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a019a_ch_da_05.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "677711188",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yогнеупорный ^Lхитин скарабея ^yобороны",
+                "type": "4"
+            },
+            {
+                "text": "Редкий щит",
+                "type": "64"
+            },
+            {
+                "text": "28% шанс блокировать ^W480 урона",
+                "type": "17"
+            },
+            {
+                "text": "0.70 сек. подготовка блока",
+                "type": "17"
+            },
+            {
+                "text": "74 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+49% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+39 ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "43% ^Oсопротивления огню^E",
+                "type": "18"
+            },
+            {
+                "text": "26% ^Pсопротивления хаосу^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Дух клинков (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "1994 кровотечения за 2 сек. к умению Дух клинков (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "+20% критического урона к умению Дух клинков (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": "362 кровотечения в сек. к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "-10% сопротивления кровотечению к умению Всепожирающий рой (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 444 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "852046": {
+        "playerItemId": "852046",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b201b_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038a_off_dmg%aether_05_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1810672622",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Lпесчаный жезл гроблов ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+9% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+66% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+94% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+135% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+74% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H50%",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "-17% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Гневные лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "725 кровотечения в сек. к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+30% критического урона к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: физический урон в урон здоровью к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 400",
+                "type": "19"
+            }
+        ]
+    },
+    "852047": {
+        "playerItemId": "852047",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b201b_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh013_c.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "310826332",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкий ^Lпесчаный жезл гроблов ^Gзлобы Солаэля",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+130% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+75% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+163% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+122% ^Mурона разложением^E ^E с ^H+46% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+18 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H53%",
+                "type": "18"
+            },
+            {
+                "text": "20% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "-19% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Гневные лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Роковая стрела (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": "725 кровотечения в сек. к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+30% критического урона к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: физический урон в урон здоровью к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Роковая стрела (Оккультист) (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Стрела энтропийной энергии прорывает ткань реальности и наносит огромный урон любому врагу, в которого попадёт. ^oПрямое попадание стрелы в цель наносит двойной урон.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1.5 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "1044 ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "909 ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eснижение здоровья на ^H6-18%",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 42 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 400",
+                "type": "19"
+            }
+        ]
+    },
+    "852048": {
+        "playerItemId": "852048",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/b201b_focus.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa009a_oamod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a033a_off_dmg%vitality_04_fo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1488769885",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yагрессивный ^Lпесчаный жезл гроблов ^yтлена",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+8% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+157% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+154% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+136% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H65%",
+                "type": "18"
+            },
+            {
+                "text": "18% ^Aсопротивления эфиру^E",
+                "type": "18"
+            },
+            {
+                "text": "-14% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Гневные лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "725 кровотечения в сек. к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "+30% критического урона к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": "100% конверсия: физический урон в урон здоровью к умению Цепкие лозы (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 400",
+                "type": "19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "131101": {
+        "playerItemId": "131101",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/b013a_blunt.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao001b_physbonus_03.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a029c_off_dmg%cold_01b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1031183749",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yпревосходная ^Lдубина мутанта ^yхлада",
+                "type": "4"
+            },
+            {
+                "text": "Редкая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "18-64 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4-11 ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "45 ^Kвнутренних травм^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+29% ^Kфизического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+27% ^Cурона холодом^E",
+                "type": "18"
+            },
+            {
+                "text": "+84% ^Kурона внутренними травмами^E",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Cурона обморожением^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Раскалывающая сила (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "-0.5 сек. перезарядка умения к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": "+2 м дальность к умению Силовая волна (Солдат)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 18 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 170 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "131102": {
+        "playerItemId": "131102",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a05_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn019_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a038c_off_dmg%aether_01b_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1355866236",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпылающий эфиром ^sжелезный ^Wфальшион ^yэфира",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "23-44 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.99 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+42% ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "18% конверсия: ^E^Kфизический урон^E в ^Aурон эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": "+11 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Мистический взрыв (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Магическая энергия выплёскивается из вас, нанося урон всем ближайшим врагам.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "4 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "4.8 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eурона основным оружием (^H82 - 110^E)",
+                "type": "18"
+            },
+            {
+                "text": "355 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "182-326 ^Aурона эфиром^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 22 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 187 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "131103": {
+        "playerItemId": "131103",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/focus\/a01_focus02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa010a_damod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_sh006_a.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1210423038",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yстойкая ^Wруническая кость ^gспокойствия",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тотемы\/книги",
+                "type": "64"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+22% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+2% ^Fдуха^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xнавыка защиты^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H56%",
+                "type": "18"
+            },
+            {
+                "text": "-14% ^Eвремени перезарядки умения",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TСлово боли (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Искажение времени (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Исказите течение времени вокруг вашего врага.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "5 ^Eсек. длительность",
+                "type": "18"
+            },
+            {
+                "text": "4.5 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "40% ^Eобщего замедления ^Eна ^H1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 88 Дух",
+                "type": "19"
+            }
+        ]
+    }
+}

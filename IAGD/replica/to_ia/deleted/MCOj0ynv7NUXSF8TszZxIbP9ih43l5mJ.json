@@ -1,0 +1,239 @@
+{
+    "917528": {
+        "playerItemId": "917528",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/c105_scepter.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1523886356",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bпалец Гар'Дальвура",
+                "type": "5"
+            },
+            {
+                "text": "\"Это всё, что хотел сказать падший Гар'Дальвур своим палачам\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "27-68 ^Oурона огнём^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+93% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+70% ^Pурона хаосом^E",
+                "type": "18"
+            },
+            {
+                "text": "+103% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+248 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличивает восстановление энергии на ^H11%",
+                "type": "18"
+            },
+            {
+                "text": "+10% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TРазжигание (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Адская мина (Подрывник)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^rНужно: Уровень игрока: 45",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 289 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "917529": {
+        "playerItemId": "917529",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearhands\/a06_hands01.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_ar025_ar_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014c_ch_speedattack_02_glo.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1685661438",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gбеспощадные ^sчешуйчатые ^Wкраги ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкие наручи",
+                "type": "64"
+            },
+            {
+                "text": "232 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+13% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+20% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+16 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "14% ^Yсопротивления стихийному урону^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 168 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "917530": {
+        "playerItemId": "917530",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/swords1h\/a08_sword002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn021_melee1h_c.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a035c_off_dmg%bleed_03_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1073471532",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gпронзающая сердце ^sразбойничья ^Wсабля ^yкрови",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный меч",
+                "type": "64"
+            },
+            {
+                "text": "30-76 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "100% ^Sпробивание брони",
+                "type": "17"
+            },
+            {
+                "text": "^W1.95 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7-10 ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "15% ^Eшанс на ^H114 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+25% ^Rпроникающего урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+58% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+27 ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Призрачные клинки (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 41 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 301 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}

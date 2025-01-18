@@ -1,0 +1,216 @@
+{
+    "753729": {
+        "playerItemId": "753729",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/c201_gun1h.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "165240133",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bпустынное жало",
+                "type": "5"
+            },
+            {
+                "text": "Эпический пистолет",
+                "type": "64"
+            },
+            {
+                "text": "28-41 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "8 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+43% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+36% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+43% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "12% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^LЭгида Менгира (?)",
+                "type": "18"
+            },
+            {
+                "text": "+3 к умению Истощение (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Ядовитый луч (10% шанс при атаке)",
+                "type": "35"
+            },
+            {
+                "text": "Запускает пучок токсинов в ваших врагов.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "1 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1.2 ^Eм радиус",
+                "type": "18"
+            },
+            {
+                "text": "273 ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "2490 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 30 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 238 Искусность",
+                "type": "19"
+            }
+        ]
+    },
+    "753730": {
+        "playerItemId": "753730",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearlegs\/a05_legs02.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/aa004a_cunmod_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_ar013_ar.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1432047418",
+            "materiaRecord": "records\/items\/materia\/compb_ancientarmorplate.dbr",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yискусные ^sзалатанные ^Wнаголенники ^gгероизма",
+                "type": "4"
+            },
+            {
+                "text": "Редкие тяжёлые штаны",
+                "type": "64"
+            },
+            {
+                "text": "284 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+4% ^Fтелосложения^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Fискусности^E",
+                "type": "18"
+            },
+            {
+                "text": "^Eувеличение брони на ^H4%",
+                "type": "18"
+            },
+            {
+                "text": "8% ^Rсопротивления проникающему урону^E",
+                "type": "18"
+            },
+            {
+                "text": "6% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "^kДревняя броня",
+                "type": "27"
+            },
+            {
+                "text": "Редкий Компонент",
+                "type": "29"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+18 ^Fтелосложения^E",
+                "type": "31"
+            },
+            {
+                "text": "+35 ^Eброни",
+                "type": "31"
+            },
+            {
+                "text": "^Eувеличение брони на ^H8%",
+                "type": "31"
+            },
+            {
+                "text": "^H+8% ^Eпоглощения брони",
+                "type": "31"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 15 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 361 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

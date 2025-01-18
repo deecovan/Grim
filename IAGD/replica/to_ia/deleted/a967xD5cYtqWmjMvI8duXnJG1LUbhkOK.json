@@ -1,0 +1,176 @@
+{
+    "1277968": {
+        "playerItemId": "1277968",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/axe1h\/a05_axe002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn024_melee1h_a.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a014a_ch_speedattack_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1434993394",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gнаэлектризованный ^sжелезный ^Wбородатый топор ^yрвения",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный топор",
+                "type": "64"
+            },
+            {
+                "text": "22-72 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.86 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "15 ^Zэлектрошока^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+18% ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+16% ^Zурона электрошоком^E ^E с ^H+25% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "+14% ^Eдлительность оглушения",
+                "type": "18"
+            },
+            {
+                "text": "19% конверсия: ^E^Kфизический урон^E в ^Zурон молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "+15 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Дарованные умения",
+                "type": "34"
+            },
+            {
+                "text": "Стрела молнии (20% шанс при получении удара)",
+                "type": "35"
+            },
+            {
+                "text": "Чистая молния ударяет в вашу цель.",
+                "type": "37"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "2.5 ^Eсек. ^Eперезарядка умения",
+                "type": "18"
+            },
+            {
+                "text": "1 ^Eм целевая область",
+                "type": "18"
+            },
+            {
+                "text": "61-314 ^Zурона молнией^E",
+                "type": "18"
+            },
+            {
+                "text": "118 ^Zэлектрошока^E ^Eза ^H2 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "^Eоглушение ^Eна ^H0.5 - 1 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 5 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 201 Телосложение",
+                "type": "19"
+            }
+        ]
+    },
+    "1277969": {
+        "playerItemId": "1277969",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/blunt1h\/a05_blunt002.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao008b_lifeleech_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_01_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1889747154",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yвампирская ^sржавая ^Wпалица ^yсмекалки",
+                "type": "3"
+            },
+            {
+                "text": "Магическая одноручная булава",
+                "type": "64"
+            },
+            {
+                "text": "11-95 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.72 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 201 Телосложение",
+                "type": "19"
+            }
+        ]
+    }
+}

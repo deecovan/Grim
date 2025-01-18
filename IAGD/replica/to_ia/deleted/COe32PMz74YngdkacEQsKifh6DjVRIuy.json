@@ -1,0 +1,346 @@
+{
+    "753701": {
+        "playerItemId": "753701",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns2h\/a08_gun2h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/b_wpn006_melee2h_b.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/a016a_ch_speedcast_02_we.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1340426900",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^gкровожадная ^sразбойничья ^Wвинтовка ^yсмекалки",
+                "type": "4"
+            },
+            {
+                "text": "Редкие арбалеты\/ружья",
+                "type": "64"
+            },
+            {
+                "text": "67-232 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.43 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "42 ^Rкровотечения^E ^Eза ^H3 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+48% ^Rурона кровотечением^E ^E с ^H+62% ^Eпродолжительности",
+                "type": "18"
+            },
+            {
+                "text": "5% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+7% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+9% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+4 к умению Круг резни (Ночной клинок)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 25 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Искусность: 312",
+                "type": "19"
+            }
+        ]
+    },
+    "753702": {
+        "playerItemId": "753702",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/caster\/a06_scepter006.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao006b_poison_05.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn017_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "760617685",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yотравленный ^Wритуальный жезл ^gнапалма",
+                "type": "4"
+            },
+            {
+                "text": "Редкий одноручный скипетр",
+                "type": "64"
+            },
+            {
+                "text": "29-53 ^Lурона кислотой^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.78 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "5-7 ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "70 ^Lяда^E ^Eза ^H5 ^Eсек.",
+                "type": "18"
+            },
+            {
+                "text": "+3% ^Xкритического урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+39% ^Oурона огнём^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Lурона кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+44% ^Oурона горением^E",
+                "type": "18"
+            },
+            {
+                "text": "+35% ^Lурона ядом^E",
+                "type": "18"
+            },
+            {
+                "text": "15% конверсия: ^E^Kфизический урон^E в ^Lурон кислотой^E",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+6% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 ^Eк умению ^TПламя Игнаффара (Инквизитор)",
+                "type": "18"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 36 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 263 Дух",
+                "type": "19"
+            }
+        ]
+    },
+    "753703": {
+        "playerItemId": "753703",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/geartorso\/c011_torso.dbr",
+            "prefixRecord": "",
+            "suffixRecord": "",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "448891193",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^Bроба свежевальщика",
+                "type": "5"
+            },
+            {
+                "text": "\"Неизвестно, сколько жертв потребовалось, чтобы сшить эту отвратительную робу\"",
+                "type": "16"
+            },
+            {
+                "text": "Эпический чародейский нагрудник",
+                "type": "64"
+            },
+            {
+                "text": "275 броня",
+                "type": "17"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "+39% ^Mурона здоровью^E",
+                "type": "18"
+            },
+            {
+                "text": "+57% ^Rурона кровотечением^E",
+                "type": "18"
+            },
+            {
+                "text": "+48% ^Mурона разложением^E",
+                "type": "18"
+            },
+            {
+                "text": "+8% ^Eурона против людей",
+                "type": "18"
+            },
+            {
+                "text": "+188 ^Fздоровья^E",
+                "type": "18"
+            },
+            {
+                "text": "+25 ^Xнавыка атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+5.4 ^Eэнергии в сек.",
+                "type": "18"
+            },
+            {
+                "text": "19% ^Rсопротивления кровотечению^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Знак поглощения (Оккультист)",
+                "type": "79"
+            },
+            {
+                "text": "+2 к умению Тотем вендиго (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 40 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 197 Телосложение",
+                "type": "19"
+            },
+            {
+                "text": "^rНужно: Дух: 327",
+                "type": "19"
+            }
+        ]
+    },
+    "753704": {
+        "playerItemId": "753704",
+        "buddyItemId": "",
+        "replica": {
+            "baseRecord": "records\/items\/gearweapons\/guns1h\/a08_gun1h001.dbr",
+            "prefixRecord": "records\/items\/lootaffixes\/prefix\/ao008b_lifeleech_01.dbr",
+            "suffixRecord": "records\/items\/lootaffixes\/suffix\/b_wpn024_melee1h_b.dbr",
+            "modifierRecord": "",
+            "transmuteRecord": "",
+            "seed": "1174972937",
+            "materiaRecord": "",
+            "relicBonus": "",
+            "relicSeed": "0",
+            "enchantmentRecord": "",
+            "enchantmentSeed": "0"
+        },
+        "stats": [
+            {
+                "text": "^yвампирская ^sразбойничья ^Wпистоль ^gстихий",
+                "type": "4"
+            },
+            {
+                "text": "Редкий пистолет",
+                "type": "64"
+            },
+            {
+                "text": "18-81 ^Kфизического урона^S",
+                "type": "17"
+            },
+            {
+                "text": "^W1.68 ^Sатак в сек.",
+                "type": "19"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "7 ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "+33% ^Yстихийного урона^E",
+                "type": "18"
+            },
+            {
+                "text": "7% ^Eурона превращается в здоровье",
+                "type": "18"
+            },
+            {
+                "text": "+5% ^Xскорости атаки^E",
+                "type": "18"
+            },
+            {
+                "text": "+4% ^Xскорости колдовства^E",
+                "type": "18"
+            },
+            {
+                "text": "+2 к умению Бешеная буря (Шаман)",
+                "type": "79"
+            },
+            {
+                "text": " ",
+                "type": "0"
+            },
+            {
+                "text": "Нужно: 26 Уровень игрока",
+                "type": "19"
+            },
+            {
+                "text": "Нужно: 295 Искусность",
+                "type": "19"
+            }
+        ]
+    }
+}
