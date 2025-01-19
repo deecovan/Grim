@@ -1,6 +1,6 @@
 quickBuy                  = true
 lockItemPickup            = false
-mapZoom                   = 40
+mapZoom                   = 88
 importedCharacters        = true
 lockMapRotation           = false
 cameraShake               = false
@@ -61,7 +61,7 @@ reflectionQuality         = low
 detailLevel               = low
 resolution                = 1360 768
 refreshRate               = 141000000 2348064
-windowPosition            = -32000 -32000
+windowPosition            = 0 0
 antiAliasing              = 1
 anisotropicFiltering      = 0
 screenMode                = 0
