@@ -1,0 +1,444 @@
+2025-01-19 06:45:30,751 [Main] INFO [IAGrim.Program]: Starting IA:GD..
+2025-01-19 06:45:30,773 [Main] INFO [IAGrim.Program]: Starting exception monitor for bug reports..
+2025-01-19 06:45:30,775 [Main] INFO [IAGrim.StartupService]: Running version 1.4.9063.13827 from 24/10/2024
+2025-01-19 06:45:31,049 [Main] INFO [IAGrim.Program]: Calling run..
+2025-01-19 06:45:31,059 [Main] INFO [IAGrim.Program]: Visual styles enabled..
+2025-01-19 06:45:31,288 [SQL] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 6
+2025-01-19 06:45:32,488 [SQL] INFO [SessionFactory]: Database connection established.
+2025-01-19 06:45:32,746 [Main] INFO [IAGrim.StartupService]: IA is configured to loot from the last stash page
+2025-01-19 06:45:32,747 [Main] INFO [IAGrim.StartupService]: IA is configured to deposit to the second-to-last stash page
+2025-01-19 06:45:32,747 [Main] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 1
+2025-01-19 06:45:32,858 [Main] INFO [SessionFactory]: Database connection established.
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: The user has less than 2/3rd of 300 items, queueing instant sync warning banner
+2025-01-19 06:45:32,906 [Main] WARN [IAGrim.StartupService]: There are 0 items stored in the database. <---- Unless you just installed IA, this is bad. No items.
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: Transfer to any mod is disabled
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: Experimental updates is disabled
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: Running as administrator
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: Running in regular mode, stash files ignored
+2025-01-19 06:45:32,906 [Main] INFO [IAGrim.StartupService]: There are items stored for the following mods:
+2025-01-19 06:45:32,940 [Main] INFO [IAGrim.StartupService]: The path to Grim Dawn is "c:\games\grim dawn"
+2025-01-19 06:45:32,940 [Main] INFO [IAGrim.StartupService]: Using IA on multiple PCs: False
+2025-01-19 06:45:32,940 [Main] INFO [IAGrim.StartupService]: Logged into online backups: True
+2025-01-19 06:45:32,940 [Main] INFO [IAGrim.StartupService]: Opted out of online backups: False
+2025-01-19 06:45:32,944 [Main] WARN [IAGrim.StartupService]: The Grim Dawn database has not been parsed
+2025-01-19 06:45:32,944 [Main] INFO [IAGrim.StartupService]: Startup data dump complete
+2025-01-19 06:45:33,276 [Main] INFO [IAGrim.Program]: Checking for database updates..
+2025-01-19 06:45:33,327 [Main] INFO [IAGrim.Program]: Running the main application..
+2025-01-19 06:45:33,381 [5] INFO [EvilsoftCommons.Exceptions.ExceptionReporter]: Sent anonymous usage statistics to developer.
+2025-01-19 06:45:33,397 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Creating Chromium instance..
+2025-01-19 06:45:33,559 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Chromium created..
+2025-01-19 06:45:34,035 [Main] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":1,"data":{"message":"No items found / New install? IA is monitoring for items.. See the FAQ for more details.","type":"info","fade":"false"}}
+2025-01-19 06:45:34,164 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
+2025-01-19 06:45:34,451 [BuddyBackground] INFO [IAGrim.BuddyShare.BuddyItemsService]: Fetching own buddy ID from cloud..
+2025-01-19 06:45:35,027 [Backup] WARN [IAGrim.Utilities.Cloud.FileBackup]: No items found, skipping backup to avoid overwriting existing good backups.
+2025-01-19 06:45:36,176 [Main] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
+  Access-Control-Allow-Origin: http://iagd.evilsoft.net
+  Vary: Accept-Encoding
+  Date: Sun, 19 Jan 2025 04:45:37 GMT
+  Content-Length: 170
+  Content-Type: application/json; charset=utf-8
+} verifying authentication token
+2025-01-19 06:45:36,264 [BuddyBackground] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Access-Control-Allow-Credentials: true
+  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
+  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
+  Access-Control-Allow-Origin: http://iagd.evilsoft.net
+  Vary: Accept-Encoding
+  Date: Sun, 19 Jan 2025 04:45:37 GMT
+  Content-Length: 170
+  Content-Type: application/json; charset=utf-8
+} verifying authentication token
+2025-01-19 06:45:36,265 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing
+2025-01-19 06:45:36,266 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\replica\to_ia
+2025-01-19 06:45:36,341 [Main] INFO [EvilsoftCommons.DllInjector.RegisterWindow]: Created window with hwnd 132370
+2025-01-19 06:45:36,345 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Generating the path to the IA DLL...
+2025-01-19 06:45:37,236 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:45:40,762 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:45:43,935 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:45:44,002 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:45:44,003 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:45:44,005 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-19 06:45:44,005 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:45:44,005 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-19 06:45:44,005 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:45:44,005 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-19 06:45:44,005 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:45:44,006 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-19 06:45:47,949 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:45:51,040 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Backup up character _Deea Soldier to the cloud
+2025-01-19 06:45:51,045 [BackupServiceWorker] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up character _Deea Soldier..
+2025-01-19 06:45:51,485 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:45:53,340 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character _Deea Soldier successfully backed up to the cloud
+2025-01-19 06:45:53,341 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character sync complete, updating character sync timestamp
+2025-01-19 06:45:54,553 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 3312
+2025-01-19 06:46:25,611 [Main] INFO [IAGrim.UI.ModsDatabaseConfig]: Added C:\Games\Grim Dawn to the known Grim Dawn locations
+2025-01-19 06:46:28,496 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:46:28,686 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:46:28,709 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:46:31,695 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:46:31,727 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:46:31,745 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:46:32,335 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:46:32,372 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:46:32,389 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:46:32,943 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:46:32,980 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:46:33,000 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:46:55,559 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:46:55,599 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:46:55,618 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:47:27,958 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:47:31,794 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:34,937 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:47:35,070 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:47:35,075 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:47:35,076 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:38,109 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:47:39,005 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:47:42,513 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:45,557 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:47:45,601 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:47:45,605 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:47:45,605 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:48,648 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:47:49,531 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:47:53,048 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:56,091 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:47:56,138 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:47:56,142 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:47:56,142 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:47:59,188 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:48:00,064 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:48:03,560 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:48:06,593 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:48:06,637 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:48:06,640 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:48:06,640 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:48:09,677 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:48:10,574 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:48:14,387 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:48:17,469 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:48:17,561 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-19 06:48:17,561 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:48:17,561 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-19 06:48:17,561 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:48:17,561 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-19 06:48:17,561 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:48:17,563 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-19 06:48:17,563 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:48:17,563 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:48:21,510 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:48:25,030 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:48:28,050 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 9660
+2025-01-19 06:48:33,064 [SQL] INFO [IAGrim.Database.DAO.ItemTagDaoImpl]: Stored 16735 item tags to database..
+2025-01-19 06:48:33,264 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 80147 strings from Grim Dawn.
+2025-01-19 06:48:33,264 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:35,341 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 11023 items from Grim Dawn.
+2025-01-19 06:48:35,604 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 55904 strings from Grim Dawn.
+2025-01-19 06:48:35,604 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:36,772 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 5345 items from Grim Dawn.
+2025-01-19 06:48:37,163 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 56746 strings from Grim Dawn.
+2025-01-19 06:48:37,163 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:38,831 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 9667 items from Grim Dawn.
+2025-01-19 06:48:39,002 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 6494 strings from Grim Dawn.
+2025-01-19 06:48:39,002 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:39,042 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 10 items from Grim Dawn.
+2025-01-19 06:48:39,065 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 7294 strings from Grim Dawn.
+2025-01-19 06:48:39,065 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:39,109 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 3 items from Grim Dawn.
+2025-01-19 06:48:39,143 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 13893 strings from Grim Dawn.
+2025-01-19 06:48:39,143 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Attempting to parse items from Grim Dawn
+2025-01-19 06:48:39,322 [3] INFO [IAGrim.Parser.Arz.ArzParser]: Loaded 126 items from Grim Dawn.
+2025-01-19 06:48:49,311 [SQL] INFO [IAGrim.Database.Synchronizer.Core.ThreadExecuter]: Initiating long running operation
+2025-01-19 06:48:49,845 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:49,845 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 41325 stats to internal db.
+2025-01-19 06:48:50,329 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:50,329 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 48078 stats to internal db.
+2025-01-19 06:48:50,885 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:50,885 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 54276 stats to internal db.
+2025-01-19 06:48:51,362 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:51,363 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 43313 stats to internal db.
+2025-01-19 06:48:51,879 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:51,879 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 48257 stats to internal db.
+2025-01-19 06:48:52,356 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:52,356 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 37606 stats to internal db.
+2025-01-19 06:48:52,800 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:52,801 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 32867 stats to internal db.
+2025-01-19 06:48:53,211 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:53,211 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 21856 stats to internal db.
+2025-01-19 06:48:53,814 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:53,814 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 39303 stats to internal db.
+2025-01-19 06:48:54,466 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:54,466 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 68435 stats to internal db.
+2025-01-19 06:48:55,594 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:55,594 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 154877 stats to internal db.
+2025-01-19 06:48:57,119 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:57,119 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 223827 stats to internal db.
+2025-01-19 06:48:58,482 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:58,482 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 188209 stats to internal db.
+2025-01-19 06:48:59,107 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:59,107 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 48647 stats to internal db.
+2025-01-19 06:48:59,922 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:48:59,922 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 80337 stats to internal db.
+2025-01-19 06:49:02,049 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:02,050 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 322038 stats to internal db.
+2025-01-19 06:49:02,926 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:02,926 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 48800 stats to internal db.
+2025-01-19 06:49:03,569 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:03,569 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 37495 stats to internal db.
+2025-01-19 06:49:04,257 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:04,257 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 40871 stats to internal db.
+2025-01-19 06:49:04,853 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:04,854 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 28958 stats to internal db.
+2025-01-19 06:49:05,600 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:05,600 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 58489 stats to internal db.
+2025-01-19 06:49:06,255 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:06,255 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 34310 stats to internal db.
+2025-01-19 06:49:07,264 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:07,264 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 950 items and 90125 stats to internal db.
+2025-01-19 06:49:07,661 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Records stored
+2025-01-19 06:49:07,662 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Stored 499 items and 2572 stats to internal db.
+2025-01-19 06:49:07,662 [SQL] INFO [IAGrim.Database.Synchronizer.Core.ThreadExecuter]: Ending long running operation
+2025-01-19 06:49:07,709 [SQL] INFO [IAGrim.Database.Synchronizer.Core.ThreadExecuter]: Initiating long running operation
+2025-01-19 06:49:14,465 [SQL] INFO [IAGrim.Database.DatabaseItemDaoImpl]: Item indexes created
+2025-01-19 06:49:14,465 [SQL] INFO [IAGrim.Database.Synchronizer.Core.ThreadExecuter]: Ending long running operation
+2025-01-19 06:49:35,331 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:49:35,362 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:49:38,999 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updating player stats
+2025-01-19 06:49:39,037 [StatParserUI] INFO [IAGrim.Parsers.Arz.StatUpdateUIBackgroundWorker]: Updated item stats
+2025-01-19 06:49:39,057 [SQL] INFO [IAGrim.Database.ReplicaItemDaoImpl]: Deleting all replica data
+2025-01-19 06:49:46,364 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:49:49,952 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:49:53,016 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:49:53,109 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:49:53,115 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:49:53,116 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:49:56,249 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:49:57,184 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:50:00,678 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:50:03,720 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:50:03,769 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-19 06:50:03,772 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:50:03,772 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:50:06,815 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-19 06:50:07,737 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:50:11,419 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:50:14,499 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-19 06:50:14,605 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-19 06:50:14,605 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:50:14,606 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-19 06:50:14,606 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:50:14,607 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-19 06:50:14,607 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-19 06:50:14,610 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-19 06:50:14,611 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:50:14,611 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-19 06:50:18,580 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-19 06:50:22,096 [24] INFO [IAGrim.UI.Misc.CEF.UserFeedbackService]: Feedback Item teleported from GD
+2025-01-19 06:50:22,320 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-19 06:50:25,194 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:25,194 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:25,234 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:25,377 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 2720
+2025-01-19 06:50:26,552 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:26,553 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:26,553 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:27,127 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:27,127 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:27,370 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\UL2FAIrvpSb4BhuWa7n9PmTVKy1YHXDf.json for item stats
+2025-01-19 06:50:29,207 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:29,207 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:29,208 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:29,844 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:29,845 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:30,460 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:30,460 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:30,461 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\7yoQXs2OCBDmWAz9VR81wYHrFxUJIbfN.json for item stats
+2025-01-19 06:50:30,463 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:31,108 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:31,109 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:31,712 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:31,712 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:31,716 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:32,295 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:32,295 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:32,902 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:32,902 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:32,904 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:33,461 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:33,462 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:33,560 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\25oFpnHjzDakiycw87e0IBfE3lRJYMTr.json for item stats
+2025-01-19 06:50:34,094 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:34,095 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:34,098 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:34,684 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:34,684 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:35,280 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\4Qv13qauOWFeyCRSjnH9cLl7GEgmhpYP.json for item stats
+2025-01-19 06:50:35,285 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:35,285 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:35,287 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:36,030 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:36,031 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:36,655 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:36,656 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:36,658 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:37,241 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:37,241 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:37,853 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:37,853 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:37,855 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:38,424 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:38,425 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:38,533 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\bP3Y6ZMS7BD1IClkfGjsam0urx2TOWEp.json for item stats
+2025-01-19 06:50:39,053 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:39,054 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:39,055 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:39,659 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:39,661 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:40,266 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:40,266 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:40,267 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:40,905 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:40,905 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:41,506 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:41,507 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:41,507 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:41,634 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\bEBh20YaQVLnxRPGs9TAu6c1w75g8eXy.json for item stats
+2025-01-19 06:50:42,141 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:42,144 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:42,762 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:50:42,763 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:50:42,765 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:50:43,374 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:50:43,375 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:50:43,672 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\79A8GKVNbsUa0Q52dw1TrkoWXDHYeBjt.json for item stats
+2025-01-19 06:51:41,961 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:51:41,961 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:51:41,962 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:51:42,659 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\5W6XPb3ln7I2grtjd9yTBuz1kceiMRUJ.json for item stats
+2025-01-19 06:51:42,894 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:51:42,896 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:51:54,176 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:51:54,478 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:51:54,478 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:52:06,143 [15] INFO [IAGrim.Parsers.Arz.TransferStashService]: Wrote item to %LocalAppData%\EvilSoft\IAGD\itemqueue\outgoing\sc
+2025-01-19 06:52:08,788 [15] INFO [IAGrim.Parsers.Arz.TransferStashService]: Wrote item to %LocalAppData%\EvilSoft\IAGD\itemqueue\outgoing\sc
+2025-01-19 06:52:13,941 [15] INFO [IAGrim.Parsers.Arz.TransferStashService]: Wrote item to %LocalAppData%\EvilSoft\IAGD\itemqueue\outgoing\sc
+2025-01-19 06:53:00,244 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:53:00,244 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:53:00,245 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:53:00,794 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:53:00,795 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:53:01,460 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\9g1UF3AZ7JLecrOhXuxpfKEbs4NPT2zj.json for item stats
+2025-01-19 06:53:05,684 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:53:05,684 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:53:05,685 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:53:06,328 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:53:06,330 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:53:07,557 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\wu3W0Vi7nh9br5o61QMkpZBX4dFfIjKz.json for item stats
+2025-01-19 06:53:47,888 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-19 06:53:47,888 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-19 06:53:47,889 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:53:48,469 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:53:48,469 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:53:49,928 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\aXDvIJkwtTzeVRndC6Fp1NLPEGcjrh3W.json for item stats
+2025-01-19 06:55:41,645 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 06:55:41,965 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 06:55:41,965 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 06:56:26,466 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 14 items to cloud
+2025-01-19 06:56:27,012 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Upload successful, marking 14 as synchronized
+2025-01-19 06:56:27,037 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Upload complete (14 items)
+2025-01-19 06:58:12,959 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
+2025-01-19 07:04:38,480 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:39,023 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:39,732 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:40,402 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\ie0gWAFBOyX4uwaqKk5QT6U971tbCrVj.json for item stats
+2025-01-19 07:04:40,503 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:41,399 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:42,392 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:43,472 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:44,762 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:45,987 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:47,306 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:48,711 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:49,790 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 25 player items to database.
+2025-01-19 07:04:51,124 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 83 player items to database.
+2025-01-19 07:04:52,716 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:54,474 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:56,157 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:04:57,045 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 41 player items to database.
+2025-01-19 07:04:57,296 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\TfCX8qkezDUS4wcKH1aPh2toQEJg9ymG.json for item stats
+2025-01-19 07:04:57,851 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\nF5sg8iUfEawuYGVmtIqyk09DrBNKWvS.json for item stats
+2025-01-19 07:04:58,426 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\NeKWhc1j7wBodSYRmvUDAlV6GOXH4IEs.json for item stats
+2025-01-19 07:04:58,519 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 100 items to cloud
+2025-01-19 07:04:58,986 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\QjMNH9uqEre5c8FRL6J1dBD7iVTWkbxC.json for item stats
+2025-01-19 07:04:59,720 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\mR61w7IPYuUi9MVOGrACcoHqQd35fnZk.json for item stats
+2025-01-19 07:05:00,878 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\71IRv8touNweUpBEH9JVnbGjlhs2C0fr.json for item stats
+2025-01-19 07:05:01,687 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\FqfA32huvCKSrHmEGgdo9sztcQyilNTY.json for item stats
+2025-01-19 07:05:02,403 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\V3R2awuybUT17LzNkoA8PghmQWxIrsZ5.json for item stats
+2025-01-19 07:05:03,267 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\7gZlI9jcd2vythMX8a1ePrVziKOx3sTu.json for item stats
+2025-01-19 07:05:03,409 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\JtDTYMhI3abzu2fd5oPeOgAFLn7cxRmq.json for item stats
+2025-01-19 07:05:03,531 [BackupServiceWorker] WARN [IAGrim.Backup.Cloud.Service.BackupService]: One or more errors occurred.
+System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at IAGrim.Utilities.HelperClasses.RestService.Post(String url, String json)
+   at IAGrim.Backup.Cloud.Service.BackupService.SyncUp()
+---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
+
+2025-01-19 07:05:03,728 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\CdYoJeURyHVgnXqtfKQvW5Ex4GOjcFpi.json for item stats
+2025-01-19 07:05:04,619 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 100 items to cloud
+2025-01-19 07:05:04,760 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\ELmGK28U50NxsOYjI6RvW49ZFTXBizow.json for item stats
+2025-01-19 07:05:05,640 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\jMbcKJwFLRp7THSOnNfihV8I5XZxQl4e.json for item stats
+2025-01-19 07:05:06,781 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\zM6hxeEUJ0sVSpnGYb2uWBiyKwgTHIdQ.json for item stats
+2025-01-19 07:05:07,007 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Upload successful, marking 100 as synchronized
+2025-01-19 07:05:07,041 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 6 items to cloud
+2025-01-19 07:05:07,281 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Upload successful, marking 6 as synchronized
+2025-01-19 07:05:07,317 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Upload complete (106 items)
+2025-01-19 07:05:07,588 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\lJaX4FP9Hot8x2sh0fcEnejSdROCYp1V.json for item stats
+2025-01-19 07:05:08,320 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\MdN2cRHv0kuLsQPUqD1gh6SKf7O8jACW.json for item stats
+2025-01-19 07:05:09,714 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 100 player items to database.
+2025-01-19 07:05:10,364 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\Wa0LJYm6pkAGTxfn8QOieXSvtgl1wKVN.json for item stats
+2025-01-19 07:05:11,283 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\3TaSM5L9XVuz6EhBjPx0iGQfgnHZ4Isy.json for item stats
+2025-01-19 07:05:11,292 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 07:05:12,121 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 07:05:12,122 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 07:05:12,483 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-19 07:05:13,168 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-19 07:05:13,168 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-19 07:05:13,222 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\3BpwZiGOcukzx0MEJjQNAIyfVbLq1UXv.json for item stats
+2025-01-19 07:05:14,106 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\gshWQ6OLUvEf8rzTxZmc3HXeaSoR5YFJ.json for item stats
+2025-01-19 07:05:14,862 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\Mpo3mNDgzLuxBWhElvtdwIr0V9UkyJHe.json for item stats
+2025-01-19 07:05:15,662 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\pBT1KYs6i8AU7jGQxEX3dJ0qMRha9rlP.json for item stats
+2025-01-19 07:05:16,204 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\zjuWV0v3axD2gAO8ULHydE5tCRFo9fqB.json for item stats
+2025-01-19 07:05:17,066 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\UGhvi2S90NTAc7bVyrMeswCaxR5DqnWd.json for item stats
+2025-01-19 07:05:17,646 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\JeOpZNBVI7EoQbWU1CRiduvHfcSTawgy.json for item stats
+2025-01-19 07:05:17,916 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66127,"replicaStats":[{"type":4,"text":"кровожадный разбойничий интрепель крови"},{"type":64,"text":"Редкий одноручный топор"},{"type":17,"text":"42-94 физического урона"},{"type":19,"text":"1.93 атак в сек."},{"type":0,"text":""},{"type":18,"text":"33 кровотечения за 3 сек."},{"type":18,"text":"+99% урона кровотечением  с +44% продолжительности"},{"type":18,"text":"3% урона превращается в здоровье"},{"type":18,"text":"+3% скорости атаки"},{"type":79,"text":"+2 к умению Круг резни (Ночной клинок)"},{"type":0,"text":""},{"type":19,"text":"Нужно: 40 Уровень игрока"},{"type":19,"text":"Нужно: 324 Телосложение"}]}}
+2025-01-19 07:05:17,939 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66133,"replicaStats":[{"type":4,"text":"изолирующий латный пояс неукротимости"},{"type":64,"text":"Редкий пояс"},{"type":17,"text":"38 броня"},{"type":0,"text":""},{"type":18,"text":"+188 здоровья"},{"type":18,"text":"+40 навыка атаки"},{"type":18,"text":"45% сопротивления молнии"},{"type":18,"text":"16% сопротивления эфиру"},{"type":79,"text":"+3 к умению Призыв фамильяра (Оккультист)"},{"type":0,"text":""},{"type":68,"text":"Бонус всем питомцам"},{"type":69,"text":"+22% общего урона"},{"type":69,"text":"+6% здоровья"},{"type":69,"text":"4% сопротивления физическому урону"},{"type":0,"text":""},{"type":19,"text":"Нужно: 42 Уровень игрока"},{"type":19,"text":"Нужно: 296 Телосложение"}]}}
+2025-01-19 07:05:17,966 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66149,"replicaStats":[{"type":4,"text":"очищающий изумрудный перстень каббалы"},{"type":64,"text":"Редкое кольцо"},{"type":0,"text":""},{"type":18,"text":"+27% урона хаосом"},{"type":18,"text":"+24% урона ядом"},{"type":18,"text":"+17 навыка защиты"},{"type":18,"text":"+11 здоровья в сек."},{"type":18,"text":"51% сопротивления яду и кислоте"},{"type":18,"text":"16% снижения длительности оглушения"},{"type":0,"text":""},{"type":19,"text":"Нужно: 35 Уровень игрока"},{"type":19,"text":"Нужно: 178 Дух"}]}}
+2025-01-19 07:05:17,978 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66174,"replicaStats":[{"type":4,"text":"непроницаемое изумрудное ожерелье дикости"},{"type":64,"text":"Редкий амулет"},{"type":0,"text":""},{"type":18,"text":"+33 навыка защиты"},{"type":18,"text":"+21 здоровья в сек."},{"type":18,"text":"40% сопротивления проникающему урону"},{"type":18,"text":"43% сопротивления яду и кислоте"},{"type":18,"text":"19% сопротивления стихийному урону"},{"type":79,"text":"+3 к умению Призыв шипастого зверя (Шаман)"},{"type":0,"text":""},{"type":68,"text":"Бонус всем питомцам"},{"type":69,"text":"+13% общего урона"},{"type":69,"text":"+6% скорости атаки"},{"type":69,"text":"21% снижения длительности оглушения"},{"type":0,"text":""},{"type":19,"text":"Нужно: 50 Уровень игрока"},{"type":19,"text":"Нужно: 212 Дух"}]}}
+2025-01-19 07:05:17,997 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66184,"replicaStats":[{"type":5,"text":"громоотвод"},{"type":64,"text":"Эпический одноручный меч"},{"type":17,"text":"38-48 физического урона"},{"type":19,"text":"1.97 атак в сек."},{"type":0,"text":""},{"type":18,"text":"1-14 урона молнией"},{"type":18,"text":"+15% урона молнией"},{"type":18,"text":"14% конверсия: физический урон в урон молнией"},{"type":18,"text":"+5% скорости атаки"},{"type":18,"text":"1-83 ответного урона молнией"},{"type":79,"text":"+2 к умению Дикость (Шаман)"},{"type":0,"text":""},{"type":34,"text":"Дарованные умения"},{"type":35,"text":"Электрическая сверхновая (10% шанс при атаке)"},{"type":37,"text":"Выпускает порыв энергии молний, повреждая ближайших врагов."},{"type":0,"text":""},{"type":18,"text":"1 сек. перезарядка умения"},{"type":18,"text":"4 м радиус"},{"type":18,"text":"43-397 урона молнией"},{"type":0,"text":""},{"type":19,"text":"Нужно: 18 Уровень игрока"},{"type":19,"text":"Нужно: 128 Искусность"}]}}
+2025-01-19 07:05:18,011 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66246,"replicaStats":[{"type":4,"text":"превосходный резец песчаного когтя отвращения"},{"type":64,"text":"Редкий одноручный топор"},{"type":17,"text":"27-61 физического урона"},{"type":19,"text":"1.86 атак в сек."},{"type":0,"text":""},{"type":18,"text":"15-22 физического урона"},{"type":18,"text":"5 урона эфиром"},{"type":18,"text":"+69% физического урона"},{"type":18,"text":"+34% урона эфиром"},{"type":18,"text":"+22% урона внутренними травмами"},{"type":18,"text":"+11 телосложения"},{"type":18,"text":"+24 навыка атаки"},{"type":18,"text":"15% сопротивления хаосу"},{"type":18,"text":"+3 к умению Потрошение (Солдат)"},{"type":18,"text":"+3 к умению Отпор (?)"},{"type":18,"text":"+2 к умению Вознесение (?)"},{"type":18,"text":"1914 физического урона к умению Круговой удар (Солдат)"},{"type":18,"text":"6% урона превращается в здоровье к умению Круговой удар (Солдат)"},{"type":18,"text":"319 физического урона к умению Царствие добродетели (?)"},{"type":18,"text":"+10% скорости атаки к умению Царствие добродетели (?)"},{"type":0,"text":""},{"type":19,"text":"Нужно: 26 Уровень игрока"},{"type":19,"text":"Нужно: 186 Телосложение"}]}}
+2025-01-19 07:05:18,071 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66252,"replicaStats":[{"type":4,"text":"разлагающий хвост Грюндлплита смекалки"},{"type":64,"text":"Редкая одноручная булава"},{"type":17,"text":"18-47 физического урона"},{"type":17,"text":"9-18 урона здоровью"},{"type":19,"text":"1.78 атак в сек."},{"type":0,"text":""},{"type":18,"text":"14 урона здоровью"},{"type":18,"text":"+30% урона здоровью"},{"type":18,"text":"11% конверсия: физический урон в урон здоровью"},{"type":18,"text":"+240 здоровья"},{"type":18,"text":"+6% скорости колдовства"},{"type":18,"text":"+3 к умению Боевой дух (Солдат)"},{"type":79,"text":"+3 к умению Пожинающий удар (Некромант)"},{"type":18,"text":"-3 сек. перезарядка умения к умению Боевой дух (Солдат)"},{"type":18,"text":"180 урона здоровью к умению Боевой дух (Солдат)"},{"type":18,"text":"8% урона превращается в здоровье к умению Боевой дух (Солдат)"},{"type":79,"text":"839 урона здоровью к умению Пожинающий удар (Некромант)"},{"type":79,"text":"100% конверсия: физический урон в урон здоровью к умению Пожинающий удар (Некромант)"},{"type":0,"text":""},{"type":27,"text":"Зазубренный шип"},{"type":29,"text":"Компонент"},{"type":0,"text":""},{"type":31,"text":"3 проникающего урона"},{"type":31,"text":"9 кровотечения за 3 сек."},{"type":31,"text":"+12% урона кровотечением"},{"type":0,"text":""},{"type":23,"text":"Дарованные умения"},{"type":36,"text":"Бронебойное оружие (Добавлено предметом)"},{"type":38,"text":"Усиливает ваши атаки, делая их бронебойными."},{"type":25,"text":"Усиления активируются автоматически."},{"type":0,"text":""},{"type":25,"text":"50 энергии занято"},{"type":25,"text":"45 проникающего урона"},{"type":25,"text":"+25% проникающего урона"},{"type":0,"text":""},{"type":24,"text":"Бонус всем питомцам"},{"type":25,"text":"5 физического урона"},{"type":25,"text":"+25% физического урона"},{"type":0,"text":""},{"type":19,"text":"Нужно: 20 Уровень игрока"},{"type":19,"text":"Нужно: 186 Телосложение"}]}}
+2025-01-19 07:05:18,092 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66289,"replicaStats":[{"type":4,"text":"превосходная разбойничья пистоль сохранённых душ"},{"type":64,"text":"Редкий пистолет"},{"type":17,"text":"18-81 физического урона"},{"type":19,"text":"1.68 атак в сек."},{"type":0,"text":""},{"type":18,"text":"12-21 физического урона"},{"type":18,"text":"+6% критического урона"},{"type":18,"text":"+51% урона холодом"},{"type":18,"text":"+48% урона здоровью"},{"type":18,"text":"+40% урона обморожением"},{"type":18,"text":"+42% урона разложением"},{"type":18,"text":"+31 навыка атаки"},{"type":79,"text":"+2 к умению Урожай костей (Некромант)"},{"type":0,"text":""},{"type":19,"text":"Нужно: 41 Уровень игрока"},{"type":19,"text":"Нужно: 295 Искусность"}]}}
+2025-01-19 07:05:18,107 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66295,"replicaStats":[{"type":5,"text":"(S) инъектор врачевателя"},{"type":64,"text":"Эпический пистолет"},{"type":17,"text":"43-53 физического урона"},{"type":19,"text":"1.68 атак в сек."},{"type":0,"text":""},{"type":18,"text":"+37% общего урона"},{"type":18,"text":"+122 здоровья"},{"type":18,"text":"+20 навыка защиты"},{"type":18,"text":"+9% скорости колдовства"},{"type":79,"text":"+2 к умению Кровь Дрига (Оккультист)"},{"type":79,"text":"+2 к умению Слово обновления (Инквизитор)"},{"type":0,"text":""},{"type":20,"text":"Врачеватель"},{"type":21,"text":"\"Регалии, носимые медиками и знахарями, что помогали нуждающимся, обозначающие их как целителей, не имеющих дипломатических предпочтений\""},{"type":22,"text":"(S) касание врачевателя"},{"type":22,"text":"(S) мудрость врачевателя"},{"type":22,"text":"(S) знак врачевателя"},{"type":22,"text":"(S) инъектор врачевателя"},{"type":0,"text":""},{"type":22,"text":"(2) Набор"},{"type":26,"text":"+55 навыка защиты"},{"type":22,"text":"(3) Набор"},{"type":26,"text":"+12% здоровья"},{"type":22,"text":"(4) Набор"},{"type":26,"text":"+3 к умению Кровь Дрига (Оккультист)"},{"type":26,"text":"+3 к умению Слово обновления (Инквизитор)"},{"type":0,"text":""},{"type":80,"text":"Касание Эмпириона (20% шанс при атаке)"},{"type":80,"text":"Свет Эмпириона залечивает раны ближайших союзников."},{"type":0,"text":""},{"type":80,"text":"5 сек. перезарядка умения"},{"type":80,"text":"3 сек. длительность"},{"type":80,"text":"12 м радиус"},{"type":80,"text":"Восстанавливается 3% + 300 здоровья"},{"type":80,"text":"+100 здоровья в сек."},{"type":0,"text":""},{"type":19,"text":"Нужно: 40 Уровень игрока"},{"type":19,"text":"Нужно: 298 Искусность"}]}}
+2025-01-19 07:05:18,123 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66305,"replicaStats":[{"type":3,"text":"пробивающая прочная дубинка рвения"},{"type":64,"text":"Магическая одноручная булава"},{"type":17,"text":"7-75 физического урона"},{"type":19,"text":"1.66 атак в сек."},{"type":0,"text":""},{"type":18,"text":"3-6 проникающего урона"},{"type":18,"text":"+7% скорости атаки"},{"type":0,"text":""},{"type":27,"text":"Зазубренный шип"},{"type":29,"text":"Компонент"},{"type":0,"text":""},{"type":31,"text":"3 проникающего урона"},{"type":31,"text":"9 кровотечения за 3 сек."},{"type":31,"text":"+12% урона кровотечением"},{"type":0,"text":""},{"type":23,"text":"Дарованные умения"},{"type":36,"text":"Бронебойное оружие (Добавлено предметом)"},{"type":38,"text":"Усиливает ваши атаки, делая их бронебойными."},{"type":25,"text":"Усиления активируются автоматически."},{"type":0,"text":""},{"type":25,"text":"50 энергии занято"},{"type":25,"text":"45 проникающего урона"},{"type":25,"text":"+25% проникающего урона"},{"type":0,"text":""},{"type":24,"text":"Бонус всем питомцам"},{"type":25,"text":"5 физического урона"},{"type":25,"text":"+25% физического урона"},{"type":0,"text":""},{"type":19,"text":"Нужно: 5 Уровень игрока"},{"type":19,"text":"Нужно: 122 Телосложение"}]}}
+2025-01-19 07:05:18,138 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66358,"replicaStats":[{"type":4,"text":"живительные потрёпанные краги проницательности"},{"type":64,"text":"Редкие тяжёлые наручи"},{"type":17,"text":"66 броня"},{"type":0,"text":""},{"type":18,"text":"+9% стихийного урона"},{"type":18,"text":"+9% урона горением"},{"type":18,"text":"+9% урона обморожением"},{"type":18,"text":"+12% урона электрошоком"},{"type":18,"text":"+7 духа"},{"type":18,"text":"+5% здоровья"},{"type":18,"text":"+6 навыка атаки"},{"type":18,"text":"9% сопротивления хаосу"},{"type":0,"text":""},{"type":34,"text":"Дарованные умения"},{"type":35,"text":"Озарение (10% шанс при атаке)"},{"type":37,"text":"Введите себя в состояние транса, позволяя тёмным силам течь через вашу плоть."},{"type":0,"text":""},{"type":18,"text":"12 сек. перезарядка умения"},{"type":18,"text":"8 сек. длительность"},{"type":18,"text":"+24% стихийного урона"},{"type":18,"text":"+2 энергии в сек."},{"type":0,"text":""},{"type":27,"text":"Щетинистый мех"},{"type":29,"text":"Компонент"},{"type":0,"text":""},{"type":31,"text":"+90 здоровья"},{"type":31,"text":"+25% запаса сил"},{"type":0,"text":""},{"type":19,"text":"Нужно: 5 Уровень игрока"},{"type":19,"text":"Нужно: 123 Телосложение"}]}}
+2025-01-19 07:05:18,154 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66362,"replicaStats":[{"type":4,"text":"превосходный железный дерринжер неистовства"},{"type":64,"text":"Редкий пистолет"},{"type":17,"text":"15-48 физического урона"},{"type":19,"text":"1.70 атак в сек."},{"type":0,"text":""},{"type":18,"text":"2-5 физического урона"},{"type":18,"text":"10% шанс на 24 физического урона"},{"type":18,"text":"+20% физического урона"},{"type":18,"text":"+48 здоровья"},{"type":18,"text":"+5% скорости атаки"},{"type":18,"text":"+2 к умению Праведное рвение (?)"},{"type":0,"text":""},{"type":19,"text":"Нужно: 5 Уровень игрока"},{"type":19,"text":"Нужно: 180 Искусность"}]}}
+2025-01-19 07:05:18,171 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66381,"replicaStats":[{"type":4,"text":"демонический залатанный кафтан шипов"},{"type":64,"text":"Редкий чародейский нагрудник"},{"type":17,"text":"91 броня"},{"type":0,"text":""},{"type":18,"text":"+13% урона здоровью"},{"type":18,"text":"+15% урона хаосом"},{"type":18,"text":"+10 навыка атаки"},{"type":18,"text":"+3.5 энергии в сек."},{"type":18,"text":"10% сопротивления урону здоровью"},{"type":18,"text":"31 ответного физического урона"},{"type":0,"text":""},{"type":19,"text":"Нужно: 12 Уровень игрока"},{"type":19,"text":"Нужно: 98 Телосложение"},{"type":19,"text":"Нужно: 181 Дух"}]}}
+2025-01-19 07:05:18,185 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66382,"replicaStats":[{"type":4,"text":"руническое золотое кольцо заживления"},{"type":64,"text":"Редкое кольцо"},{"type":0,"text":""},{"type":18,"text":"+10% стихийного урона"},{"type":18,"text":"+6% урона горением"},{"type":18,"text":"+9% урона обморожением"},{"type":18,"text":"+8% урона электрошоком"},{"type":18,"text":"+5% здоровья"},{"type":18,"text":"+30 здоровья в сек."},{"type":18,"text":"8% сопротивления стихийному урону"},{"type":18,"text":"8% сопротивления кровотечению"},{"type":0,"text":""},{"type":19,"text":"Нужно: 12 Уровень игрока"},{"type":19,"text":"Нужно: 79 Дух"}]}}
+2025-01-19 07:05:18,202 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66389,"replicaStats":[{"type":4,"text":"освящённые стальные сапожищи шипов"},{"type":64,"text":"Редкая тяжёлая обувь"},{"type":17,"text":"76 броня"},{"type":0,"text":""},{"type":18,"text":"+6% урона против нежити"},{"type":18,"text":"+17 духа"},{"type":18,"text":"+4% здоровья"},{"type":18,"text":"13% сопротивления урону здоровью"},{"type":18,"text":"11% сопротивления замедлению"},{"type":18,"text":"36 ответного физического урона"},{"type":0,"text":""},{"type":27,"text":"Дырявый щиток"},{"type":29,"text":"Компонент"},{"type":0,"text":""},{"type":31,"text":"+15 брони"},{"type":0,"text":""},{"type":19,"text":"Нужно: 12 Уровень игрока"},{"type":19,"text":"Нужно: 147 Телосложение"}]}}
+2025-01-19 07:05:18,216 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66391,"replicaStats":[{"type":4,"text":"демонический скипетр рвения"},{"type":64,"text":"Редкий одноручный скипетр"},{"type":17,"text":"19-34 урона кислотой"},{"type":19,"text":"1.78 атак в сек."},{"type":0,"text":""},{"type":18,"text":"1-7 урона хаосом"},{"type":18,"text":"+16% урона кислотой"},{"type":18,"text":"+15% урона здоровью"},{"type":18,"text":"+14% урона хаосом"},{"type":18,"text":"+17% урона ядом"},{"type":18,"text":"11% конверсия: физический урон в урон хаосом"},{"type":18,"text":"+4% навыка атаки"},{"type":18,"text":"+7% скорости атаки"},{"type":0,"text":""},{"type":19,"text":"Нужно: 5 Уровень игрока"},{"type":19,"text":"Нужно: 152 Телосложение"},{"type":19,"text":"Нужно: 152 Дух"}]}}
+2025-01-19 07:05:18,232 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66483,"replicaStats":[{"type":4,"text":"изолирующие вычурные бармы дрангола"},{"type":64,"text":"Редкие наплечники"},{"type":17,"text":"262 броня"},{"type":0,"text":""},{"type":18,"text":"+26 навыка атаки"},{"type":18,"text":"+19 навыка защиты"},{"type":18,"text":"увеличивает восстановление здоровья на 10%"},{"type":18,"text":"увеличение брони на 4%"},{"type":18,"text":"41% сопротивления молнии"},{"type":0,"text":""},{"type":19,"text":"Нужно: 30 Уровень игрока"},{"type":19,"text":"Нужно: 227 Телосложение"}]}}
+2025-01-19 07:05:18,248 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66530,"replicaStats":[{"type":4,"text":"искусная имперская шляпа дрангола"},{"type":64,"text":"Редкий чародейский шлем"},{"type":17,"text":"380 броня"},{"type":0,"text":""},{"type":18,"text":"+7% искусности"},{"type":18,"text":"+26 навыка атаки"},{"type":18,"text":"+19 навыка защиты"},{"type":18,"text":"+2.4 энергии в сек."},{"type":18,"text":"увеличивает восстановление здоровья на 13%"},{"type":18,"text":"увеличение брони на 5%"},{"type":0,"text":""},{"type":19,"text":"Нужно: 30 Уровень игрока"},{"type":19,"text":"Нужно: 197 Телосложение"},{"type":19,"text":"Нужно: 372 Дух"}]}}
+2025-01-19 07:05:18,264 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66555,"replicaStats":[{"type":5,"text":"тёмный гримуар Ог'Напеша"},{"type":16,"text":"\"Тёмные записи Ог'Напеша, осуждённого некроманта\""},{"type":64,"text":"Эпические тотемы/книги"},{"type":0,"text":""},{"type":18,"text":"+62% урона здоровью"},{"type":18,"text":"+21 духа"},{"type":18,"text":"+22 навыка атаки"},{"type":18,"text":"+3.8 энергии в сек."},{"type":18,"text":"+8% скорости колдовства"},{"type":18,"text":"-19% времени перезарядки умения"},{"type":79,"text":"+2 к умению Урожай душ (Некромант)"},{"type":0,"text":""},{"type":68,"text":"Бонус всем питомцам"},{"type":69,"text":"+21% общего урона"},{"type":69,"text":"+5% общей скорости"},{"type":0,"text":""},{"type":34,"text":"Дарованные умения"},{"type":35,"text":"Дух Ог'Напеша (Добавлено предметом)"},{"type":37,"text":"Чтение тёмных трудов Ог'Напеша поможет вызвать его самое страшное проявление обратно в мир живых. Только один Дух может быть призван за раз. Дух получает все бонусы питомцев."},{"type":0,"text":""},{"type":18,"text":"180 затраты энергии"},{"type":18,"text":"30 сек. перезарядка умения"},{"type":0,"text":""},{"type":40,"text":"26352 здоровье"},{"type":40,"text":"1949 энергия"},{"type":0,"text":""},{"type":23,"text":"Умения  Дух Ог'Напеша:"},{"type":40,"text":"237-550 физического урона"},{"type":40,"text":"133 урона огнём"},{"type":0,"text":""},{"type":19,"text":"Нужно: 40 Уровень игрока"},{"type":19,"text":"Нужно: 400 Дух"}]}}
+2025-01-19 07:05:18,281 [20] WARN [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Attempted to communicate with the frontend, but CEF not yet initialized, discarded: {"type":9,"data":{"id":66630,"replicaStats":[{"type":5,"text":"ворон несчастий Бисмиэль"},{"type":16,"text":"\"Символическое оружие преданных последователей Бисмиэль\""},{"type":64,"text":"Эпические арбалеты/ружья"},{"type":17,"text":"140-163 урона хаосом"},{"type":19,"text":"1.39 атак в сек."},{"type":0,"text":""},{"type":18,"text":"+130% урона хаосом"},{"type":18,"text":"+523 здоровья"},{"type":18,"text":"-12% времени перезарядки умения"},{"type":79,"text":"+2 к умениям мастерства Оккультист"},{"type":0,"text":""},{"type":68,"text":"Бонус всем питомцам"},{"type":69,"text":"30 яда за 5 сек."},{"type":69,"text":"+97% общего урона"},{"type":69,"text":"+59% урона кислотой"},{"type":69,"text":"+58% урона ядом"},{"type":0,"text":""},{"type":19,"text":"Нужно: 50 Уровень игрока"},{"type":19,"text":"Нужно: 377 Искусность"}]}}
+2025-01-19 07:05:25,492 [Main] INFO [IAGrim.Program]: Application ended.
+2025-01-19 07:05:25,492 [Main] INFO [IAGrim.Program]: IA Exited

@@ -11,7 +11,7 @@
     "startMinimized": true,
     "hasSuggestedLanguageChange": false,
     "stashToDepositTo": 0,
-    "pendingInstantSyncWarning": false,
+    "pendingInstantSyncWarning": true,
     "stashToLootFrom": 0,
     "lastSelectedMod": {
       "isHardcore": false,
@@ -25,8 +25,8 @@
     "currentGrimdawnLocation": "c:\\games\\grim dawn",
     "windowPositionSettings": {
       "state": 0,
-      "height": 100,
-      "width": 199,
+      "height": 784,
+      "width": 1382,
       "top": 0,
       "left": 0,
       "display": "\\\\.\\DISPLAY1"
@@ -39,14 +39,14 @@
     "grimDawnLocationLastModified": 1734888442674,
     "hasWarnedGrimDawnUpdate": false,
     "isGrimDawnParsed": true,
-    "lastCharSyncUtc": "\/Date(1736959126094)\/",
+    "lastCharSyncUtc": "\/Date(1737261894009)\/",
     "preferLegacyMode": false
   },
   "persistent": {
     "buddySyncUserIdV3": 140739,
     "subscribeExperimentalUpdates": false,
     "minimizeToTray": true,
-    "usingDualComputer": false,
+    "usingDualComputer": true,
     "transferAnyMod": false,
     "darkMode": true,
     "autoUpdateModSettings": false,
@@ -55,6 +55,6 @@
     "cloudAuthToken": "58c1d0fc-529a-4966-8267-984e668a25d8",
     "cloudUser": "dmitry.cheva@gmail.com",
     "autoDismissNotifications": false,
-    "cloudUploadTimestamp": 1736956129
+    "cloudUploadTimestamp": 1737263109
   }
 }

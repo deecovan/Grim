@@ -1,10 +1,10 @@
-2025-01-09 10:16:22,850 [Main] INFO [IAGrim.Program]: Starting IA:GD..
-2025-01-09 10:16:22,882 [Main] INFO [IAGrim.Program]: Starting exception monitor for bug reports..
-2025-01-09 10:16:22,883 [Main] INFO [IAGrim.StartupService]: Running version 1.4.9063.13827 from 24/10/2024
-2025-01-09 10:16:23,714 [Main] INFO [IAGrim.Program]: Calling run..
-2025-01-09 10:16:23,731 [Main] INFO [IAGrim.Program]: Visual styles enabled..
-2025-01-09 10:16:24,222 [SQL] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 6
-2025-01-09 10:16:28,347 [SQL] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+2025-01-11 09:45:10,221 [Main] INFO [IAGrim.Program]: Starting IA:GD..
+2025-01-11 09:45:10,237 [Main] INFO [IAGrim.Program]: Starting exception monitor for bug reports..
+2025-01-11 09:45:10,237 [Main] INFO [IAGrim.StartupService]: Running version 1.4.9063.13827 from 24/10/2024
+2025-01-11 09:45:10,784 [Main] INFO [IAGrim.Program]: Calling run..
+2025-01-11 09:45:10,800 [Main] INFO [IAGrim.Program]: Visual styles enabled..
+2025-01-11 09:45:11,065 [SQL] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 6
+2025-01-11 09:45:12,596 [SQL] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
 code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
 index idx_replicaitem_playeritemid already exists
    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
@@ -16,11 +16,11 @@ index idx_replicaitem_playeritemid already exists
    at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
    at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
    at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
-2025-01-09 10:16:28,381 [SQL] INFO [SessionFactory]: Database connection established.
-2025-01-09 10:16:37,300 [Main] INFO [IAGrim.StartupService]: IA is configured to loot from the last stash page
-2025-01-09 10:16:37,300 [Main] INFO [IAGrim.StartupService]: IA is configured to deposit to the second-to-last stash page
-2025-01-09 10:16:37,300 [Main] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 1
-2025-01-09 10:16:37,916 [Main] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
+2025-01-11 09:45:12,628 [SQL] INFO [SessionFactory]: Database connection established.
+2025-01-11 09:45:17,534 [Main] INFO [IAGrim.StartupService]: IA is configured to loot from the last stash page
+2025-01-11 09:45:17,534 [Main] INFO [IAGrim.StartupService]: IA is configured to deposit to the second-to-last stash page
+2025-01-11 09:45:17,534 [Main] INFO [IAGrim.Database.SessionFactory]: Creating session on thread 1
+2025-01-11 09:45:17,675 [Main] ERROR[NHibernate.Tool.hbm2ddl.SchemaUpdate]: Unsuccessful: create index idx_replicaitem_playeritemid on ReplicaItem2 (playeritemid)
 code = Error (1), message = System.Data.SQLite.SQLiteException (0x87AF001F): SQL logic error
 index idx_replicaitem_playeritemid already exists
    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
@@ -32,252 +32,140 @@ index idx_replicaitem_playeritemid already exists
    at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
    at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
    at NHibernate.Tool.hbm2ddl.SchemaUpdate.Execute(Action`1 scriptAction, Boolean doUpdate)
-2025-01-09 10:16:37,917 [Main] INFO [SessionFactory]: Database connection established.
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: There are 1641 items stored in the database.
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: Transfer to any mod is disabled
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: Experimental updates is disabled
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: Running as administrator
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: Running in regular mode, stash files ignored
-2025-01-09 10:16:37,948 [Main] INFO [IAGrim.StartupService]: There are items stored for the following mods:
-2025-01-09 10:16:38,115 [Main] INFO [IAGrim.StartupService]: Mod: "", HC: False
-2025-01-09 10:16:38,116 [Main] INFO [IAGrim.StartupService]: The path to Grim Dawn is "c:\games\grim dawn"
-2025-01-09 10:16:38,116 [Main] INFO [IAGrim.StartupService]: Using IA on multiple PCs: False
-2025-01-09 10:16:38,116 [Main] INFO [IAGrim.StartupService]: Logged into online backups: True
-2025-01-09 10:16:38,116 [Main] INFO [IAGrim.StartupService]: Opted out of online backups: False
-2025-01-09 10:16:38,276 [Main] INFO [IAGrim.StartupService]: The Grim Dawn database has been parsed
-2025-01-09 10:16:38,276 [Main] INFO [IAGrim.StartupService]: Startup data dump complete
-2025-01-09 10:16:39,414 [Main] INFO [IAGrim.Program]: Checking for database updates..
-2025-01-09 10:16:39,717 [Main] INFO [IAGrim.Program]: Running the main application..
-2025-01-09 10:16:39,964 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Creating Chromium instance..
-2025-01-09 10:16:40,006 [5] INFO [EvilsoftCommons.Exceptions.ExceptionReporter]: Sent anonymous usage statistics to developer.
-2025-01-09 10:16:41,950 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Chromium created..
-2025-01-09 10:16:41,958 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
-2025-01-09 10:16:43,217 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
-2025-01-09 10:16:44,789 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
-2025-01-09 10:16:46,562 [BuddyBackground] INFO [IAGrim.BuddyShare.BuddyItemsService]: Fetching own buddy ID from cloud..
-2025-01-09 10:16:46,761 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
-2025-01-09 10:16:46,983 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
-2025-01-09 10:16:47,496 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
-2025-01-09 10:16:47,572 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
-2025-01-09 10:16:47,715 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
-2025-01-09 10:16:48,097 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
-2025-01-09 10:16:48,727 [BuddyBackground] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
-{
-  Access-Control-Allow-Credentials: true
-  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
-  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
-  Access-Control-Allow-Origin: http://iagd.evilsoft.net
-  Vary: Accept-Encoding
-  Date: Thu, 09 Jan 2025 08:16:50 GMT
-  Content-Length: 170
-  Content-Type: application/json; charset=utf-8
-} verifying authentication token
-2025-01-09 10:16:49,135 [Main] INFO [IAGrim.Backup.Cloud.Service.AuthService]: Got Status StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
-{
-  Access-Control-Allow-Credentials: true
-  Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With
-  Access-Control-Allow-Methods: POST, OPTIONS, GET, PUT
-  Access-Control-Allow-Origin: http://iagd.evilsoft.net
-  Vary: Accept-Encoding
-  Date: Thu, 09 Jan 2025 08:16:50 GMT
-  Content-Length: 170
-  Content-Type: application/json; charset=utf-8
-} verifying authentication token
-2025-01-09 10:16:49,153 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
-2025-01-09 10:16:49,157 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
-2025-01-09 10:16:49,244 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing
-2025-01-09 10:16:49,245 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\replica\to_ia
-2025-01-09 10:16:49,252 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\0OsN5oPQgmn1lKdvCFtwR6YAI73cEWqT.csv, 3.51162774906481 days old.
-2025-01-09 10:16:49,253 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\0VlG9btwhEQNcaKungCXMvHUjS2iTDy4.csv, 3.51162773759838 days old.
-2025-01-09 10:16:49,254 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\16iIoJeYmArCDsPVw9WzKn5LcvbOuZH8.csv, 3.51162771445718 days old.
-2025-01-09 10:16:49,255 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\1c0hnIlEV6Re8PyBN4YjgAOaULrmqt3J.csv, 3.51162767969329 days old.
-2025-01-09 10:16:49,256 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\1QbroMZhuvEJgaye2sG4NT6BiDtRYLpx.csv, 3.51162770272338 days old.
-2025-01-09 10:16:49,256 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\24n7erAfTcgD5UXaHl9hCRL1QByi0zjE.csv, 3.51162765653704 days old.
-2025-01-09 10:16:49,258 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\2FVJGEk8QwIm6yZ7aA3SvWMofrNjHe5u.csv, 3.51162764501505 days old.
-2025-01-09 10:16:49,259 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\4eZ1zUlKvRMO5WVwDycJNSIFhQCAfjH9.csv, 3.51162763342477 days old.
-2025-01-09 10:16:49,260 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\5FyloA0g4duk2BpxCvwh3XRYcKOZItMi.csv, 3.51162762172222 days old.
-2025-01-09 10:16:49,261 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\6JZoGM2VeQYgiUmL0KF7EtRWSvNyX3jd.csv, 3.51162761027894 days old.
-2025-01-09 10:16:49,262 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\7bVDhInRWP2836MiSzlEoaeA9y15vpgx.csv, 3.51162758713773 days old.
-2025-01-09 10:16:49,262 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\7IWOyzxf4t2QZh0N8dvMclaTSUYsp9e3.csv, 3.51162759870949 days old.
-2025-01-09 10:16:49,263 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\7OluqwY6zx5D9G2FPy8N4VUvQpWZih1S.csv, 3.51162759870949 days old.
-2025-01-09 10:16:49,263 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\7tdiBXwOKpDxbes8vkEau01SQ2hrnMJy.csv, 3.51162757409722 days old.
-2025-01-09 10:16:49,264 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\85kX3Q2oqPiH6ulWpryZ497vgNTxIhU0.csv, 3.5116275625081 days old.
-2025-01-09 10:16:49,264 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\8XpzPcfO3NHurIqs5ghyJZRDjU4Qxo6K.csv, 3.51162755095602 days old.
-2025-01-09 10:16:49,264 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\8yRpfrojJkCbXPHvigNcIzUxZmFB3wD2.csv, 3.51162753938194 days old.
-2025-01-09 10:16:49,265 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\9anFOMhrIWqDzmticHUdKBLSvZC3Ve8A.csv, 3.51162753938194 days old.
-2025-01-09 10:16:49,265 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\9xyEAVMvBmsdHoLGZPScjneYCurJ34NO.csv, 3.51162752779745 days old.
-2025-01-09 10:16:49,266 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\a8L0bztfUwIiHNljh5RyFOQGAEXcVvq1.csv, 3.51162693593866 days old.
-2025-01-09 10:16:49,267 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\apQrHoS3P5wGIOi1CmcAf2hbEFjukdsX.csv, 3.51162692436574 days old.
-2025-01-09 10:16:49,270 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ApZBbUklCSKaHT5ow3zPQ6Jc0vsuey72.csv, 3.5116275160787 days old.
-2025-01-09 10:16:49,271 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\AqMmNhceHLzn2t0U8iuCakwVd63sxRol.csv, 3.51162750465278 days old.
-2025-01-09 10:16:49,272 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\AruV7wZFPK6MpkGyif4zncW0mtDEvOYq.csv, 3.51162749307986 days old.
-2025-01-09 10:16:49,273 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\AXyb1Nu50IoxFLfehJcn7tQvqi86CBj4.csv, 3.5116275160787 days old.
-2025-01-09 10:16:49,274 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\azF294065NmbsdLciUfjorSWJTRxIGKD.csv, 3.51162691279051 days old.
-2025-01-09 10:16:49,274 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\b5pRcoCla6ATMWNL7DPrO4kZdzS98u1x.csv, 3.51162690120486 days old.
-2025-01-09 10:16:49,275 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\BfUp7PD1wLJnZoT0edAmgVNEGX3s6uty.csv, 3.51162748150463 days old.
-2025-01-09 10:16:49,275 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\bnQGiXDHFsghUWlwTN5BAVIvoSrpf7K9.csv, 3.51162688964583 days old.
-2025-01-09 10:16:49,275 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\c3Xd0eBpnZfV5tuRFmqNGY2CrgzLvP46.csv, 3.51162687807176 days old.
-2025-01-09 10:16:49,276 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\cPJgh7UC09zul865aL1nvTixo2RSMZqV.csv, 3.51162687807176 days old.
-2025-01-09 10:16:49,277 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\daMo5U2Q4lKviT1b7gzpuwOPBkWDcqhR.csv, 3.51162686650347 days old.
-2025-01-09 10:16:49,277 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\DL8bKSUj6M0XFVc2QInw5Rp9rv3sTH4Y.csv, 3.51162746992593 days old.
-2025-01-09 10:16:49,278 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ejiYmpJbPrZQnsDfvVFq0UlXMh1WKBES.csv, 3.5116268549213 days old.
-2025-01-09 10:16:49,279 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Elh9nJ1N84SWOpdyPgezruQxmK6kCovc.csv, 3.51162745836343 days old.
-2025-01-09 10:16:49,279 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\EnSThzaw4qpQdlUNM92tPVyvHKk6grbx.csv, 3.51162744678009 days old.
-2025-01-09 10:16:49,279 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\erVtSLqQZvjAyYTzFhP0GO6W2X3nRf91.csv, 3.51162684328472 days old.
-2025-01-09 10:16:49,280 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\EW9GgCIoxaZ6jmAJRUYudwy7czXnif1p.csv, 3.51162745836343 days old.
-2025-01-09 10:16:49,281 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\FdLHJRbNq8plBThtIQMXmA1cvSorGsUP.csv, 3.5116274120544 days old.
-2025-01-09 10:16:49,282 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\FKRYmkziWUcwVJZ5jtX9701lnqCPEHaL.csv, 3.51162742345486 days old.
-2025-01-09 10:16:49,282 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\gOzA2sUPxX6LaGZ13RMvyCYWpjf0Jwcm.csv, 3.51162683177431 days old.
-2025-01-09 10:16:49,284 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\GqWkZCSBYsO5ay2mFJ8n0bRowhgtQAu3.csv, 3.5116274004838 days old.
-2025-01-09 10:16:49,286 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\gYF8tSdmBosub50JE1RPaZ3VzCAGx4HK.csv, 3.51162682019907 days old.
-2025-01-09 10:16:49,287 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\hBAcQeG45g38oprHZwLq6FExOmSJDjuI.csv, 3.51162682019907 days old.
-2025-01-09 10:16:49,288 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\i6LpWVoJrBdQR8ueGgtb5c1Z437q0Ehy.csv, 3.51162680863194 days old.
-2025-01-09 10:16:49,289 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\i8LsxlyIS9DmUd4aoR3krjApYcuCneEb.csv, 3.51162679705324 days old.
-2025-01-09 10:16:49,290 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\IK9JolLPTg6HDi1QN5t3bwuFxjkCh2Sq.csv, 3.51162738889699 days old.
-2025-01-09 10:16:49,291 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ITVf2ocshweER1XN4iOLxF7j6mDvG3k5.csv, 3.5116273657662 days old.
-2025-01-09 10:16:49,291 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Iwfl5a1RQVpLCBMHjbtGvUr4TxsJo7XY.csv, 3.5116273657662 days old.
-2025-01-09 10:16:49,292 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ixoVyn4hwAD96WF2kUBSbYmXJg8NtrPZ.csv, 3.51162678544329 days old.
-2025-01-09 10:16:49,293 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\JFNlwxTWM8vonthCOfaQ0y4gZHm93XGE.csv, 3.51162735418171 days old.
-2025-01-09 10:16:49,293 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\jtPBVdMZblWq8xiv02s1RDpEXuGYN45y.csv, 3.51162677389236 days old.
-2025-01-09 10:16:49,294 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\jVQeTOAdw5RUaXSB74WrE2MNbHghflDo.csv, 3.51162677389236 days old.
-2025-01-09 10:16:49,294 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\k4KY9lvZqJFbOeuIhzcGP0XC7NxiUWfy.csv, 3.51162676233565 days old.
-2025-01-09 10:16:49,295 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\KB0aCkhZR6DncmQxY1WotNMebLfpjy8i.csv, 3.51162734258333 days old.
-2025-01-09 10:16:49,295 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ki5zRLBylJT0FpZ27NY39xuQSv4AtcVs.csv, 3.51162672762153 days old.
-2025-01-09 10:16:49,296 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\KPx5vmAn4pfS6XwQeL21tqc3Jlry9BUu.csv, 3.51162733103356 days old.
-2025-01-09 10:16:49,296 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\KXMefj9zYxa8lJ5mEHtW7dDLOqwUTvuy.csv, 3.51162731947222 days old.
-2025-01-09 10:16:49,297 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\L1DVgqxdCQmbBNO78MUySalhTtnscj3p.csv, 3.51162730776852 days old.
-2025-01-09 10:16:49,297 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\l53Vwb4LxnPF7hv2A0Nyj1UdtW8GQ6kg.csv, 3.51162671603356 days old.
-2025-01-09 10:16:49,298 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\lcQC6D8SOU75hzmIWyat9LGKFNYBfHoj.csv, 3.5116266928831 days old.
-2025-01-09 10:16:49,298 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LCyb5AQFVjo479zEI2tHhT1qdZGkwM0S.csv, 3.5116272963125 days old.
-2025-01-09 10:16:49,299 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LK6mjVv3YsEZnWeDufTtld0wNU7JkBrg.csv, 3.51162728467477 days old.
-2025-01-09 10:16:49,299 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\lkmS2sAQBErqINnCcoFYRax7p6fOW9yV.csv, 3.51162668130787 days old.
-2025-01-09 10:16:49,302 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Lq2Nos1ePvOjVnQmCEGXcihARKdkSWTl.csv, 3.51162725001273 days old.
-2025-01-09 10:16:49,303 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LSkmxl0TJo9quhzp1FdIs8vcZPKN3j52.csv, 3.51162727317708 days old.
-2025-01-09 10:16:49,303 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\lSQkYUtv3eAy6ojqVDJEX2hTLwOKNu5m.csv, 3.51162670445718 days old.
-2025-01-09 10:16:49,304 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LUOeTv67gCEdfKQrkhFnVjZRyqlaXbox.csv, 3.51162726158565 days old.
-2025-01-09 10:16:49,305 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\LvuHibA6R9gokaP5VT1E7pZexjrfOhwY.csv, 3.51162723843519 days old.
-2025-01-09 10:16:49,306 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\M4L0Iz39TBPwy8ONGWgQl2Yo6ktahiEf.csv, 3.51162722685301 days old.
-2025-01-09 10:16:49,307 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\maqYRSPOHUC7frkJ8Xigc1QVvA4h3oBE.csv, 3.51162666974306 days old.
-2025-01-09 10:16:49,307 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\MLuwDzfxhECNFVROl5PY72kA6dcv04BT.csv, 3.51162721528819 days old.
-2025-01-09 10:16:49,308 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\MmNkavdBYG8cXJ26KsPpjEu0OqI1xlLD.csv, 3.51162720371181 days old.
-2025-01-09 10:16:49,308 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\My7nwUzdW3FlsQvSRPkpbHgc4O2XN5q8.csv, 3.51162719215972 days old.
-2025-01-09 10:16:49,309 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\n9iuoblDOQqI6Vw1tUFW7aZcvx8AKRry.csv, 3.51162665815741 days old.
-2025-01-09 10:16:49,309 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\NKGp5ZOEdkXjWJ3QuB1h7PrHzsSwMCxV.csv, 3.51162718056829 days old.
-2025-01-09 10:16:49,310 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\NmwWSHlIacRTdYq15gfJnj8uxCVXzD67.csv, 3.51162716898611 days old.
-2025-01-09 10:16:49,310 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\OMonbjzqI0YlhFHgcD5i4RAmWByQxUPC.csv, 3.51162715743287 days old.
-2025-01-09 10:16:49,310 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\OTvHr43XmI92lP1b8NxsYpZEKq5WBuht.csv, 3.51162714585764 days old.
-2025-01-09 10:16:49,311 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\pJgy9KitBx0fYmS671LQqAnGIDOVZT8l.csv, 3.51162664658565 days old.
-2025-01-09 10:16:49,311 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\PX8EFsBzhk20beROQv7wUidNS43fury5.csv, 3.51162713428472 days old.
-2025-01-09 10:16:49,312 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Q2LR1DlwMhmaBFH9XJ4Ei6z5dcux8kGo.csv, 3.51162713428472 days old.
-2025-01-09 10:16:49,313 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\q4TJO6pl9Udk0ogZnWvVcPGD2zSYCrR3.csv, 3.51162664658565 days old.
-2025-01-09 10:16:49,313 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\qL9xDYUjt72ANwhVOZCd54MzKvmlfTcE.csv, 3.5116266350162 days old.
-2025-01-09 10:16:49,313 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\QNkaVi5tb9T8n0DwHrscCj6FOgIS3f1x.csv, 3.51162712270949 days old.
-2025-01-09 10:16:49,314 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\qX2y5oTOg1iQjIF7Sdr0wC4KJ9kpzUMb.csv, 3.51162662344676 days old.
-2025-01-09 10:16:49,315 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\rBYcDo93KH4CUltF6hyTsznvMwZJfWme.csv, 3.51162661187384 days old.
-2025-01-09 10:16:49,315 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\RICF06vAcunUdMrPqOgLBWz1te7fSGs8.csv, 3.51162711113773 days old.
-2025-01-09 10:16:49,316 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\rjbmhnNCIcKsy0EvXMoVzHFftLG32ZPw.csv, 3.51162658871643 days old.
-2025-01-09 10:16:49,317 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\RviwAISLlCHV8KnNmqsTOzXgu369p1Ye.csv, 3.51162708798032 days old.
-2025-01-09 10:16:49,319 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\rxyNih039mpXwUGLvt4FKESnfaIsQO1o.csv, 3.51162657714352 days old.
-2025-01-09 10:16:49,320 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\S0u1wlFeGfXtpb8giI9xMdKZhQj5NoPy.csv, 3.51162707641667 days old.
-2025-01-09 10:16:49,321 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\S4qDIHi8Lzl6tZPyUmRwNsbW3V0EhArM.csv, 3.51162706484144 days old.
-2025-01-09 10:16:49,322 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\sXiWwPfUFbcCr6Gq4NokmOVe0RZuAY3T.csv, 3.51162656556481 days old.
-2025-01-09 10:16:49,324 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\SZiGYJzMEcvRWIKNCL62QAksbw4XPpnr.csv, 3.5116270532662 days old.
-2025-01-09 10:16:49,324 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\T4eH5AyUCDKqz8vbBVSljg3natiEfNIw.csv, 3.51162704168981 days old.
-2025-01-09 10:16:49,325 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ThMRk3lUN0S9v2Xtof5rdDVGH4YxzL1F.csv, 3.51162704168981 days old.
-2025-01-09 10:16:49,325 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\trcjUMqhADyIae2xO04PJBluQZvVGwFs.csv, 3.51162656556481 days old.
-2025-01-09 10:16:49,326 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\U2l0vcpP3y4nY8H6NXZqbfS9ojW1mGdF.csv, 3.51162703011921 days old.
-2025-01-09 10:16:49,326 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\uhWc0agdxwJUzsDvTA8pKMNOoXG54Bn9.csv, 3.51162654240278 days old.
-2025-01-09 10:16:49,327 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Uj6GglSCuHer81N7OYIRmJVt3FxDbW5v.csv, 3.51162701853125 days old.
-2025-01-09 10:16:49,327 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\ul2Vy7GPaqoMQFHdSzIv1LAhXYRZN5TK.csv, 3.51162653083218 days old.
-2025-01-09 10:16:49,328 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\uNUXpzl0EhdwYtKmIcFxC8egP1nDZM4S.csv, 3.5116265539919 days old.
-2025-01-09 10:16:49,328 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\VBral0bEPC7K5URDp8w1MN4nu6hWO39d.csv, 3.51162700682755 days old.
-2025-01-09 10:16:49,329 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\WbUEhZtCoAfj09RT51lSXpmciuy4sKMv.csv, 3.51162698382639 days old.
-2025-01-09 10:16:49,329 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\WDGkBRLQoAyihVuf3teKTUY9OFcJ15SX.csv, 3.51162699538426 days old.
-2025-01-09 10:16:49,329 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\wR0Uh8nA3eqKPIFXpZ5lGb9Wkfxs6QN1.csv, 3.51162651924769 days old.
-2025-01-09 10:16:49,329 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Xpcz1IjGQd9JOkoEwtL2vCDrqaMFguV6.csv, 3.51162697065972 days old.
-2025-01-09 10:16:49,330 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Xy623FOhJwfYz5is1oKDcWk4VvaBnSLN.csv, 3.51162697065972 days old.
-2025-01-09 10:16:49,330 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Y6q2SIFM4iDWu9ZVNE73LOkPTepaCg0s.csv, 3.51162695909491 days old.
-2025-01-09 10:16:49,331 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\yCPap4XFtifL9voAuDwExeBUIRr0bq6Q.csv, 3.51162650754514 days old.
-2025-01-09 10:16:49,331 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\yqkFxZKwzhvGIsSOmB3Q1LniCEN5ap0e.csv, 3.511626496125 days old.
-2025-01-09 10:16:49,332 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\Zf9vka3YHUhVNu0MQrEl8dRX6451iKIg.csv, 3.51162694749306 days old.
-2025-01-09 10:16:49,332 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\zHyNquI7emlU5RLExDXYF3SboPpwhOsZ.csv, 3.51162648455903 days old.
-2025-01-09 10:16:49,333 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\deleted\sc\znAktgCdLRBND24hQPcy0mUG7eXEo5YT.csv, 3.51162648455903 days old.
-2025-01-09 10:16:49,336 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\2HX1uvncxmEPjROt68ed5UYJL9h04bKW.csv, 3.51162646140856 days old.
-2025-01-09 10:16:49,337 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\3A8LTXUVGMds7WEiwFhJrvDKI6zPna4b.csv, 3.51162644983102 days old.
-2025-01-09 10:16:49,338 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\56oU1remGT9XO8VHqShtix27nYwgFsZR.csv, 3.51162643813194 days old.
-2025-01-09 10:16:49,339 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\7TSdUoRhpMjQGaPbqO1zFZ3krKLnsgcm.csv, 3.51162642668981 days old.
-2025-01-09 10:16:49,340 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\7uxMfQKpb20otCUVmZD1alhWzwE8XLye.csv, 3.51162640341319 days old.
-2025-01-09 10:16:49,341 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\8a9Igv0JjdomESyHrXbKBF6w2NpM1xOC.csv, 3.51162639195139 days old.
-2025-01-09 10:16:49,341 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\arkEdwUXp6TlumxKgRA7JN2P40YFVftD.csv, 3.51162624148727 days old.
-2025-01-09 10:16:49,341 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\CyXFdjLEpStgZDuPv6c7rVHIQaNxinl0.csv, 3.51162636880556 days old.
-2025-01-09 10:16:49,342 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\Egr87Ityb3LwBDV1dp2FZc5O4TnN6h9C.csv, 3.51162635723843 days old.
-2025-01-09 10:16:49,342 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\Gtf4O0lyzsKxWbRu8PcqMNTD9UjZEedL.csv, 3.51162634567477 days old.
-2025-01-09 10:16:49,343 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\iBGTt3AKILUojf678cEZRzl95ksumrvp.csv, 3.51162621833681 days old.
-2025-01-09 10:16:49,343 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\jHzE1rKvs4e6LPiXGAl0a9pcnuykWtfB.csv, 3.51162620676389 days old.
-2025-01-09 10:16:49,344 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\kocgYWFmQwJhqL81uUIeBpTtdPAr7vfG.csv, 3.51162619519213 days old.
-2025-01-09 10:16:49,344 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\kzvaPxeHSEoCGgQY6dJhKL85bRVXUipZ.csv, 3.51162617183681 days old.
-2025-01-09 10:16:49,344 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\LB06b3IS7MRJ1Ntl4h8Up2uz9eignrKW.csv, 3.51162633408912 days old.
-2025-01-09 10:16:49,345 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\pJbgljq4odI6NUDcZQsPfrGCaAOktH8z.csv, 3.51162617183681 days old.
-2025-01-09 10:16:49,345 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\QlI6P1z8AYg24da9MbucCTRk0xqJE7ow.csv, 3.51162631094329 days old.
-2025-01-09 10:16:49,346 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\QYWTU764mPREAspo5JaNti0eISgDkw8u.csv, 3.51162632250694 days old.
-2025-01-09 10:16:49,346 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\REtS3ZFpV1QgBKwPy5XsO60mGjWuxLzk.csv, 3.51162631094329 days old.
-2025-01-09 10:16:49,346 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\rgJTsN3ZGvm8AfMKY5iu0Ry7CWIwxVOU.csv, 3.51162614890162 days old.
-2025-01-09 10:16:49,347 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\TURlrkN0P6Oj8xhuJBmWD7I4Mc9ZyeKp.csv, 3.51162629936458 days old.
-2025-01-09 10:16:49,347 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\tZoacmJGiFhsKO2Xx5WU34q1QTu0nESY.csv, 3.51162613732986 days old.
-2025-01-09 10:16:49,348 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\v8bMl9z3T26yVa5tU0GASNdFn4JIqgxE.csv, 3.51162612574074 days old.
-2025-01-09 10:16:49,349 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\WO5pCIvVaS2Yum9TtQPwhAgMFKlxHGbd.csv, 3.51162628780093 days old.
-2025-01-09 10:16:49,349 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\WpLFhnRe18NPA4wOmgMTZHb6t2sK9I7k.csv, 3.51162627621875 days old.
-2025-01-09 10:16:49,351 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\x9RhzXgbF5BtNTcVr2QPmvUZSfG18DOH.csv, 3.51162611407986 days old.
-2025-01-09 10:16:49,353 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\yMphAgYsu4VbzlKTBOG01qc2PLQkDw8e.csv, 3.51162610259954 days old.
-2025-01-09 10:16:49,354 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\YXLVg2HhT5rfNJ1FSC9p0cWjtl4KIQPv.csv, 3.51162626462731 days old.
-2025-01-09 10:16:49,355 [Main] INFO [IAGrim.Services.CsvParsingService]: Deleting old file %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing\deleted\Z72SmstR4kpGN1EwWV0iYezCUvboADdL.csv, 3.51162625307639 days old.
-2025-01-09 10:16:49,396 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
-2025-01-09 10:16:50,630 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
-2025-01-09 10:16:50,634 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
-2025-01-09 10:16:50,737 [Main] INFO [EvilsoftCommons.DllInjector.RegisterWindow]: Created window with hwnd 656600
-2025-01-09 10:16:50,741 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Generating the path to the IA DLL...
-2025-01-09 10:16:50,838 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
-2025-01-09 10:16:51,680 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
-2025-01-09 10:16:52,224 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
-2025-01-09 10:16:52,224 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
-2025-01-09 10:16:55,575 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
-2025-01-09 10:16:58,655 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
-2025-01-09 10:16:58,757 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
-2025-01-09 10:16:58,757 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
-2025-01-09 10:16:58,757 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
-2025-01-09 10:16:58,757 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
-2025-01-09 10:16:58,757 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
-2025-01-09 10:16:58,757 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
-2025-01-09 10:16:58,758 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
-2025-01-09 10:16:58,758 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
-2025-01-09 10:16:58,759 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
-2025-01-09 10:17:02,676 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
-2025-01-09 10:17:04,823 [BackupServiceWorker] WARN [IAGrim.Backup.Cloud.Service.CloudSyncService]: One or more errors occurred.
+2025-01-11 09:45:17,675 [Main] INFO [SessionFactory]: Database connection established.
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: There are 1599 items stored in the database.
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: Transfer to any mod is disabled
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: Experimental updates is disabled
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: Running as administrator
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: Running in regular mode, stash files ignored
+2025-01-11 09:45:17,675 [Main] INFO [IAGrim.StartupService]: There are items stored for the following mods:
+2025-01-11 09:45:17,753 [Main] INFO [IAGrim.StartupService]: Mod: "", HC: False
+2025-01-11 09:45:17,753 [Main] INFO [IAGrim.StartupService]: The path to Grim Dawn is "c:\games\grim dawn"
+2025-01-11 09:45:17,753 [Main] INFO [IAGrim.StartupService]: Using IA on multiple PCs: False
+2025-01-11 09:45:17,753 [Main] INFO [IAGrim.StartupService]: Logged into online backups: True
+2025-01-11 09:45:17,753 [Main] INFO [IAGrim.StartupService]: Opted out of online backups: False
+2025-01-11 09:45:17,800 [Main] INFO [IAGrim.StartupService]: The Grim Dawn database has been parsed
+2025-01-11 09:45:17,800 [Main] INFO [IAGrim.StartupService]: Startup data dump complete
+2025-01-11 09:45:18,253 [Main] INFO [IAGrim.Program]: Checking for database updates..
+2025-01-11 09:45:18,362 [Main] INFO [IAGrim.Program]: Running the main application..
+2025-01-11 09:45:18,487 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Creating Chromium instance..
+2025-01-11 09:45:19,190 [Main] INFO [IAGrim.UI.Misc.CEF.CefBrowserHandler]: Chromium created..
+2025-01-11 09:45:19,190 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-11 09:45:19,550 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-11 09:45:20,190 [Main] INFO [EvilsoftCommons.Cloud.CloudWatcher]: OneDrive install location located using registry key
+2025-01-11 09:45:20,853 [BuddyBackground] INFO [IAGrim.BuddyShare.BuddyItemsService]: Fetching own buddy ID from cloud..
+2025-01-11 09:45:21,948 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
+2025-01-11 09:45:22,070 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
+2025-01-11 09:45:22,420 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
+2025-01-11 09:45:22,470 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up characters..
+2025-01-11 09:45:22,536 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up items..
+2025-01-11 09:45:22,770 [Backup] INFO [IAGrim.Utilities.Cloud.FileBackup]: Created a new backup of the database
+2025-01-11 09:45:25,238 [Main] WARN [IAGrim.Backup.Cloud.Service.AuthService]: One or more errors occurred.
 System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
    --- End of inner exception stack trace ---
    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
    at System.Threading.Tasks.Task`1.get_Result()
-   at IAGrim.Utilities.HelperClasses.RestService.Post(String url, String json)
-   at IAGrim.Backup.Cloud.Service.CloudSyncService.Delete(List`1 items)
+   at IAGrim.Backup.Cloud.Service.AuthService.IsTokenValid(String user, String token)
 ---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
 
-2025-01-09 10:17:04,830 [BackupServiceWorker] WARN [IAGrim.Backup.Cloud.Service.BackupService]: Got an error while removing remote items
-2025-01-09 10:17:04,863 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.BackupService]: Synchronizing batch with 100 items to cloud
-2025-01-09 10:17:05,828 [20] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\T1XGyVbis2e9D0AkWUPKY6NhCEfJBloZ.json for item stats
-2025-01-09 10:17:06,437 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
-2025-01-09 10:17:09,484 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 1704
-2025-01-09 10:17:09,893 [BackupServiceWorker] WARN [IAGrim.Backup.Cloud.Service.BackupService]: One or more errors occurred.
+2025-01-11 09:45:25,267 [Main] INFO [IAGrim.Utilities.Detection.SteamDetection]: Steam config location located
+2025-01-11 09:45:25,267 [Main] INFO [IAGrim.GrimDawnDetector]: Found GOG Grim Dawn at C:\Games\Grim Dawn
+2025-01-11 09:45:25,317 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\itemqueue\ingoing
+2025-01-11 09:45:25,317 [Main] INFO [IAGrim.Services.CsvFileMonitor]: Monitoring at: %LocalAppData%\EvilSoft\IAGD\replica\to_ia
+2025-01-11 09:45:25,351 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-11 09:45:25,867 [BuddyBackground] WARN [IAGrim.Backup.Cloud.Service.AuthService]: One or more errors occurred.
 System.AggregateException: One or more errors occurred. ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
    --- End of inner exception stack trace ---
    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
    at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
    at System.Threading.Tasks.Task`1.get_Result()
-   at IAGrim.Utilities.HelperClasses.RestService.Post(String url, String json)
-   at IAGrim.Backup.Cloud.Service.BackupService.SyncUp()
+   at IAGrim.Backup.Cloud.Service.AuthService.IsTokenValid(String user, String token)
 ---> (Inner Exception #0) System.Threading.Tasks.TaskCanceledException: A task was canceled.<---
 
-2025-01-09 10:23:13,676 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Backup up character _Deea Soldier to the cloud
-2025-01-09 10:23:13,680 [BackupServiceWorker] INFO [IAGrim.Utilities.Cloud.FileBackup]: Backing up character _Deea Soldier..
-2025-01-09 10:23:18,382 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character _Deea Soldier successfully backed up to the cloud
-2025-01-09 10:23:18,382 [BackupServiceWorker] INFO [IAGrim.Backup.Cloud.Service.CharacterBackupService]: Character sync complete, updating character sync timestamp
+2025-01-11 09:45:26,266 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-11 09:45:26,266 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-11 09:45:26,300 [Main] INFO [EvilsoftCommons.DllInjector.RegisterWindow]: Created window with hwnd 328372
+2025-01-11 09:45:26,317 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Generating the path to the IA DLL...
+2025-01-11 09:45:26,463 [Main] INFO [IAGrim.UI.Controller.SearchController]: Searching for items..
+2025-01-11 09:45:27,225 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Updating UI...
+2025-01-11 09:45:27,225 [Main] INFO [IAGrim.UI.Tabs.SplitSearchWindow]: Done
+2025-01-11 09:45:36,827 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-11 09:45:39,129 [5] FATAL[EvilsoftCommons.Exceptions.ExceptionReporter]: Unable to connect to the remote server
+2025-01-11 09:45:39,136 [5] FATAL[EvilsoftCommons.Exceptions.ExceptionReporter]:    at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at EvilsoftCommons.Exceptions.ExceptionReporter.ReportUsage()
+2025-01-11 09:45:40,453 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:45:43,529 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-11 09:45:43,595 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-11 09:45:43,601 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-11 09:45:43,602 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:45:46,678 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-11 09:45:47,589 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-11 09:45:51,359 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:45:54,489 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-11 09:45:54,598 [Main] INFO [IAGrim.Services.MessageProcessor.InjectionAbortedProcessor]: GD Reports that the injection was aborted, still in the menu.
+2025-01-11 09:45:54,608 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-11 09:45:54,608 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:45:57,648 [InjectionHelper] ERROR[DllInjector.InjectionHelper]: Error injecting DLL into Grim Dawn.
+2025-01-11 09:45:58,541 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-11 09:46:02,240 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:46:05,276 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Running DllInjector64.exe...
+2025-01-11 09:46:05,368 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "11"
+2025-01-11 09:46:05,368 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-11 09:46:05,368 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "12"
+2025-01-11 09:46:05,368 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-11 09:46:05,369 [Main] ERROR[IAGrim.Services.MessageProcessor.GenericErrorHandler]: Error Hooking method "13"
+2025-01-11 09:46:05,369 [Main] INFO [IAGrim.Services.MessageProcessor.GenericErrorHandler]: If you are using the GOG version, this is normal.
+2025-01-11 09:46:05,369 [InjectionHelper] INFO [DllInjector.InjectionHelper]: Injection reported as successful.. (may or may not have loaded)
+2025-01-11 09:46:05,370 [Main] INFO [IAGrim.UI.MainWindow]: Grim Dawn hook reports successful launch.
+2025-01-11 09:46:05,370 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:46:09,318 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running dumpbin...
+2025-01-11 09:46:13,013 [InjectionHelper] INFO [EvilsoftCommons.DllInjector.InjectionVerifier]: Running Listdlls...
+2025-01-11 09:46:16,044 [InjectionHelper] INFO [DllInjector.InjectionHelper]: DLL already injected into target process, skipping injection into 13044
+2025-01-11 09:54:14,274 [15] INFO [IAGrim.UI.Misc.CEF.UserFeedbackService]: Feedback Item teleported from GD
+2025-01-11 09:54:18,973 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:18,973 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:19,973 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:19,973 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:20,963 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:20,963 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:21,514 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\L2mpyWuZeBU18Aa7PJKVxbSzshifdcOw.json for item stats
+2025-01-11 09:54:21,880 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:21,881 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:22,834 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:22,834 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:23,453 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\GyB8S6LUHxcTeVhRwpnu7rdJMZ9IaYD4.json for item stats
+2025-01-11 09:54:23,824 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:23,824 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:24,758 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:24,758 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:25,763 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:25,763 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:26,718 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 09:54:26,719 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 09:54:26,938 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\NoYdDcnhj2RuOVAG690WMbJptgSPkyf4.json for item stats
+2025-01-11 09:54:30,056 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\HN2KIUloFax0jSVvtuczbL7MByskX6Td.json for item stats
+2025-01-11 10:04:44,420 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:44,421 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:45,377 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:45,377 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:45,863 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\nXeARDwliVUfOqCca6KEdJI5h32tkT9G.json for item stats
+2025-01-11 10:04:46,378 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:46,379 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:47,521 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:47,521 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:48,539 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:48,539 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:48,944 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\iY96xBFSTCOjgpLGD54PWVUtkw3RKIyZ.json for item stats
+2025-01-11 10:04:49,521 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:04:49,521 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:04:50,540 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\rG1SvlFnh56dJQfT0wLtKZ93WiOasxMk.json for item stats
+2025-01-11 10:13:14,761 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:13:14,761 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:13:15,686 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:13:15,686 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:13:16,585 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\MqkOjQDbrniP68dhsv5TpL7V4Ee3tHU2.json for item stats
+2025-01-11 10:13:16,639 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored 1 player items to database.
+2025-01-11 10:13:16,639 [SQL] INFO [IAGrim.Database.Interfaces.IPlayerItemDao]: Stored player item to database.
+2025-01-11 10:13:19,723 [22] INFO [IAGrim.Services.ItemReplica.ItemReplicaParser]: Parsing file %LocalAppData%\EvilSoft\IAGD\replica\to_ia\UpixCyFHZG3zvInL9J8Adbkl2NfD1htE.json for item stats
